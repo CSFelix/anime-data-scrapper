@@ -1,0 +1,3218 @@
+,user_id,username,anime_id,anime_title,score
+0,1,Xinil,21,One Piece,9
+1,1,Xinil,48,.hack//Sign,7
+2,1,Xinil,320,A Kite,5
+3,1,Xinil,49,Aa! Megami-sama!,8
+4,1,Xinil,304,Aa! Megami-sama! Movie,8
+5,1,Xinil,306,Abenobashi Mahou☆Shoutengai,8
+6,1,Xinil,53,Ai Yori Aoshi,7
+7,1,Xinil,47,Akira,5
+8,1,Xinil,591,Amaenaide yo!!,6
+9,1,Xinil,54,Appleseed (Movie),7
+10,1,Xinil,55,Arc the Lad,5
+11,1,Xinil,56,Avenger,6
+12,1,Xinil,57,Beck,9
+13,1,Xinil,368,Bible Black,5
+14,1,Xinil,68,Black Cat (TV),7
+15,1,Xinil,889,Black Lagoon,9
+16,1,Xinil,1519,Black Lagoon: The Second Barrage,7
+17,1,Xinil,58,Blue Gender,8
+18,1,Xinil,1222,Bokura ga Ita,7
+19,1,Xinil,458,Buttobi!! CPU,4
+20,1,Xinil,406,Buzzer Beater,6
+21,1,Xinil,1689,Byousoku 5 Centimeter,8
+22,1,Xinil,59,Chobits,9
+23,1,Xinil,1780,Choukou Tenshi Escalayer,5
+24,1,Xinil,60,Chrno Crusade,8
+25,1,Xinil,1818,Claymore,8
+26,1,Xinil,1575,Code Geass: Hangyaku no Lelouch,8
+27,1,Xinil,841,Colorful,6
+28,1,Xinil,289,Comic Party,5
+29,1,Xinil,1,Cowboy Bebop,10
+30,1,Xinil,5,Cowboy Bebop: Tengoku no Tobira,8
+31,1,Xinil,62,D.C.: Da Capo,6
+32,1,Xinil,61,D.N.Angel,8
+33,1,Xinil,2025,Darker than Black: Kuro no Keiyakusha,8
+34,1,Xinil,63,DearS,7
+35,1,Xinil,14837,Dragon Ball Z Movie 14: Kami to Kami,7
+36,1,Xinil,296,Dragon Drive,7
+37,1,Xinil,226,Elfen Lied,8
+38,1,Xinil,393,Escaflowne,9
+39,1,Xinil,356,Fate/stay night,7
+40,1,Xinil,317,Final Fantasy VII: Advent Children,7
+41,1,Xinil,1361,Final Fantasy: The Spirits Within,8
+42,1,Xinil,227,FLCL,8
+43,1,Xinil,120,Fruits Basket,9
+44,1,Xinil,71,Full Metal Panic!,9
+45,1,Xinil,73,Full Metal Panic! The Second Raid,10
+46,1,Xinil,1015,Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi,7
+47,1,Xinil,72,Full Metal Panic? Fumoffu,10
+48,1,Xinil,122,Full Moon wo Sagashite,9
+49,1,Xinil,121,Fullmetal Alchemist,9
+50,1,Xinil,382,Futari Ecchi,7
+51,1,Xinil,2890,Gake no Ue no Ponyo,8
+52,1,Xinil,239,Gankutsuou,8
+53,1,Xinil,384,Gantz,7
+54,1,Xinil,240,Genshiken,8
+55,1,Xinil,2508,Genshiken 2,7
+56,1,Xinil,1813,Genshiken OVA,8
+57,1,Xinil,132,GetBackers,8
+58,1,Xinil,1571,Ghost Hunt,8
+59,1,Xinil,476,Ginban Kaleidoscope,7
+60,1,Xinil,241,Girls Bravo: First Season,6
+61,1,Xinil,268,Golden Boy,8
+62,1,Xinil,188,Gosenzo San'e,7
+63,1,Xinil,245,Great Teacher Onizuka,9
+64,1,Xinil,133,Green Green,7
+65,1,Xinil,297,Grenadier: Hohoemi no Senshi,8
+66,1,Xinil,267,Gungrave,8
+67,1,Xinil,266,Gunparade March: Arata Naru Kougunka,7
+68,1,Xinil,16,Hachimitsu to Clover,8
+69,1,Xinil,263,Hajime no Ippo,10
+70,1,Xinil,264,Hajime no Ippo: Champion Road,9
+71,1,Xinil,265,Hajime no Ippo: Mashiba vs. Kimura,9
+72,1,Xinil,5258,Hajime no Ippo: New Challenger,8
+73,1,Xinil,403,Hanaukyou Maid-tai,4
+74,1,Xinil,318,Hand Maid May,5
+75,1,Xinil,319,Happy World!,5
+76,1,Xinil,259,Happy☆Lesson,8
+77,1,Xinil,260,Happy☆Lesson (TV),7
+78,1,Xinil,261,Happy☆Lesson Advance,8
+79,1,Xinil,262,Happy☆Lesson The Final,7
+80,1,Xinil,15809,Hataraku Maou-sama!,7
+81,1,Xinil,1030,Heisei Tanuki Gassen Ponpoko,7
+82,1,Xinil,270,Hellsing,8
+83,1,Xinil,5630,Higashi no Eden,8
+84,1,Xinil,135,Hikaru no Go,9
+85,1,Xinil,258,Hitsuji no Uta,8
+86,1,Xinil,256,Hoshi no Koe,6
+87,1,Xinil,431,Howl no Ugoku Shiro,10
+88,1,Xinil,17,Hungry Heart: Wild Striker,7
+89,1,Xinil,136,Hunter x Hunter,10
+90,1,Xinil,11061,Hunter x Hunter (2011),9
+91,1,Xinil,138,Hunter x Hunter: Greed Island,9
+92,1,Xinil,139,Hunter x Hunter: Greed Island Final,9
+93,1,Xinil,137,Hunter x Hunter: Original Video Animation,9
+94,1,Xinil,248,Ichigo 100%,6
+95,1,Xinil,637,Iketeru Futari,6
+96,1,Xinil,257,Ikkitousen,4
+97,1,Xinil,160,"Ima, Soko ni Iru Boku",9
+98,1,Xinil,185,Initial D First Stage,7
+99,1,Xinil,18,Initial D Fourth Stage,8
+100,1,Xinil,186,Initial D Second Stage,7
+101,1,Xinil,187,Initial D Third Stage,8
+102,1,Xinil,249,InuYasha,7
+103,1,Xinil,570,Jin-Rou,8
+104,1,Xinil,253,Jungle wa Itsumo Hare nochi Guu,7
+105,1,Xinil,255,Jungle wa Itsumo Hare nochi Guu Final,6
+106,1,Xinil,153,Juuni Kokuki,9
+107,1,Xinil,144,Kanon,5
+108,1,Xinil,33,Kenpuu Denki Berserk,9
+109,1,Xinil,218,Kidou Senkan Nadesico,7
+110,1,Xinil,219,Kidou Senkan Nadesico: The Prince of Darkness,8
+111,1,Xinil,93,Kidou Senshi Gundam SEED,8
+112,1,Xinil,52,Kidou Tenshi Angelic Layer,7
+113,1,Xinil,147,Kimi ga Nozomu Eien,7
+114,1,Xinil,32281,Kimi no Na wa.,9
+115,1,Xinil,2927,KimiKiss Pure Rouge,8
+116,1,Xinil,486,Kino no Tabi: The Beautiful World,9
+117,1,Xinil,146,Kono Minikuku mo Utsukushii Sekai,7
+118,1,Xinil,412,Kore ga Watashi no Goshujinsama,7
+119,1,Xinil,43,Koukaku Kidoutai,8
+120,1,Xinil,433,"Kumo no Mukou, Yakusoku no Basho",8
+121,1,Xinil,416,Kurenai no Buta,9
+122,1,Xinil,220,Kuro no Danshou,7
+123,1,Xinil,97,Last Exile,8
+124,1,Xinil,207,Lodoss-tou Senki,7
+125,1,Xinil,189,Love Hina,8
+126,1,Xinil,190,Love Hina Again,8
+127,1,Xinil,191,Love Hina Christmas Special: Silent Eve,7
+128,1,Xinil,192,Love Hina Haru Special: Kimi Sakura Chiru Nakare!!,7
+129,1,Xinil,2034,Lovely★Complex,8
+130,1,Xinil,193,Maburaho,7
+131,1,Xinil,194,Macross Zero,8
+132,1,Xinil,576,Magikano,6
+133,1,Xinil,276,Mahoromatic: Automatic Maiden,7
+134,1,Xinil,627,Major S1,9
+135,1,Xinil,558,Major S2,8
+136,1,Xinil,1842,Major S3,6
+137,1,Xinil,361,Memories Off,6
+138,1,Xinil,221,Mezzo Forte,5
+139,1,Xinil,330,Midori no Hibi,7
+140,1,Xinil,585,Mimi wo Sumaseba,9
+141,1,Xinil,164,Mononoke Hime,9
+142,1,Xinil,19,Monster,9
+143,1,Xinil,3001,Moyashimon,8
+144,1,Xinil,457,Mushishi,9
+145,1,Xinil,316,Nageki no Kenkou Yuuryouji,3
+146,1,Xinil,877,Nana,8
+147,1,Xinil,20,Naruto,7
+148,1,Xinil,936,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,7
+149,1,Xinil,1735,Naruto: Shippuuden,7
+150,1,Xinil,622,Natsu-iro no Sunadokei,6
+151,1,Xinil,597,Neko no Ongaeshi,7
+152,1,Xinil,30,Neon Genesis Evangelion,10
+153,1,Xinil,31,Neon Genesis Evangelion: Death & Rebirth,9
+154,1,Xinil,32,Neon Genesis Evangelion: The End of Evangelion,9
+155,1,Xinil,1210,NHK ni Youkoso!,8
+156,1,Xinil,1698,Nodame Cantabile,10
+157,1,Xinil,30276,One Punch Man,8
+158,1,Xinil,195,Onegai☆Teacher,8
+159,1,Xinil,196,Onegai☆Twins,8
+160,1,Xinil,12355,Ookami Kodomo no Ame to Yuki,8
+161,1,Xinil,2966,Ookami to Koushinryou,8
+162,1,Xinil,2159,Ookiku Furikabutte,8
+163,1,Xinil,853,Ouran Koukou Host Club,9
+164,1,Xinil,2112,Over Drive,7
+165,1,Xinil,1943,Paprika,7
+166,1,Xinil,322,Paradise Kiss,8
+167,1,Xinil,161,Peace Maker Kurogane,8
+168,1,Xinil,213,Pia Carrot e Youkoso!!,4
+169,1,Xinil,214,Pia Carrot e Youkoso!! 2,3
+170,1,Xinil,215,Pia Carrot e Youkoso!! 2 DX,5
+171,1,Xinil,329,Planetes,9
+172,1,Xinil,212,Project A-Ko,4
+173,1,Xinil,211,Pure Mail,7
+174,1,Xinil,208,R.O.D: Read or Die,8
+175,1,Xinil,165,RahXephon,8
+176,1,Xinil,210,Ranma ½,7
+177,1,Xinil,710,Rec,8
+178,1,Xinil,917,Riding Bean,7
+179,1,Xinil,197,Rizelmine,5
+180,1,Xinil,45,Rurouni Kenshin: Meiji Kenkaku Romantan,8
+181,1,Xinil,46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,8
+182,1,Xinil,401,Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen,8
+183,1,Xinil,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,10
+184,1,Xinil,168,s.CRY.ed,7
+185,1,Xinil,205,Samurai Champloo,9
+186,1,Xinil,2476,School Days,6
+187,1,Xinil,24,School Rumble,9
+188,1,Xinil,517,School Rumble: Ichi Gakki Hoshuu,8
+189,1,Xinil,167,Scrapped Princess,8
+190,1,Xinil,400,Seihou Bukyou Outlaw Star,7
+191,1,Xinil,290,Seikai no Monshou,8
+192,1,Xinil,1827,Seirei no Moribito,9
+193,1,Xinil,199,Sen to Chihiro no Kamikakushi,10
+194,1,Xinil,2104,Seto no Hanayome,8
+195,1,Xinil,1559,Shijou Saikyou no Deshi Kenichi,9
+196,1,Xinil,217,Shin Angel,7
+197,1,Xinil,90,Shin Kidou Senki Gundam Wing,6
+198,1,Xinil,16498,Shingeki no Kyojin,9
+199,1,Xinil,25777,Shingeki no Kyojin Season 2,8
+200,1,Xinil,169,Shingetsutan Tsukihime,8
+201,1,Xinil,170,Slam Dunk,7
+202,1,Xinil,478,Sousei no Aquarion,7
+203,1,Xinil,198,Speed Grapher,9
+204,1,Xinil,565,Steamboy,8
+205,1,Xinil,25,Sunabouzu,8
+206,1,Xinil,390,Suzuka,7
+207,1,Xinil,849,Suzumiya Haruhi no Yuuutsu,10
+208,1,Xinil,2001,Tengen Toppa Gurren Lagann,8
+209,1,Xinil,174,Tenjou Tenge,6
+210,1,Xinil,182,Tenkuu no Escaflowne,9
+211,1,Xinil,51,Tenshi Kinryouku,7
+212,1,Xinil,200,Tenshi na Konamaiki,7
+213,1,Xinil,16870,The Last: Naruto the Movie,7
+214,1,Xinil,2236,Toki wo Kakeru Shoujo,9
+215,1,Xinil,916,Tokkou,7
+216,1,Xinil,523,Tonari no Totoro,8
+217,1,Xinil,415,Tonari no Yamada-kun,7
+218,1,Xinil,6,Trigun,10
+219,1,Xinil,10162,Usagi Drop,9
+220,1,Xinil,842,Ushio to Tora,7
+221,1,Xinil,180,Vandread,7
+222,1,Xinil,181,Vandread: The Second Stage,7
+223,1,Xinil,201,Video Girl Ai,7
+224,1,Xinil,7,Witch Hunter Robin,9
+225,1,Xinil,202,Wolf's Rain,8
+226,1,Xinil,1023,Wolf's Rain OVA,9
+227,1,Xinil,203,Words Worth,7
+228,1,Xinil,1562,Yamato Nadeshiko Shichihenge♥,7
+229,1,Xinil,204,Yumeria,6
+230,1,Xinil,392,Yuu☆Yuu☆Hakusho,8
+231,1,Xinil,269,Bleach,9
+232,1,Xinil,15,Eyeshield 21,7
+233,1,Xinil,1699,Romeo x Juliet,7
+234,1,Xinil,2605,Sayonara Zetsubou Sensei,8
+235,1,Xinil,22,Tennis no Oujisama,7
+236,1,Xinil,857,Air Gear,6
+237,1,Xinil,281,Akane Maniax,5
+238,1,Xinil,66,Azumanga Daiou The Animation,6
+239,1,Xinil,3407,Blassreiter,5
+240,1,Xinil,150,Blood+,7
+241,1,Xinil,8,Bouken Ou Beet,6
+242,1,Xinil,2904,Code Geass: Hangyaku no Lelouch R2,6
+243,1,Xinil,1535,Death Note,9
+244,1,Xinil,235,Detective Conan,6
+245,1,Xinil,2795,Dragonaut: The Resonance,6
+246,1,Xinil,127,Gate Keepers,5
+247,1,Xinil,246,Groove Adventure Rave,6
+248,1,Xinil,3002,Gyakkyou Burai Kaiji: Ultimate Survivor,8
+249,1,Xinil,2026,Hayate no Gotoku!,8
+250,1,Xinil,777,Hellsing Ultimate,8
+251,1,Xinil,940,Inukami!,7
+252,1,Xinil,1530,Kanon (2006),7
+253,1,Xinil,145,Kareshi Kanojo no Jijou,5
+254,1,Xinil,1604,Katekyou Hitman Reborn!,5
+255,1,Xinil,3229,Kimi ga Aruji de Shitsuji ga Ore de,6
+256,1,Xinil,275,Love♥Love?,6
+257,1,Xinil,157,Mahou Sensei Negima!,6
+258,1,Xinil,1453,Maison Ikkoku,6
+259,1,Xinil,3226,Major S4,7
+260,1,Xinil,860,Makai Senki Disgaea,6
+261,1,Xinil,323,Mousou Dairinin,6
+262,4,Crystal,873,.hack//Roots,6
+263,4,Crystal,298,.hack//Tasogare no Udewa Densetsu,5
+264,4,Crystal,5525,07-Ghost,7
+265,4,Crystal,6682,11eyes,5
+266,4,Crystal,32601,12-sai.: Chicchana Mune no Tokimeki,6
+267,4,Crystal,33419,12-sai.: Chicchana Mune no Tokimeki 2nd Season,5
+268,4,Crystal,9776,A-Channel,6
+269,4,Crystal,49,Aa! Megami-sama!,6
+270,4,Crystal,11759,Accel World,7
+271,4,Crystal,37403,Ahiru no Sora,6
+272,4,Crystal,101,Air,8
+273,4,Crystal,102,Aishiteruze Baby★★,7
+274,4,Crystal,17082,Aiura,5
+275,4,Crystal,31580,Ajin,7
+276,4,Crystal,30123,Akagami no Shirayuki-hime,8
+277,4,Crystal,22199,Akame ga Kill!,5
+278,4,Crystal,4744,Akaneiro ni Somaru Saka,4
+279,4,Crystal,5772,Akaneiro ni Somaru Saka: Hardcore,2
+280,4,Crystal,25013,Akatsuki no Yona,7
+281,4,Crystal,12149,AKB0048,7
+282,4,Crystal,14941,AKB0048: Next Stage,7
+283,4,Crystal,47,Akira,10
+284,4,Crystal,16201,Aku no Hana,6
+285,4,Crystal,22729,Aldnoah.Zero,8
+286,4,Crystal,27655,Aldnoah.Zero Part 2,5
+287,4,Crystal,3549,Allison to Lillia,8
+288,4,Crystal,3359,Amatsuki,7
+289,4,Crystal,15085,Amnesia,3
+290,4,Crystal,6547,Angel Beats!,8
+291,4,Crystal,3829,Anne no Nikki,4
+292,4,Crystal,9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,10
+293,4,Crystal,11433,Ano Natsu de Matteru,7
+294,4,Crystal,11111,Another,8
+295,4,Crystal,24833,Ansatsu Kyoushitsu,8
+296,4,Crystal,30654,Ansatsu Kyoushitsu 2nd Season,7
+297,4,Crystal,21995,Ao Haru Ride,7
+298,4,Crystal,9919,Ao no Exorcist,7
+299,4,Crystal,33506,Ao no Exorcist: Kyoto Fujouou-hen,8
+300,4,Crystal,30205,Aoharu x Kikanjuu,4
+301,4,Crystal,18893,Aoki Hagane no Arpeggio: Ars Nova,5
+302,4,Crystal,16518,Arata Kangatari,6
+303,4,Crystal,12967,Arcana Famiglia,4
+304,4,Crystal,477,Aria the Animation,7
+305,4,Crystal,28249,Arslan Senki (TV),7
+306,4,Crystal,9736,Astarotte no Omocha!,6
+307,4,Crystal,5342,Asura Cryin',7
+308,4,Crystal,6676,Asura Cryin' 2,7
+309,4,Crystal,104,Ayashi no Ceres,6
+310,4,Crystal,2251,Baccano!,10
+311,4,Crystal,3901,Baccano! Specials,10
+312,4,Crystal,6347,Baka to Test to Shoukanjuu,7
+313,4,Crystal,28805,Bakemono no Ko,8
+314,4,Crystal,7674,Bakuman.,8
+315,4,Crystal,10030,Bakuman. 2nd Season,8
+316,4,Crystal,2986,Bamboo Blade,8
+317,4,Crystal,33573,BanG Dream!,7
+318,4,Crystal,22789,Barakamon,8
+319,4,Crystal,10396,Ben-To,8
+320,4,Crystal,13535,Binbougami ga!,8
+321,4,Crystal,20787,Black Bullet,7
+322,4,Crystal,68,Black Cat (TV),4
+323,4,Crystal,889,Black Lagoon,7
+324,4,Crystal,7059,Black★Rock Shooter (OVA),8
+325,4,Crystal,18767,BlazBlue: Alter Memory,6
+326,4,Crystal,150,Blood+,9
+327,4,Crystal,10490,Blood-C,5
+328,4,Crystal,31043,Boku dake ga Inai Machi,9
+329,4,Crystal,31964,Boku no Hero Academia,8
+330,4,Crystal,33486,Boku no Hero Academia 2nd Season,8
+331,4,Crystal,36456,Boku no Hero Academia 3rd Season,7
+332,4,Crystal,36896,Boku no Hero Academia the Movie 1: Futari no Hero,7
+333,4,Crystal,10719,Boku wa Tomodachi ga Sukunai,6
+334,4,Crystal,14967,Boku wa Tomodachi ga Sukunai Next,6
+335,4,Crystal,1222,Bokura ga Ita,7
+336,4,Crystal,159,Boukyaku no Senritsu,5
+337,4,Crystal,105,Boys Be...,6
+338,4,Crystal,6772,Break Blade Movie 1: Kakusei no Toki,7
+339,4,Crystal,8514,Break Blade Movie 2: Ketsubetsu no Michi,7
+340,4,Crystal,9252,Break Blade Movie 3: Kyoujin no Ato,7
+341,4,Crystal,9465,Break Blade Movie 4: Sanka no Chi,7
+342,4,Crystal,9724,Break Blade Movie 5: Shisen no Hate,7
+343,4,Crystal,10092,Break Blade Movie 6: Doukoku no Toride,6
+344,4,Crystal,14345,Btooom!,8
+345,4,Crystal,21437,Buddy Complex,7
+346,4,Crystal,24469,Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de,7
+347,4,Crystal,31478,Bungou Stray Dogs,7
+348,4,Crystal,32867,Bungou Stray Dogs 2nd Season,7
+349,4,Crystal,38003,Bungou Stray Dogs 3rd Season,8
+350,4,Crystal,34944,Bungou Stray Dogs: Dead Apple,7
+351,4,Crystal,33071,Bungou Stray Dogs: Hitori Ayumu,7
+352,4,Crystal,3389,Bus Gamer,5
+353,4,Crystal,1536,Busou Renkin,4
+354,4,Crystal,1689,Byousoku 5 Centimeter,8
+355,4,Crystal,10163,C: The Money of Soul and Possibility Control,5
+356,4,Crystal,12293,Campione! Matsurowanu Kamigami to Kamigoroshi no Maou,4
+357,4,Crystal,5356,Canaan,8
+358,4,Crystal,10578,C³,5
+359,4,Crystal,28999,Charlotte,7
+360,4,Crystal,32483,Cheer Danshi!!,6
+361,4,Crystal,10800,Chihayafuru,9
+362,4,Crystal,14397,Chihayafuru 2,9
+363,4,Crystal,60,Chrno Crusade,8
+364,4,Crystal,110,Chuuka Ichiban!,7
+365,4,Crystal,14741,Chuunibyou demo Koi ga Shitai!,9
+366,4,Crystal,15687,Chuunibyou demo Koi ga Shitai! Lite,8
+367,4,Crystal,18671,Chuunibyou demo Koi ga Shitai! Ren,7
+368,4,Crystal,2167,Clannad,10
+369,4,Crystal,32407,Clockwork Planet,4
+370,4,Crystal,1575,Code Geass: Hangyaku no Lelouch,8
+371,4,Crystal,2904,Code Geass: Hangyaku no Lelouch R2,8
+372,4,Crystal,11703,Code:Breaker,4
+373,4,Crystal,31456,Code:Realize - Sousei no Himegimi,7
+374,4,Crystal,31318,Comet Lucifer,4
+375,4,Crystal,9479,Coppelion,5
+376,4,Crystal,10029,Coquelicot-zaka kara,8
+377,4,Crystal,1,Cowboy Bebop,8
+378,4,Crystal,5,Cowboy Bebop: Tengoku no Tobira,8
+379,4,Crystal,25731,Cross Ange: Tenshi to Ryuu no Rondo,4
+380,4,Crystal,32370,D.Gray-man Hallow,7
+381,4,Crystal,61,D.N.Angel,6
+382,4,Crystal,12549,"Dakara Boku wa, H ga Dekinai.",5
+383,4,Crystal,34103,Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen,7
+384,4,Crystal,32189,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,7
+385,4,Crystal,33028,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,8
+386,4,Crystal,16592,Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,7
+387,4,Crystal,26349,Danna ga Nani wo Itteiru ka Wakaranai Ken,6
+388,4,Crystal,29067,Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,6
+389,4,Crystal,16355,Dansai Bunri no Crime Edge,4
+390,4,Crystal,2025,Darker than Black: Kuro no Keiyakusha,8
+391,4,Crystal,35849,Darling in the FranXX,7
+392,4,Crystal,15583,Date A Live,7
+393,4,Crystal,63,DearS,2
+394,4,Crystal,14353,Death Billiards,7
+395,4,Crystal,34497,Death March kara Hajimaru Isekai Kyousoukyoku,5
+396,4,Crystal,28223,Death Parade,7
+397,4,Crystal,8086,Densetsu no Yuusha no Densetsu,8
+398,4,Crystal,779,Detective Conan Movie 01: The Timed Skyscraper,6
+399,4,Crystal,780,Detective Conan Movie 02: The Fourteenth Target,5
+400,4,Crystal,781,Detective Conan Movie 03: The Last Wizard of the Century,7
+401,4,Crystal,16512,Devil Survivor 2 The Animation,7
+402,4,Crystal,17513,Diabolik Lovers,3
+403,4,Crystal,20919,Diabolik Lovers Recap,3
+404,4,Crystal,31163,Dimension W,5
+405,4,Crystal,31710,Divine Gate,4
+406,4,Crystal,21743,Donten ni Warau,7
+407,4,Crystal,9330,Dragon Crisis!,5
+408,4,Crystal,23333,DRAMAtical Murder,3
+409,4,Crystal,28121,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7
+410,4,Crystal,236,E's Otherwise,6
+411,4,Crystal,1189,Eden's Bowy,5
+412,4,Crystal,2924,ef: A Tale of Memories.,8
+413,4,Crystal,38671,Enen no Shouboutai,7
+414,4,Crystal,40956,Enen no Shouboutai: Ni no Shou,7
+415,4,Crystal,1250,Erementar Gerad,6
+416,4,Crystal,2759,Evangelion: 1.0 You Are (Not) Alone,9
+417,4,Crystal,3784,Evangelion: 2.0 You Can (Not) Advance,10
+418,4,Crystal,3785,Evangelion: 3.0 You Can (Not) Redo,6
+419,4,Crystal,30778,Fairy Tail Movie 2: Dragon Cry,4
+420,4,Crystal,119,Final Approach,6
+421,4,Crystal,317,Final Fantasy VII: Advent Children,4
+422,4,Crystal,8536,Fortune Arterial: Akai Yakusoku,4
+423,4,Crystal,18507,Free!,7
+424,4,Crystal,22265,Free! Eternal Summer,7
+425,4,Crystal,9367,Freezing,6
+426,4,Crystal,120,Fruits Basket,8
+427,4,Crystal,33203,Fukumenkei Noise,7
+428,4,Crystal,71,Full Metal Panic!,8
+429,4,Crystal,122,Full Moon wo Sagashite,8
+430,4,Crystal,121,Fullmetal Alchemist,9
+431,4,Crystal,5114,Fullmetal Alchemist: Brotherhood,10
+432,4,Crystal,908,Fullmetal Alchemist: Premium Collection,6
+433,4,Crystal,430,Fullmetal Alchemist: The Conqueror of Shamballa,7
+434,4,Crystal,123,Fushigi Yuugi,6
+435,4,Crystal,124,Fushigi Yuugi: Eikouden,3
+436,4,Crystal,125,Futakoi,6
+437,4,Crystal,4725,Ga-Rei: Zero,10
+438,4,Crystal,383,Galaxy Angel,5
+439,4,Crystal,19367,Galilei Donna,5
+440,4,Crystal,25183,Gangsta.,7
+441,4,Crystal,127,Gate Keepers,9
+442,4,Crystal,128,Gate Keepers 21,4
+443,4,Crystal,17651,Genei wo Kakeru Taiyou,6
+444,4,Crystal,240,Genshiken,9
+445,4,Crystal,129,Gensoumaden Saiyuuki,8
+446,4,Crystal,484,Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka,5
+447,4,Crystal,132,GetBackers,8
+448,4,Crystal,1571,Ghost Hunt,9
+449,4,Crystal,476,Ginban Kaleidoscope,6
+450,4,Crystal,15863,Ginga Kikoutai Majestic Prince,7
+451,4,Crystal,14131,Girls & Panzer,7
+452,4,Crystal,23079,Glasslip,3
+453,4,Crystal,456,Gokujou Seitokai,6
+454,4,Crystal,17895,Golden Time,7
+455,4,Crystal,8425,Gosick,8
+456,4,Crystal,34279,Grancrest Senki,6
+457,4,Crystal,245,Great Teacher Onizuka,8
+458,4,Crystal,133,Green Green,2
+459,4,Crystal,10793,Guilty Crown,8
+460,4,Crystal,37245,Gundam Build Divers,7
+461,4,Crystal,37247,Gundam Build Divers Prologue,6
+462,4,Crystal,40192,Gundam Build Divers Re:Rise,6
+463,4,Crystal,40942,Gundam Build Divers Re:Rise 2nd Season,7
+464,4,Crystal,19319,Gundam Build Fighters,8
+465,4,Crystal,24625,Gundam Build Fighters Try,8
+466,4,Crystal,134,Gunslinger Girl,7
+467,4,Crystal,38830,"Hachi-nan tte, Sore wa Nai deshou!",5
+468,4,Crystal,13161,Hagure Yuusha no Aesthetica,5
+469,4,Crystal,31859,Hai to Gensou no Grimgar,8
+470,4,Crystal,20583,Haikyuu!!,8
+471,4,Crystal,32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8
+472,4,Crystal,28891,Haikyuu!! Second Season,8
+473,4,Crystal,15613,Hakkenden: Touhou Hakken Ibun,6
+474,4,Crystal,18055,Hakkenden: Touhou Hakken Ibun 2nd Season,6
+475,4,Crystal,20689,Hamatora The Animation,7
+476,4,Crystal,413,Hametsu no Mars,1
+477,4,Crystal,21681,Hanayamata,5
+478,4,Crystal,587,Hanbun no Tsuki ga Noboru Sora,6
+479,4,Crystal,32981,Hand Shakers,3
+480,4,Crystal,30895,HaruChika: Haruta to Chika wa Seishun suru,4
+481,4,Crystal,15809,Hataraku Maou-sama!,8
+482,4,Crystal,3298,Hatenkou Yuugi,7
+483,4,Crystal,27829,Heavy Object,8
+484,4,Crystal,270,Hellsing,7
+485,4,Crystal,15225,Hentai Ouji to Warawanai Neko.,7
+486,4,Crystal,23787,Hi☆sCoool! SeHa Girls,3
+487,4,Crystal,8630,Hidan no Aria,6
+488,4,Crystal,8074,Highschool of the Dead,7
+489,4,Crystal,9515,Highschool of the Dead: Drifters of the Dead,3
+490,4,Crystal,934,Higurashi no Naku Koro ni,9
+491,4,Crystal,1889,Higurashi no Naku Koro ni Kai,9
+492,4,Crystal,2899,Higurashi no Naku Koro ni Special: Nekogoroshi-hen,7
+493,4,Crystal,12461,Hiiro no Kakera,6
+494,4,Crystal,14645,Hiiro no Kakera 2nd Season,5
+495,4,Crystal,135,Hikaru no Go,9
+496,4,Crystal,645,Hikaru no Go: Hokuto Hai e no Michi,7
+497,4,Crystal,28825,Himouto! Umaru-chan,8
+498,4,Crystal,33654,Hitorijime My Hero,6
+499,4,Crystal,20853,Hitsugi no Chaika,7
+500,4,Crystal,39468,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,7
+501,4,Crystal,40815,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season,7
+502,4,Crystal,9760,Hoshi wo Ou Kodomo,9
+503,4,Crystal,136,Hunter x Hunter,8
+504,4,Crystal,13271,Hunter x Hunter Movie 1: Phantom Rouge,5
+505,4,Crystal,19951,Hunter x Hunter Movie 2: The Last Mission,3
+506,4,Crystal,138,Hunter x Hunter: Greed Island,8
+507,4,Crystal,139,Hunter x Hunter: Greed Island Final,8
+508,4,Crystal,137,Hunter x Hunter: Original Video Animation,8
+509,4,Crystal,248,Ichigo 100%,3
+510,4,Crystal,9938,Ikoku Meiro no Croisée The Animation,7
+511,4,Crystal,10804,"Ikoku Meiro no Croisée The Animation: Ongakkai ""Récital""",7
+512,4,Crystal,160,"Ima, Soko ni Iru Boku",8
+513,4,Crystal,20457,"Inari, Konkon, Koi Iroha.",7
+514,4,Crystal,25159,Inou-Battle wa Nichijou-kei no Naka de,7
+515,4,Crystal,9041,IS: Infinite Stratos,7
+516,4,Crystal,37744,Isekai Cheat Magician,5
+517,4,Crystal,34012,Isekai Shokudou,6
+518,4,Crystal,35203,Isekai wa Smartphone to Tomo ni.,4
+519,4,Crystal,3731,Itazura na Kiss,5
+520,4,Crystal,9750,Itsuka Tenma no Kuro Usagi,4
+521,4,Crystal,2523,Izumo: Takeki Tsurugi no Senki,3
+522,4,Crystal,228,Jigoku Shoujo,7
+523,4,Crystal,34565,Jikan no Shihaisha,4
+524,4,Crystal,1613,Jikuu Ihoujin Kyoko: Chocola ni Omakase!,3
+525,4,Crystal,141,Jinki:Extend,6
+526,4,Crystal,10357,Jinrui wa Suitai Shimashita,8
+527,4,Crystal,3092,Junjou Romantica,6
+528,4,Crystal,4814,Junjou Romantica 2,6
+529,4,Crystal,153,Juuni Kokuki,9
+530,4,Crystal,35076,Juuni Taisen,6
+531,4,Crystal,14467,K,5
+532,4,Crystal,5680,K-On!,7
+533,4,Crystal,6862,K-On!: Live House!,7
+534,4,Crystal,7017,K-On!: Ura-On!,5
+535,4,Crystal,16904,K: Missing Kings,6
+536,4,Crystal,27991,K: Return of Kings,6
+537,4,Crystal,590,Kage kara Mamoru!,6
+538,4,Crystal,16664,Kaguya-hime no Monogatari,8
+539,4,Crystal,7054,Kaichou wa Maid-sama!,9
+540,4,Crystal,9366,Kaichou wa Maid-sama!: Omake da yo!,7
+541,4,Crystal,37981,Kaijuu no Kodomo,6
+542,4,Crystal,16668,Kakumeiki Valvrave,5
+543,4,Crystal,18295,Kakumeiki Valvrave 2nd Season,6
+544,4,Crystal,1808,Kamichama Karin,5
+545,4,Crystal,142,Kamikaze Kaitou Jeanne,6
+546,9,Arcane,269,Bleach,10
+547,9,Arcane,60,Chrno Crusade,8
+548,9,Arcane,777,Hellsing Ultimate,4
+549,9,Arcane,99,Mai-Otome,8
+550,9,Arcane,20,Naruto,9
+551,9,Arcane,49,Aa! Megami-sama!,9
+552,9,Arcane,304,Aa! Megami-sama! Movie,10
+553,9,Arcane,53,Ai Yori Aoshi,8
+554,9,Arcane,101,Air,9
+555,9,Arcane,281,Akane Maniax,7
+556,9,Arcane,159,Boukyaku no Senritsu,10
+557,9,Arcane,105,Boys Be...,7
+558,9,Arcane,59,Chobits,8
+559,9,Arcane,61,D.N.Angel,10
+560,9,Arcane,63,DearS,6
+561,9,Arcane,813,Dragon Ball Z,7
+562,9,Arcane,226,Elfen Lied,10
+563,9,Arcane,119,Final Approach,9
+564,9,Arcane,317,Final Fantasy VII: Advent Children,10
+565,9,Arcane,73,Full Metal Panic! The Second Raid,9
+566,9,Arcane,72,Full Metal Panic? Fumoffu,10
+567,9,Arcane,121,Fullmetal Alchemist,8
+568,9,Arcane,430,Fullmetal Alchemist: The Conqueror of Shamballa,8
+569,9,Arcane,127,Gate Keepers,7
+570,9,Arcane,241,Girls Bravo: First Season,8
+571,9,Arcane,297,Grenadier: Hohoemi no Senshi,7
+572,9,Arcane,411,Gun x Sword,7
+573,9,Arcane,134,Gunslinger Girl,6
+574,9,Arcane,318,Hand Maid May,7
+575,9,Arcane,270,Hellsing,10
+576,9,Arcane,257,Ikkitousen,2
+577,9,Arcane,618,Juubee Ninpuuchou: Ryuuhougyoku-hen,7
+578,9,Arcane,143,Kannazuki no Miko,9
+579,9,Arcane,144,Kanon,7
+580,9,Arcane,93,Kidou Senshi Gundam SEED,10
+581,9,Arcane,147,Kimi ga Nozomu Eien,8
+582,9,Arcane,670,Lamune,8
+583,9,Arcane,189,Love Hina,10
+584,9,Arcane,193,Maburaho,9
+585,9,Arcane,576,Magikano,5
+586,9,Arcane,330,Midori no Hibi,9
+587,9,Arcane,30,Neon Genesis Evangelion,4
+588,9,Arcane,196,Onegai☆Twins,9
+589,9,Arcane,161,Peace Maker Kurogane,9
+590,9,Arcane,162,Pita Ten,8
+591,9,Arcane,208,R.O.D: Read or Die,8
+592,9,Arcane,209,R.O.D: The TV,9
+593,9,Arcane,238,Rekka no Honoo,9
+594,9,Arcane,197,Rizelmine,8
+595,9,Arcane,45,Rurouni Kenshin: Meiji Kenkaku Romantan,8
+596,9,Arcane,205,Samurai Champloo,8
+597,9,Arcane,24,School Rumble,9
+598,9,Arcane,390,Suzuka,9
+599,9,Arcane,174,Tenjou Tenge,8
+600,9,Arcane,51,Tenshi Kinryouku,5
+601,9,Arcane,6,Trigun,8
+602,9,Arcane,184,Xenosaga The Animation,8
+603,9,Arcane,392,Yuu☆Yuu☆Hakusho,9
+604,9,Arcane,1248,Zone of the Enders: 2167 Idolo,6
+605,9,Arcane,109,Bakuretsu Tenshi,6
+606,9,Arcane,467,Koukaku Kidoutai: Stand Alone Complex,7
+607,9,Arcane,202,Wolf's Rain,6
+608,9,Arcane,379,Heppoko Jikken Animation Excel♥Saga,1
+609,9,Arcane,275,Love♥Love?,4
+610,9,Arcane,22,Tennis no Oujisama,5
+611,20,vondur,11061,Hunter x Hunter (2011),10
+612,20,vondur,16009,Kamisama no Inai Nichiyoubi,8
+613,20,vondur,486,Kino no Tabi: The Beautiful World,8
+614,20,vondur,35062,Mahoutsukai no Yome,7
+615,20,vondur,1735,Naruto: Shippuuden,7
+616,20,vondur,21,One Piece,9
+617,20,vondur,16498,Shingeki no Kyojin,9
+618,20,vondur,889,Black Lagoon,9
+619,20,vondur,1519,Black Lagoon: The Second Barrage,9
+620,20,vondur,31964,Boku no Hero Academia,8
+621,20,vondur,33486,Boku no Hero Academia 2nd Season,9
+622,20,vondur,36456,Boku no Hero Academia 3rd Season,9
+623,20,vondur,1818,Claymore,8
+624,20,vondur,1575,Code Geass: Hangyaku no Lelouch,8
+625,20,vondur,1,Cowboy Bebop,9
+626,20,vondur,5,Cowboy Bebop: Tengoku no Tobira,8
+627,20,vondur,1535,Death Note,9
+628,20,vondur,226,Elfen Lied,8
+629,20,vondur,790,Ergo Proxy,8
+630,20,vondur,356,Fate/stay night,8
+631,20,vondur,10087,Fate/Zero,9
+632,20,vondur,11741,Fate/Zero 2nd Season,8
+633,20,vondur,317,Final Fantasy VII: Advent Children,8
+634,20,vondur,18507,Free!,9
+635,20,vondur,71,Full Metal Panic!,7
+636,20,vondur,121,Fullmetal Alchemist,10
+637,20,vondur,5114,Fullmetal Alchemist: Brotherhood,9
+638,20,vondur,430,Fullmetal Alchemist: The Conqueror of Shamballa,9
+639,20,vondur,2890,Gake no Ue no Ponyo,8
+640,20,vondur,239,Gankutsuou,9
+641,20,vondur,384,Gantz,6
+642,20,vondur,395,Gantz 2nd Stage,6
+643,20,vondur,240,Genshiken,7
+644,20,vondur,2508,Genshiken 2,7
+645,20,vondur,1813,Genshiken OVA,6
+646,20,vondur,245,Great Teacher Onizuka,9
+647,20,vondur,10271,Gyakkyou Burai Kaiji: Hakairoku-hen,8
+648,20,vondur,3002,Gyakkyou Burai Kaiji: Ultimate Survivor,8
+649,20,vondur,263,Hajime no Ippo,9
+650,20,vondur,5258,Hajime no Ippo: New Challenger,9
+651,20,vondur,270,Hellsing,8
+652,20,vondur,578,Hotaru no Haka,8
+653,20,vondur,431,Howl no Ugoku Shiro,9
+654,20,vondur,136,Hunter x Hunter,10
+655,20,vondur,138,Hunter x Hunter: Greed Island,10
+656,20,vondur,139,Hunter x Hunter: Greed Island Final,10
+657,20,vondur,137,Hunter x Hunter: Original Video Animation,10
+658,20,vondur,257,Ikkitousen,5
+659,20,vondur,1956,Ikkitousen: Dragon Destiny,5
+660,20,vondur,14719,JoJo no Kimyou na Bouken (TV),7
+661,20,vondur,153,Juuni Kokuki,9
+662,20,vondur,4282,Kara no Kyoukai Movie 5: Mujun Rasen,8
+663,20,vondur,572,Kaze no Tani no Nausicaä,9
+664,20,vondur,33,Kenpuu Denki Berserk,9
+665,20,vondur,43,Koukaku Kidoutai,7
+666,20,vondur,433,"Kumo no Mukou, Yakusoku no Basho",9
+667,20,vondur,416,Kurenai no Buta,7
+668,20,vondur,97,Last Exile,9
+669,20,vondur,34599,Made in Abyss,9
+670,20,vondur,512,Majo no Takkyuubin,9
+671,20,vondur,585,Mimi wo Sumaseba,6
+672,20,vondur,164,Mononoke Hime,10
+673,20,vondur,457,Mushishi,10
+674,20,vondur,3655,Nabari no Ou,8
+675,20,vondur,20,Naruto,6
+676,20,vondur,761,Naruto: Akaki Yotsuba no Clover wo Sagase,4
+677,20,vondur,4437,Naruto: Shippuuden Movie 2 - Kizuna,5
+678,20,vondur,594,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,5
+679,20,vondur,597,Neko no Ongaeshi,7
+680,20,vondur,1698,Nodame Cantabile,9
+681,20,vondur,5690,Nodame Cantabile Finale,8
+682,20,vondur,4477,Nodame Cantabile: Paris-hen,9
+683,20,vondur,30276,One Punch Man,9
+684,20,vondur,853,Ouran Koukou Host Club,7
+685,20,vondur,29803,Overlord,7
+686,20,vondur,1943,Paprika,9
+687,20,vondur,528,Pokemon Movie 01: Mewtwo no Gyakushuu,6
+688,20,vondur,45,Rurouni Kenshin: Meiji Kenkaku Romantan,9
+689,20,vondur,166,Samurai 7,8
+690,20,vondur,205,Samurai Champloo,9
+691,20,vondur,167,Scrapped Princess,9
+692,20,vondur,1827,Seirei no Moribito,10
+693,20,vondur,199,Sen to Chihiro no Kamikakushi,10
+694,20,vondur,1559,Shijou Saikyou no Deshi Kenichi,8
+695,20,vondur,11371,Shin Tennis no Oujisama,7
+696,20,vondur,9253,Steins Gate,10
+697,20,vondur,16524,Suisei no Gargantia,9
+698,20,vondur,849,Suzumiya Haruhi no Yuuutsu,8
+699,20,vondur,11757,Sword Art Online,8
+700,20,vondur,174,Tenjou Tenge,7
+701,20,vondur,22,Tennis no Oujisama,8
+702,20,vondur,995,Tennis no Oujisama: Zenkoku Taikai-hen,8
+703,20,vondur,4053,Tennis no Oujisama: Zenkoku Taikai-hen - Final,8
+704,20,vondur,2752,Tennis no Oujisama: Zenkoku Taikai-hen - Semifinal,9
+705,20,vondur,523,Tonari no Totoro,9
+706,20,vondur,6,Trigun,8
+707,20,vondur,5365,Tsumiki no Ie,6
+708,20,vondur,479,Ueki no Housoku,7
+709,20,vondur,202,Wolf's Rain,8
+710,20,vondur,269,Bleach,7
+711,20,vondur,2025,Darker than Black: Kuro no Keiyakusha,8
+712,20,vondur,6702,Fairy Tail,6
+713,20,vondur,10033,Toriko,8
+714,20,vondur,1482,D.Gray-man,8
+715,20,vondur,392,Yuu☆Yuu☆Hakusho,5
+716,23,Amuro,28249,Arslan Senki (TV),8
+717,23,Amuro,27663,Baby Steps 2nd Season,7
+718,23,Amuro,30230,Diamond no Ace: Second Season,7
+719,23,Amuro,25183,Gangsta.,9
+720,23,Amuro,28977,Gintama°,9
+721,23,Amuro,24439,Kekkai Sensen,9
+722,23,Amuro,1735,Naruto: Shippuuden,6
+723,23,Amuro,21,One Piece,7
+724,23,Amuro,28619,Ranpo Kitan: Game of Laplace,7
+725,23,Amuro,28497,Rokka no Yuusha,8
+726,23,Amuro,28171,Shokugeki no Souma,9
+727,23,Amuro,24405,World Trigger,8
+728,23,Amuro,5525,07-Ghost,7
+729,23,Amuro,25397,Absolute Duo,7
+730,23,Amuro,1292,Afro Samurai,10
+731,23,Amuro,857,Air Gear,8
+732,23,Amuro,9201,Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky,7
+733,23,Amuro,22199,Akame ga Kill!,10
+734,23,Amuro,22729,Aldnoah.Zero,7
+735,23,Amuro,27655,Aldnoah.Zero Part 2,7
+736,23,Amuro,6547,Angel Beats!,7
+737,23,Amuro,9919,Ao no Exorcist,9
+738,23,Amuro,18893,Aoki Hagane no Arpeggio: Ars Nova,7
+739,23,Amuro,7647,Arakawa Under the Bridge,7
+740,23,Amuro,21185,Baby Steps,7
+741,23,Amuro,2251,Baccano!,7
+742,23,Amuro,1682,Baldr Force Exe Resolution,9
+743,23,Amuro,2986,Bamboo Blade,9
+744,23,Amuro,57,Beck,6
+745,23,Amuro,9513,Beelzebub,8
+746,23,Amuro,1498,Black Blood Brothers,7
+747,23,Amuro,20787,Black Bullet,7
+748,23,Amuro,68,Black Cat (TV),6
+749,23,Amuro,889,Black Lagoon,9
+750,23,Amuro,4901,Black Lagoon: Roberta's Blood Trail,9
+751,23,Amuro,1519,Black Lagoon: The Second Barrage,9
+752,23,Amuro,11285,Black★Rock Shooter (TV),7
+753,23,Amuro,22547,Blade & Soul,6
+754,23,Amuro,18767,BlazBlue: Alter Memory,6
+755,23,Amuro,269,Bleach,7
+756,23,Amuro,1686,Bleach Movie 1: Memories of Nobody,8
+757,23,Amuro,2889,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru,9
+758,23,Amuro,762,Bleach: Memories in the Rain,8
+759,23,Amuro,834,Bleach: The Sealed Sword Frenzy,9
+760,23,Amuro,11633,Blood Lad,8
+761,23,Amuro,150,Blood+,9
+762,23,Amuro,10490,Blood-C,8
+763,23,Amuro,10681,Blood-C: The Last Dark,7
+764,23,Amuro,405,Blood: The Last Vampire,7
+765,23,Amuro,2142,Blue Dragon,8
+766,23,Amuro,11241,Brave 10,7
+767,23,Amuro,14345,Btooom!,7
+768,23,Amuro,10163,C: The Money of Soul and Possibility Control,8
+769,23,Amuro,4981,Casshern Sins,6
+770,23,Amuro,1818,Claymore,8
+771,23,Amuro,1575,Code Geass: Hangyaku no Lelouch,8
+772,23,Amuro,2904,Code Geass: Hangyaku no Lelouch R2,8
+773,23,Amuro,9479,Coppelion,6
+774,23,Amuro,1,Cowboy Bebop,9
+775,23,Amuro,5,Cowboy Bebop: Tengoku no Tobira,8
+776,23,Amuro,15109,Cuticle Tantei Inaba,6
+777,23,Amuro,1482,D.Gray-man,9
+778,23,Amuro,8915,Dantalian no Shoka,7
+779,23,Amuro,2025,Darker than Black: Kuro no Keiyakusha,9
+780,23,Amuro,4182,Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita,7
+781,23,Amuro,7338,Darker than Black: Kuro no Keiyakusha Gaiden,7
+782,23,Amuro,6573,Darker than Black: Ryuusei no Gemini,8
+783,23,Amuro,6880,Deadman Wonderland,9
+784,23,Amuro,1535,Death Note,8
+785,23,Amuro,18689,Diamond no Ace,7
+786,23,Amuro,10155,Dog Days,6
+787,23,Amuro,223,Dragon Ball,9
+788,23,Amuro,225,Dragon Ball GT,7
+789,23,Amuro,6033,Dragon Ball Kai,7
+790,23,Amuro,813,Dragon Ball Z,8
+791,23,Amuro,14837,Dragon Ball Z Movie 14: Kami to Kami,9
+792,23,Amuro,2795,Dragonaut: The Resonance,7
+793,23,Amuro,23333,DRAMAtical Murder,5
+794,23,Amuro,28121,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,9
+795,23,Amuro,2030,El Cazador de la Bruja,7
+796,23,Amuro,226,Elfen Lied,9
+797,23,Amuro,790,Ergo Proxy,9
+798,23,Amuro,393,Escaflowne,7
+799,23,Amuro,15,Eyeshield 21,7
+800,23,Amuro,6702,Fairy Tail,7
+801,23,Amuro,356,Fate/stay night,8
+802,23,Amuro,22297,Fate/stay night: Unlimited Blade Works,9
+803,23,Amuro,28701,Fate/stay night: Unlimited Blade Works 2nd Season,9
+804,23,Amuro,317,Final Fantasy VII: Advent Children,7
+805,23,Amuro,1361,Final Fantasy: The Spirits Within,6
+806,23,Amuro,9367,Freezing,7
+807,23,Amuro,18001,Freezing Vibration,7
+808,23,Amuro,73,Full Metal Panic! The Second Raid,6
+809,23,Amuro,121,Fullmetal Alchemist,9
+810,23,Amuro,5114,Fullmetal Alchemist: Brotherhood,9
+811,23,Amuro,664,Fullmetal Alchemist: Reflections,9
+812,23,Amuro,430,Fullmetal Alchemist: The Conqueror of Shamballa,9
+813,23,Amuro,4725,Ga-Rei: Zero,6
+814,23,Amuro,19367,Galilei Donna,5
+815,23,Amuro,18229,Gatchaman Crowds,8
+816,23,Amuro,240,Genshiken,5
+817,23,Amuro,2508,Genshiken 2,6
+818,23,Amuro,241,Girls Bravo: First Season,6
+819,23,Amuro,21431,Gokukoku no Brynhildr,6
+820,23,Amuro,4039,Golgo 13 (TV),8
+821,23,Amuro,8425,Gosick,8
+822,23,Amuro,245,Great Teacher Onizuka,6
+823,23,Amuro,297,Grenadier: Hohoemi no Senshi,8
+824,23,Amuro,17729,Grisaia no Kajitsu,7
+825,23,Amuro,29095,Grisaia no Rakuen,7
+826,23,Amuro,10793,Guilty Crown,8
+827,23,Amuro,411,Gun x Sword,7
+828,23,Amuro,267,Gungrave,8
+829,23,Amuro,134,Gunslinger Girl,6
+830,23,Amuro,28791,Gunslinger Stratos The Animation,7
+831,23,Amuro,13161,Hagure Yuusha no Aesthetica,7
+832,23,Amuro,20583,Haikyuu!!,7
+833,23,Amuro,263,Hajime no Ippo,8
+834,23,Amuro,264,Hajime no Ippo: Champion Road,10
+835,23,Amuro,265,Hajime no Ippo: Mashiba vs. Kimura,8
+836,23,Amuro,5258,Hajime no Ippo: New Challenger,8
+837,23,Amuro,19647,Hajime no Ippo: Rising,7
+838,23,Amuro,15613,Hakkenden: Touhou Hakken Ibun,7
+839,23,Amuro,18055,Hakkenden: Touhou Hakken Ibun 2nd Season,6
+840,23,Amuro,20689,Hamatora The Animation,7
+841,23,Amuro,15809,Hataraku Maou-sama!,7
+842,23,Amuro,2026,Hayate no Gotoku!,8
+843,23,Amuro,4192,Hayate no Gotoku!!,6
+844,23,Amuro,270,Hellsing,10
+845,23,Amuro,777,Hellsing Ultimate,10
+846,23,Amuro,2002,Heroic Age,7
+847,23,Amuro,11617,High School DxD,8
+848,23,Amuro,24703,High School DxD BorN,8
+849,23,Amuro,15451,High School DxD New,8
+850,23,Amuro,20853,Hitsugi no Chaika,7
+851,23,Amuro,24231,Hitsugi no Chaika: Avenging Battle,7
+852,23,Amuro,136,Hunter x Hunter,8
+853,23,Amuro,11061,Hunter x Hunter (2011),9
+854,23,Amuro,138,Hunter x Hunter: Greed Island,8
+855,23,Amuro,139,Hunter x Hunter: Greed Island Final,8
+856,23,Amuro,137,Hunter x Hunter: Original Video Animation,8
+857,23,Amuro,15377,Hyakka Ryouran: Samurai Bride,6
+858,23,Amuro,8277,Hyakka Ryouran: Samurai Girls,7
+859,23,Amuro,7088,Ichiban Ushiro no Daimaou,7
+860,23,Amuro,257,Ikkitousen,8
+861,23,Amuro,1956,Ikkitousen: Dragon Destiny,9
+862,23,Amuro,4196,Ikkitousen: Great Guardians,8
+863,23,Amuro,7580,Ikkitousen: Xtreme Xecutor,8
+864,23,Amuro,15059,Initial D Fifth Stage,7
+865,23,Amuro,22507,Initial D Final Stage,7
+866,23,Amuro,185,Initial D First Stage,7
+867,23,Amuro,18,Initial D Fourth Stage,7
+868,23,Amuro,186,Initial D Second Stage,7
+869,23,Amuro,187,Initial D Third Stage,7
+870,23,Amuro,468,Innocence,9
+871,23,Amuro,9041,IS: Infinite Stratos,7
+872,23,Amuro,18247,IS: Infinite Stratos 2,5
+873,23,Amuro,25429,Isuca,7
+874,23,Amuro,26441,Junketsu no Maria,7
+875,23,Amuro,16668,Kakumeiki Valvrave,7
+876,23,Amuro,18295,Kakumeiki Valvrave 2nd Season,7
+877,23,Amuro,1604,Katekyou Hitman Reborn!,8
+878,23,Amuro,1606,Kekkaishi,9
+879,23,Amuro,845,Kiba,8
+880,23,Amuro,93,Kidou Senshi Gundam SEED,6
+881,23,Amuro,18679,Kill la Kill,10
+882,23,Amuro,22535,Kiseijuu: Sei no Kakuritsu,10
+883,23,Amuro,1067,Kishin Houkou Demonbane (TV),7
+884,23,Amuro,43,Koukaku Kidoutai,9
+885,23,Amuro,29325,Koukaku Kidoutai Arise: Alternative Architecture,9
+886,23,Amuro,467,Koukaku Kidoutai: Stand Alone Complex,10
+887,23,Amuro,801,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,10
+888,23,Amuro,237,Koukyoushihen Eureka Seven,7
+889,23,Amuro,3653,Kurogane no Linebarrels,7
+890,23,Amuro,4898,Kuroshitsuji,7
+891,23,Amuro,6707,Kuroshitsuji II,7
+892,23,Amuro,18153,Kyoukai no Kanata,7
+893,23,Amuro,97,Last Exile,7
+894,23,Amuro,10336,Last Exile: Ginyoku no Fam,7
+895,23,Amuro,17265,Log Horizon,9
+896,23,Amuro,23321,Log Horizon 2nd Season,9
+897,23,Amuro,189,Love Hina,6
+898,23,Amuro,190,Love Hina Again,6
+899,23,Amuro,23133,M3: Sono Kuroki Hagane,6
+900,23,Amuro,17247,Machine-Doll wa Kizutsukanai,7
+901,23,Amuro,24455,Madan no Ou to Vanadis,6
+902,23,Amuro,18115,Magi: The Kingdom of Magic,9
+903,23,Amuro,14513,Magi: The Labyrinth of Magic,9
+904,23,Amuro,19769,Mahou Sensou,5
+905,23,Amuro,20785,Mahouka Koukou no Rettousei,9
+906,23,Amuro,627,Major S1,5
+907,23,Amuro,558,Major S2,5
+908,23,Amuro,1842,Major S3,5
+909,23,Amuro,3226,Major S4,6
+910,23,Amuro,5028,Major S5,6
+911,23,Amuro,7655,Major S6,6
+912,23,Amuro,11917,Major: World Series,6
+913,23,Amuro,16890,Makai Ouji: Devils and Realist,6
+914,23,Amuro,10465,Manyuu Hikenchou,7
+915,23,Amuro,28817,Mikagura Gakuen Kumikyoku (TV),6
+916,23,Amuro,8917,Mouretsu Pirates,6
+917,23,Amuro,4151,Mugen no Juunin,7
+918,23,Amuro,23755,Nanatsu no Taizai,9
+919,23,Amuro,20,Naruto,7
+920,23,Amuro,442,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,8
+921,23,Amuro,936,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,8
+922,23,Amuro,30,Neon Genesis Evangelion,1
+923,23,Amuro,2970,Night Wizard,6
+924,23,Amuro,19815,No Game No Life,9
+925,23,Amuro,19855,Nobunagun,8
+926,23,Amuro,584,Noein: Mou Hitori no Kimi e,9
+927,23,Amuro,272,Noir,6
+928,23,Amuro,20507,Noragami,9
+929,23,Amuro,8476,Otome Youkai Zakuro,5
+930,23,Amuro,2112,Over Drive,8
+931,23,Amuro,26243,Owari no Seraph,8
+932,23,Amuro,13601,Psycho-Pass,9
+933,23,Amuro,23281,Psycho-Pass 2,9
+934,23,Amuro,1538,Pumpkin Scissors,9
+935,23,Amuro,919,Ray The Animation,8
+936,23,Amuro,3363,RD Sennou Chousashitsu,7
+937,23,Amuro,23421,Re:␣Hamatora,7
+938,23,Amuro,2993,Rosario to Vampire,7
+939,23,Amuro,4214,Rosario to Vampire Capu2,7
+940,23,Amuro,64,Rozen Maiden,6
+941,23,Amuro,166,Samurai 7,8
+942,23,Amuro,205,Samurai Champloo,8
+943,23,Amuro,1508,Sci-fi Harry,7
+944,23,Amuro,167,Scrapped Princess,7
+945,23,Amuro,5940,Seiken no Blacksmith,6
+946,23,Amuro,6974,Seikimatsu Occult Gakuin,7
+947,23,Amuro,21033,Seikoku no Dragonar,6
+948,23,Amuro,22877,Seireitsukai no Blade Dance,6
+949,23,Amuro,4063,Sekirei,7
+950,23,Amuro,5277,Sekirei: Pure Engagement,7
+951,23,Amuro,5355,Sengoku Basara,6
+952,23,Amuro,154,Shaman King,7
+953,23,Amuro,5220,Shangri-La,6
+954,23,Amuro,1559,Shijou Saikyou no Deshi Kenichi,9
+955,23,Amuro,11813,Shijou Saikyou no Deshi Kenichi OVA,7
+956,23,Amuro,4581,Shikabane Hime: Aka,7
+957,23,Amuro,21843,Shingeki no Bahamut: Genesis,8
+958,23,Amuro,16498,Shingeki no Kyojin,10
+959,23,Amuro,18397,Shingeki no Kyojin OVA,7
+960,23,Amuro,25781,Shingeki no Kyojin: Kuinaki Sentaku,7
+961,23,Amuro,23233,Shinmai Maou no Testament,7
+962,23,Amuro,2596,Shinreigari,7
+963,23,Amuro,1557,Shounen Onmyouji,8
+964,23,Amuro,19775,Sidonia no Kishi,8
+965,23,Amuro,3588,Soul Eater,9
+966,23,Amuro,21507,Soul Eater NOT!,7
+967,23,Amuro,21195,Soul Eater: Late Night Show,7
+968,23,Amuro,854,Soul Link,6
+969,23,Amuro,342,Starship Operators,6
+970,23,Amuro,2418,Stranger: Mukou Hadan,10
+971,23,Amuro,18277,Strike the Blood,6
+972,23,Amuro,25,Sunabouzu,7
+973,23,Amuro,11757,Sword Art Online,8
+974,23,Amuro,21881,Sword Art Online II,8
+975,23,Amuro,4884,Tales of the Abyss,7
+976,23,Amuro,2001,Tengen Toppa Gurren Lagann,10
+977,23,Amuro,22,Tennis no Oujisama,9
+978,23,Amuro,5751,Tennis no Oujisama: Another Story - Kako to Mirai no Message,6
+979,23,Amuro,10573,Tennis no Oujisama: Another Story II - Ano Toki no Bokura,7
+980,23,Amuro,995,Tennis no Oujisama: Zenkoku Taikai-hen,8
+981,23,Amuro,4053,Tennis no Oujisama: Zenkoku Taikai-hen - Final,7
+982,23,Amuro,2752,Tennis no Oujisama: Zenkoku Taikai-hen - Semifinal,8
+983,23,Amuro,2158,Terra e... (TV),7
+984,23,Amuro,5074,Tetsuwan Birdy Decode:02,7
+985,23,Amuro,26,Texhnolyze,4
+986,23,Amuro,9941,Tiger & Bunny,7
+987,23,Amuro,6213,Toaru Kagaku no Railgun,8
+988,23,Amuro,16049,Toaru Kagaku no Railgun S,8
+989,23,Amuro,4654,Toaru Majutsu no Index,8
+990,23,Amuro,8937,Toaru Majutsu no Index II,8
+991,23,Amuro,916,Tokkou,9
+992,23,Amuro,21353,Tokyo ESP,5
+993,23,Amuro,22319,Tokyo Ghoul,9
+994,23,Amuro,27899,Tokyo Ghoul √A,8
+995,23,Amuro,16011,Tokyo Ravens,7
+996,23,Amuro,6,Trigun,8
+997,23,Amuro,4106,Trigun: Badlands Rumble,9
+998,37,megan,3167,Eve no Jikan,7
+999,37,megan,2787,Shakugan no Shana II (Second),7
+1000,37,megan,21881,Sword Art Online II,8
+1001,37,megan,49,Aa! Megami-sama!,8
+1002,37,megan,102,Aishiteruze Baby★★,8
+1003,37,megan,530,Bishoujo Senshi Sailor Moon,8
+1004,37,megan,740,Bishoujo Senshi Sailor Moon R,8
+1005,37,megan,531,Bishoujo Senshi Sailor Moon R: The Movie,8
+1006,37,megan,997,Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito,7
+1007,37,megan,1240,Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki,7
+1008,37,megan,150,Blood+,9
+1009,37,megan,1222,Bokura ga Ita,9
+1010,37,megan,59,Chobits,9
+1011,37,megan,60,Chrno Crusade,10
+1012,37,megan,61,D.N.Angel,9
+1013,37,megan,226,Elfen Lied,8
+1014,37,megan,393,Escaflowne,7
+1015,37,megan,119,Final Approach,6
+1016,37,megan,120,Fruits Basket,9
+1017,37,megan,71,Full Metal Panic!,9
+1018,37,megan,73,Full Metal Panic! The Second Raid,9
+1019,37,megan,72,Full Metal Panic? Fumoffu,8
+1020,37,megan,17895,Golden Time,7
+1021,37,megan,106,Hana yori Dango,10
+1022,37,megan,2071,Hana yori Dango (Movie),7
+1023,37,megan,587,Hanbun no Tsuki ga Noboru Sora,7
+1024,37,megan,15809,Hataraku Maou-sama!,7
+1025,37,megan,5630,Higashi no Eden,9
+1026,37,megan,13403,Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto,9
+1027,37,megan,3731,Itazura na Kiss,8
+1028,37,megan,3092,Junjou Romantica,5
+1029,37,megan,7054,Kaichou wa Maid-sama!,8
+1030,37,megan,14713,Kamisama Hajimemashita,8
+1031,37,megan,990,Kamisama Kazoku,8
+1032,37,megan,143,Kannazuki no Miko,6
+1033,37,megan,3503,Kanokon,6
+1034,37,megan,145,Kareshi Kanojo no Jijou,9
+1035,37,megan,667,Kashimashi: Girl Meets Girl,7
+1036,37,megan,1654,Kashimashi: Girl Meets Girl - Shoujo wa Shoujo ni Koi wo Shita,7
+1037,37,megan,147,Kimi ga Nozomu Eien,9
+1038,37,megan,6045,Kimi ni Todoke,7
+1039,37,megan,9656,Kimi ni Todoke 2nd Season,7
+1040,37,megan,2034,Lovely★Complex,10
+1041,37,megan,330,Midori no Hibi,8
+1042,37,megan,16067,Nagi no Asu kara,9
+1043,37,megan,877,Nana,10
+1044,37,megan,1698,Nodame Cantabile,9
+1045,37,megan,20507,Noragami,8
+1046,37,megan,195,Onegai☆Teacher,9
+1047,37,megan,196,Onegai☆Twins,10
+1048,37,megan,853,Ouran Koukou Host Club,9
+1049,37,megan,322,Paradise Kiss,7
+1050,37,megan,710,Rec,6
+1051,37,megan,1699,Romeo x Juliet,9
+1052,37,megan,167,Scrapped Princess,9
+1053,37,megan,199,Sen to Chihiro no Kamikakushi,10
+1054,37,megan,355,Shakugan no Shana,9
+1055,37,megan,16498,Shingeki no Kyojin,10
+1056,37,megan,4722,Skip Beat!,7
+1057,37,megan,534,Slayers,8
+1058,37,megan,3470,Special A,9
+1059,37,megan,11757,Sword Art Online,9
+1060,37,megan,182,Tenkuu no Escaflowne,10
+1061,37,megan,513,Tenkuu no Shiro Laputa,9
+1062,37,megan,51,Tenshi Kinryouku,6
+1063,37,megan,200,Tenshi na Konamaiki,8
+1064,37,megan,2236,Toki wo Kakeru Shoujo,10
+1065,37,megan,14227,Tonari no Kaibutsu-kun,7
+1066,37,megan,3457,Vampire Knight,10
+1067,37,megan,4752,Vampire Knight Guilty,7
+1068,37,megan,7,Witch Hunter Robin,9
+1069,37,megan,548,Wonderful Days,8
+1070,37,megan,1818,Claymore,7
+1071,37,megan,591,Amaenaide yo!!,5
+1072,37,megan,1838,Mitsu x Mitsu Drops,5
+1073,47,kei-clone,1589,Bartender,6
+1074,47,kei-clone,4181,Clannad: After Story,8
+1075,47,kei-clone,62,D.C.: Da Capo,5
+1076,47,kei-clone,2924,ef: A Tale of Memories.,6
+1077,47,kei-clone,72,Full Metal Panic? Fumoffu,8
+1078,47,kei-clone,2026,Hayate no Gotoku!,7
+1079,47,kei-clone,5680,K-On!,7
+1080,47,kei-clone,10620,Mirai Nikki (TV),6
+1081,47,kei-clone,1113,One: Kagayaku Kisetsu e - True Stories,5
+1082,47,kei-clone,2605,Sayonara Zetsubou Sensei,7
+1083,47,kei-clone,1827,Seirei no Moribito,8
+1084,47,kei-clone,16498,Shingeki no Kyojin,8
+1085,47,kei-clone,2923,Shugo Chara!,8
+1086,47,kei-clone,4654,Toaru Majutsu no Index,8
+1087,47,kei-clone,3417,Yawaraka Sangokushi Tsukisase!! Ryofuko-chan,5
+1088,47,kei-clone,320,A Kite,6
+1089,47,kei-clone,53,Ai Yori Aoshi,7
+1090,47,kei-clone,394,Ai Yori Aoshi: Enishi,6
+1091,47,kei-clone,101,Air,8
+1092,47,kei-clone,656,Air in Summer,8
+1093,47,kei-clone,713,Air Movie,3
+1094,47,kei-clone,66,Azumanga Daiou The Animation,9
+1095,47,kei-clone,659,Azumanga Daiou: Gekijou Tanpen,8
+1096,47,kei-clone,357,Bokusatsu Tenshi Dokuro-chan,5
+1097,47,kei-clone,1689,Byousoku 5 Centimeter,10
+1098,47,kei-clone,596,Chobits: Chibits,7
+1099,47,kei-clone,2167,Clannad,9
+1100,47,kei-clone,6351,"Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",9
+1101,47,kei-clone,4059,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",9
+1102,47,kei-clone,1575,Code Geass: Hangyaku no Lelouch,8
+1103,47,kei-clone,1,Cowboy Bebop,7
+1104,47,kei-clone,5,Cowboy Bebop: Tengoku no Tobira,5
+1105,47,kei-clone,26349,Danna ga Nani wo Itteiru ka Wakaranai Ken,7
+1106,47,kei-clone,29067,Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me,7
+1107,47,kei-clone,1535,Death Note,8
+1108,47,kei-clone,563,DNA²,5
+1109,47,kei-clone,2166,Doujin Work,7
+1110,47,kei-clone,226,Elfen Lied,8
+1111,47,kei-clone,376,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",7
+1112,47,kei-clone,317,Final Fantasy VII: Advent Children,7
+1113,47,kei-clone,227,FLCL,3
+1114,47,kei-clone,71,Full Metal Panic!,7
+1115,47,kei-clone,121,Fullmetal Alchemist,10
+1116,47,kei-clone,430,Fullmetal Alchemist: The Conqueror of Shamballa,5
+1117,47,kei-clone,1858,Gakuen Utopia Manabi Straight!,9
+1118,47,kei-clone,3219,Gakuen Utopia Manabi Straight!: Natsu da! Manabi da! Kyouka Gasshuku da!,7
+1119,47,kei-clone,245,Great Teacher Onizuka,8
+1120,47,kei-clone,587,Hanbun no Tsuki ga Noboru Sora,8
+1121,47,kei-clone,2798,Hatsu Inu The Animation,7
+1122,47,kei-clone,1852,Hidamari Sketch,7
+1123,47,kei-clone,934,Higurashi no Naku Koro ni,9
+1124,47,kei-clone,256,Hoshi no Koe,10
+1125,47,kei-clone,578,Hotaru no Haka,9
+1126,47,kei-clone,488,Ichigo Mashimaro,9
+1127,47,kei-clone,1888,Ichigo Mashimaro OVA,8
+1128,47,kei-clone,3958,Kannagi,8
+1129,47,kei-clone,1004,Kanojo to Kanojo no Neko,7
+1130,47,kei-clone,144,Kanon,8
+1131,47,kei-clone,1530,Kanon (2006),10
+1132,47,kei-clone,704,Kanon Kazahana,8
+1133,47,kei-clone,93,Kidou Senshi Gundam SEED,9
+1134,47,kei-clone,147,Kimi ga Nozomu Eien,8
+1135,47,kei-clone,32281,Kimi no Na wa.,7
+1136,47,kei-clone,433,"Kumo no Mukou, Yakusoku no Basho",7
+1137,47,kei-clone,837,Kyou no 5 no 2,8
+1138,47,kei-clone,189,Love Hina,7
+1139,47,kei-clone,190,Love Hina Again,8
+1140,47,kei-clone,191,Love Hina Christmas Special: Silent Eve,7
+1141,47,kei-clone,192,Love Hina Haru Special: Kimi Sakura Chiru Nakare!!,7
+1142,47,kei-clone,1887,Lucky☆Star,7
+1143,47,kei-clone,4472,Lucky☆Star: Original na Visual to Animation,8
+1144,47,kei-clone,76,Mahou Shoujo Lyrical Nanoha,5
+1145,47,kei-clone,512,Majo no Takkyuubin,7
+1146,47,kei-clone,2963,Minami-ke,9
+1147,47,kei-clone,3225,Minami-ke Okawari,7
+1148,47,kei-clone,2367,Moetan,7
+1149,47,kei-clone,4421,Moetan Specials,8
+1150,47,kei-clone,164,Mononoke Hime,10
+1151,47,kei-clone,761,Naruto: Akaki Yotsuba no Clover wo Sagase,5
+1152,47,kei-clone,594,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,6
+1153,47,kei-clone,30,Neon Genesis Evangelion,7
+1154,47,kei-clone,31,Neon Genesis Evangelion: Death & Rebirth,7
+1155,47,kei-clone,32,Neon Genesis Evangelion: The End of Evangelion,7
+1156,47,kei-clone,30276,One Punch Man,8
+1157,47,kei-clone,853,Ouran Koukou Host Club,7
+1158,47,kei-clone,527,Pokemon,6
+1159,47,kei-clone,528,Pokemon Movie 01: Mewtwo no Gyakushuu,5
+1160,47,kei-clone,1117,Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan,6
+1161,47,kei-clone,1118,Pokemon Movie 03: Kesshoutou no Teiou Entei,7
+1162,47,kei-clone,564,Puni Puni☆Poemii,6
+1163,47,kei-clone,710,Rec,6
+1164,47,kei-clone,64,Rozen Maiden,4
+1165,47,kei-clone,46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,8
+1166,47,kei-clone,401,Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen,9
+1167,47,kei-clone,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,10
+1168,47,kei-clone,205,Samurai Champloo,6
+1169,47,kei-clone,3328,School Days: Magical Heart Kokoro-chan,7
+1170,47,kei-clone,24,School Rumble,9
+1171,47,kei-clone,846,School Rumble Ni Gakki,9
+1172,47,kei-clone,517,School Rumble: Ichi Gakki Hoshuu,7
+1173,47,kei-clone,199,Sen to Chihiro no Kamikakushi,7
+1174,47,kei-clone,355,Shakugan no Shana,8
+1175,47,kei-clone,1066,Shakugan no Shana-tan,8
+1176,47,kei-clone,3221,Shakugan no Shana-tan Movie,7
+1177,47,kei-clone,1531,Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!,7
+1178,47,kei-clone,154,Shaman King,8
+1179,47,kei-clone,1480,Sky Girls OVA,3
+1180,47,kei-clone,534,Slayers,5
+1181,47,kei-clone,1965,Sola,7
+1182,47,kei-clone,1362,Street Fighter II Movie,2
+1183,47,kei-clone,849,Suzumiya Haruhi no Yuuutsu,10
+1184,47,kei-clone,4382,Suzumiya Haruhi no Yuuutsu (2009),5
+1185,47,kei-clone,1072,Sweat Punch,4
+1186,47,kei-clone,2001,Tengen Toppa Gurren Lagann,8
+1187,47,kei-clone,2236,Toki wo Kakeru Shoujo,8
+1188,47,kei-clone,823,Virgin Night,5
+1189,47,kei-clone,156,X,4
+1190,47,kei-clone,595,X OVA,8
+1191,47,kei-clone,1195,Zero no Tsukaima,8
+1192,47,kei-clone,48,.hack//Sign,5
+1193,47,kei-clone,269,Bleach,4
+1194,47,kei-clone,232,Cardcaptor Sakura,6
+1195,47,kei-clone,3841,Chi's Sweet Home,6
+1196,47,kei-clone,59,Chobits,7
+1197,47,kei-clone,122,Full Moon wo Sagashite,4
+1198,47,kei-clone,16,Hachimitsu to Clover,6
+1199,47,kei-clone,379,Heppoko Jikken Animation Excel♥Saga,6
+1200,47,kei-clone,228,Jigoku Shoujo,7
+1201,47,kei-clone,94,Kidou Senshi Gundam SEED Destiny,2
+1202,47,kei-clone,276,Mahoromatic: Automatic Maiden,6
+1203,47,kei-clone,1722,Nagasarete Airantou,6
+1204,47,kei-clone,1735,Naruto: Shippuuden,5
+1205,47,kei-clone,675,One: Kagayaku Kisetsu e,1
+1206,47,kei-clone,490,Paniponi Dash!,6
+1207,47,kei-clone,210,Ranma ½,6
+1208,47,kei-clone,45,Rurouni Kenshin: Meiji Kenkaku Romantan,6
+1209,47,kei-clone,79,Shuffle!,6
+1210,47,kei-clone,2942,Sketchbook: Full Color's,5
+1211,47,kei-clone,177,Tsubasa Chronicle,5
+1212,47,kei-clone,1840,Zero no Tsukaima: Futatsuki no Kishi,7
+1213,47,kei-clone,20,Naruto,8
+1214,47,kei-clone,1564,Pokemon Advanced Generation,4
+1215,47,kei-clone,481,Yu☆Gi☆Oh! Duel Monsters,5
+1216,48,seif,9062,Angel Beats! Specials,7
+1217,48,seif,6746,Durarara!!,8
+1218,48,seif,6702,Fairy Tail,6
+1219,48,seif,9314,Fractale,7
+1220,48,seif,9367,Freezing,5
+1221,48,seif,9041,IS: Infinite Stratos,6
+1222,48,seif,6594,Katanagatari,7
+1223,48,seif,8129,Kuragehime,6
+1224,48,seif,9756,Mahou Shoujo Madoka★Magica,8
+1225,48,seif,7769,Ookami-san to Shichinin no Nakama-tachi,7
+1226,48,seif,8476,Otome Youkai Zakuro,6
+1227,48,seif,7588,Saraiya Goyou,6
+1228,48,seif,8934,Star Driver: Kagayaki no Takuto,6
+1229,48,seif,9241,Super Robot Taisen OG: The Inspector,6
+1230,48,seif,8311,Tegamibachi Reverse,6
+1231,48,seif,9331,Yumekui Merry,6
+1232,48,seif,6408,"""Bungaku Shoujo"" Movie",8
+1233,48,seif,3269,.hack//G.U. Trilogy,5
+1234,48,seif,873,.hack//Roots,5
+1235,48,seif,48,.hack//Sign,8
+1236,48,seif,298,.hack//Tasogare no Udewa Densetsu,7
+1237,48,seif,6682,11eyes,6
+1238,48,seif,101,Air,8
+1239,48,seif,857,Air Gear,5
+1240,48,seif,713,Air Movie,6
+1241,48,seif,3359,Amatsuki,7
+1242,48,seif,6547,Angel Beats!,6
+1243,48,seif,10067,Angel Beats! Another Epilogue,5
+1244,48,seif,7193,Aoi Bungaku Series,8
+1245,48,seif,1586,Aoi Umi no Tristia,4
+1246,48,seif,54,Appleseed (Movie),5
+1247,48,seif,2969,Appleseed Saga Ex Machina,7
+1248,48,seif,6032,Aquarion Movie: Ippatsu Gyakuten-hen,5
+1249,48,seif,477,Aria the Animation,7
+1250,48,seif,962,Aria the Natural,6
+1251,48,seif,3297,Aria the Origination,8
+1252,48,seif,2563,Aria the OVA: Arietta,7
+1253,48,seif,492,Armitage III: Dual-Matrix,6
+1254,48,seif,1554,Asatte no Houkou.,6
+1255,48,seif,5342,Asura Cryin',6
+1256,48,seif,6676,Asura Cryin' 2,4
+1257,48,seif,56,Avenger,4
+1258,48,seif,104,Ayashi no Ceres,7
+1259,48,seif,2251,Baccano!,6
+1260,48,seif,3901,Baccano! Specials,6
+1261,48,seif,5081,Bakemonogatari,7
+1262,48,seif,1576,Bakumatsu Kikansetsu Irohanihoheto,5
+1263,48,seif,109,Bakuretsu Tenshi,6
+1264,48,seif,2986,Bamboo Blade,5
+1265,48,seif,8278,Biohazard 4: Incubate,4
+1266,48,seif,3446,Biohazard: Degeneration,7
+1267,48,seif,530,Bishoujo Senshi Sailor Moon,6
+1268,48,seif,531,Bishoujo Senshi Sailor Moon R: The Movie,5
+1269,48,seif,1498,Black Blood Brothers,6
+1270,48,seif,889,Black Lagoon,7
+1271,48,seif,1519,Black Lagoon: The Second Barrage,9
+1272,48,seif,3407,Blassreiter,6
+1273,48,seif,4835,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,4
+1274,48,seif,762,Bleach: Memories in the Rain,6
+1275,48,seif,834,Bleach: The Sealed Sword Frenzy,4
+1276,48,seif,150,Blood+,8
+1277,48,seif,405,Blood: The Last Vampire,6
+1278,48,seif,819,Boku wa Imouto ni Koi wo Suru,5
+1279,48,seif,4177,Bounen no Xamdou,8
+1280,48,seif,1681,Brave Story,7
+1281,48,seif,568,Bubblegum Crisis Tokyo 2040,6
+1282,48,seif,3389,Bus Gamer,3
+1283,48,seif,1536,Busou Renkin,6
+1284,48,seif,1689,Byousoku 5 Centimeter,9
+1285,48,seif,5356,Canaan,7
+1286,48,seif,3087,Cencoroll,6
+1287,48,seif,59,Chobits,7
+1288,48,seif,112,Chou Henshin Cosprayers,2
+1289,48,seif,60,Chrno Crusade,8
+1290,48,seif,2167,Clannad,7
+1291,48,seif,6351,"Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",6
+1292,48,seif,4059,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",7
+1293,48,seif,1818,Claymore,8
+1294,48,seif,1575,Code Geass: Hangyaku no Lelouch,7
+1295,48,seif,2904,Code Geass: Hangyaku no Lelouch R2,8
+1296,48,seif,1482,D.Gray-man,6
+1297,48,seif,61,D.N.Angel,6
+1298,48,seif,2025,Darker than Black: Kuro no Keiyakusha,6
+1299,48,seif,4182,Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita,6
+1300,48,seif,6573,Darker than Black: Ryuusei no Gemini,8
+1301,48,seif,63,DearS,5
+1302,48,seif,1535,Death Note,7
+1303,48,seif,2164,Dennou Coil,10
+1304,48,seif,5177,Denpa-teki na Kanojo,6
+1305,48,seif,8086,Densetsu no Yuusha no Densetsu,7
+1306,48,seif,1364,Detective Conan Movie 05: Countdown to Heaven,5
+1307,48,seif,1366,Detective Conan Movie 07: Crossroad in the Ancient Capital,5
+1308,48,seif,1726,Devil May Cry,5
+1309,48,seif,552,Digimon Adventure,4
+1310,48,seif,874,Digimon Tamers,4
+1311,48,seif,2123,Digimon X-Evolution,4
+1312,48,seif,424,Dirty Pair,5
+1313,48,seif,5593,Dogs: Bullets & Carnage,6
+1314,48,seif,225,Dragon Ball GT,2
+1315,48,seif,3230,Druaga no Tou: The Aegis of Uruk,6
+1316,48,seif,226,Elfen Lied,6
+1317,48,seif,1250,Erementar Gerad,6
+1318,48,seif,790,Ergo Proxy,7
+1319,48,seif,2759,Evangelion: 1.0 You Are (Not) Alone,7
+1320,48,seif,3784,Evangelion: 2.0 You Can (Not) Advance,8
+1321,48,seif,455,Fantastic Children,8
+1322,48,seif,356,Fate/stay night,7
+1323,48,seif,1126,Figure 17: Tsubasa & Hikaru,6
+1324,48,seif,426,Final Fantasy,6
+1325,48,seif,317,Final Fantasy VII: Advent Children,7
+1326,48,seif,408,Final Fantasy VII: Last Order,6
+1327,48,seif,5178,First Squad: The Moment of Truth,4
+1328,48,seif,71,Full Metal Panic!,8
+1329,48,seif,73,Full Metal Panic! The Second Raid,8
+1330,48,seif,1015,Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi,7
+1331,48,seif,72,Full Metal Panic? Fumoffu,7
+1332,48,seif,121,Fullmetal Alchemist,9
+1333,48,seif,5114,Fullmetal Alchemist: Brotherhood,9
+1334,48,seif,6421,Fullmetal Alchemist: Brotherhood Specials,6
+1335,48,seif,908,Fullmetal Alchemist: Premium Collection,7
+1336,48,seif,664,Fullmetal Alchemist: Reflections,7
+1337,48,seif,430,Fullmetal Alchemist: The Conqueror of Shamballa,7
+1338,48,seif,123,Fushigi Yuugi,7
+1339,48,seif,344,Futatsu no Spica,7
+1340,48,seif,4725,Ga-Rei: Zero,7
+1341,48,seif,2890,Gake no Ue no Ponyo,6
+1342,48,seif,1858,Gakuen Utopia Manabi Straight!,7
+1343,48,seif,3219,Gakuen Utopia Manabi Straight!: Natsu da! Manabi da! Kyouka Gasshuku da!,7
+1344,48,seif,239,Gankutsuou,7
+1345,48,seif,909,Geneshaft,4
+1346,48,seif,132,GetBackers,4
+1347,48,seif,1571,Ghost Hunt,7
+1348,48,seif,1140,Giniro no Kami no Agito,6
+1349,48,seif,336,Ginyuu Mokushiroku Meine Liebe,5
+1350,48,seif,771,Ginyuu Mokushiroku Meine Liebe Wieder,5
+1351,48,seif,133,Green Green,5
+1352,48,seif,297,Grenadier: Hohoemi no Senshi,5
+1353,48,seif,266,Gunparade March: Arata Naru Kougunka,5
+1354,48,seif,134,Gunslinger Girl,9
+1355,48,seif,3231,Gunslinger Girl: Il Teatrino,7
+1356,48,seif,4765,Gunslinger Girl: Il Teatrino OVA,7
+1357,48,seif,650,Gunsmith Cats,4
+1358,48,seif,387,Haibane Renmei,9
+1359,48,seif,6895,Hakuouki,6
+1360,48,seif,413,Hametsu no Mars,2
+1361,48,seif,587,Hanbun no Tsuki ga Noboru Sora,6
+1362,48,seif,270,Hellsing,7
+1363,48,seif,2002,Heroic Age,7
+1364,48,seif,2899,Higurashi no Naku Koro ni Special: Nekogoroshi-hen,7
+1365,48,seif,360,Himiko-den,5
+1366,48,seif,1721,Hitohira,8
+1367,48,seif,258,Hitsuji no Uta,5
+1368,48,seif,256,Hoshi no Koe,9
+1369,48,seif,1220,Hoshizora Kiseki,6
+1370,48,seif,475,Hotori: Tada Saiwai wo Koinegau,7
+1371,48,seif,431,Howl no Ugoku Shiro,9
+1372,48,seif,4550,Hyakko,6
+1373,48,seif,359,I'll/CKBC,6
+1374,48,seif,6610,Ibara no Ou,8
+1375,48,seif,248,Ichigo 100%,6
+1376,48,seif,642,Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e,5
+1377,48,seif,488,Ichigo Mashimaro,7
+1378,48,seif,4811,Ichigo Mashimaro Encore,7
+1379,48,seif,1888,Ichigo Mashimaro OVA,7
+1380,48,seif,1694,iDOLM@STER Xenoglossia,7
+1381,48,seif,822,Initial D Extra Stage,5
+1382,48,seif,468,Innocence,6
+1383,48,seif,1230,Innocent Venus,6
+1384,48,seif,1085,Interlude,5
+1385,48,seif,452,InuYasha Movie 1: Toki wo Koeru Omoi,6
+1386,48,seif,450,InuYasha Movie 2: Kagami no Naka no Mugenjou,7
+1387,48,seif,451,InuYasha Movie 3: Tenka Hadou no Ken,7
+1388,48,seif,449,InuYasha Movie 4: Guren no Houraijima,6
+1389,48,seif,432,Iria: Zeiram The Animation,5
+1390,48,seif,5781,Isekai no Seikishi Monogatari,5
+1391,48,seif,2523,Izumo: Takeki Tsurugi no Senki,5
+1392,48,seif,228,Jigoku Shoujo,5
+1393,48,seif,141,Jinki:Extend,6
+1394,48,seif,953,Juu Ou Sei,6
+1395,48,seif,153,Juuni Kokuki,7
+1396,48,seif,5680,K-On!,8
+1397,48,seif,7791,K-On!!,7
+1398,48,seif,427,Kaleido Star,10
+1399,48,seif,428,Kaleido Star: Aratanaru Tsubasa - Extra Stage,7
+1400,48,seif,1501,Kaleido Star: Good da yo! Goood!!,6
+1401,48,seif,429,Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari,10
+1402,48,seif,3958,Kannagi,7
+1403,48,seif,5978,Kannagi: Moshimo Kannagi ga Attara...,6
+1404,48,seif,143,Kannazuki no Miko,7
+1405,48,seif,1530,Kanon (2006),7
+1406,48,seif,2593,Kara no Kyoukai Movie 1: Fukan Fuukei,9
+1407,48,seif,3782,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),9
+1408,48,seif,3783,Kara no Kyoukai Movie 3: Tsuukaku Zanryuu,9
+1409,48,seif,4280,Kara no Kyoukai Movie 4: Garan no Dou,9
+1410,48,seif,4282,Kara no Kyoukai Movie 5: Mujun Rasen,8
+1411,48,seif,5204,Kara no Kyoukai Movie 6: Boukyaku Rokuon,9
+1412,48,seif,5205,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),9
+1413,48,seif,1691,Kaze no Stigma,5
+1414,48,seif,572,Kaze no Tani no Nausicaä,5
+1415,48,seif,6205,Kämpfer,7
+1416,48,seif,1606,Kekkaishi,6
+1417,48,seif,5420,Kemono no Souja Erin,8
+1418,48,seif,1086,Kenran Butou Sai: The Mars Daybreak,6
+1419,48,seif,845,Kiba,6
+1420,48,seif,3349,Kiddy GiRL-AND,6
+1421,48,seif,5859,Kiddy GiRL-AND Pilot,6
+1422,48,seif,274,Kiddy Grade,6
+1423,48,seif,93,Kidou Senshi Gundam SEED,7
+1424,48,seif,94,Kidou Senshi Gundam SEED Destiny,5
+1425,48,seif,864,Kidou Senshi Gundam SEED MSV Astray,3
+1426,48,seif,1556,Kikoushi Enma,7
+1427,48,seif,1087,Kimagure Orange☆Road,6
+1428,48,seif,825,King of Fighters: Another Day,3
+1429,48,seif,1579,Kiniro no Corda: Primo Passo,5
+1430,48,seif,3392,Kiniro no Corda: Primo Passo - Hitonatsu no Encore,5
+1431,48,seif,2175,Kino no Tabi: The Beautiful World - Byouki no Kuni - For You,6
+1432,48,seif,1379,Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.,7
+1433,48,seif,766,Kishin Houkou Demonbane,5
+1434,48,seif,1067,Kishin Houkou Demonbane (TV),6
+1435,48,seif,3323,Kite Liberator,5
+1436,48,seif,4262,Koihime†Musou,5
+1437,48,seif,467,Koukaku Kidoutai: Stand Alone Complex,8
+1438,48,seif,1566,Koukaku Kidoutai: Stand Alone Complex - Solid State Society,9
+1439,48,seif,801,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,8
+1440,48,seif,4186,Koukaku no Regios,6
+1441,48,seif,237,Koukyoushihen Eureka Seven,8
+1442,48,seif,4246,Koukyoushihen Eureka Seven: Pocket ga Niji de Ippai,7
+1443,48,seif,433,"Kumo no Mukou, Yakusoku no Basho",10
+1444,48,seif,1032,Kumo no You ni Kaze no You ni,5
+1445,48,seif,483,Kurau Phantom Memory,8
+1446,48,seif,3358,Kure-nai,7
+1447,48,seif,97,Last Exile,9
+1448,48,seif,1013,Le Chevalier D'Eon,7
+1449,48,seif,434,Legend of Lemnear: Kyokuguro no Tsubasa Valkisas,3
+1450,48,seif,671,Lemon Angel Project,5
+1451,48,seif,7598,Loups=Garous,6
+1452,48,seif,3572,Macross F,9
+1453,48,seif,5310,Macross F Movie 1: Itsuwari no Utahime,6
+1454,48,seif,4454,Macross F: Close Encounter - Deculture Edition,7
+1455,48,seif,474,Macross Plus,7
+1456,48,seif,194,Macross Zero,8
+1457,48,seif,1089,Macross: Do You Remember Love?,6
+1458,48,seif,252,Madlax,7
+1459,48,seif,435,Magic Knight Rayearth,7
+1460,48,seif,157,Mahou Sensei Negima!,6
+1461,48,seif,76,Mahou Shoujo Lyrical Nanoha,7
+1462,48,seif,77,Mahou Shoujo Lyrical Nanoha A's,8
+1463,48,seif,1915,Mahou Shoujo Lyrical Nanoha StrikerS,7
+1464,48,seif,4985,Mahou Shoujo Lyrical Nanoha: The Movie 1st,7
+1465,48,seif,872,Mahou Shoujo-tai Arusu,6
+1466,48,seif,4483,Mahoutsukai ni Taisetsu na Koto: Natsu no Sora,6
+1467,48,seif,98,Mai-HiME,9
+1468,48,seif,99,Mai-Otome,6
+1469,48,seif,3268,Mai-Otome 0: S.ifr,7
+1470,48,seif,1609,Mai-Otome Zwei,5
+1471,48,seif,860,Makai Senki Disgaea,5
+1472,48,seif,158,Maria-sama ga Miteru,6
+1473,48,seif,1729,Maria-sama ga Miteru 3rd,7
+1474,48,seif,3750,Maria-sama ga Miteru 4th,7
+1475,48,seif,444,Maria-sama ga Miteru: Haru,6
+1476,48,seif,363,Memories Off 3.5,5
+1477,48,seif,222,Mezzo DSA,5
+1478,48,seif,4087,Michiko to Hatchin,8
+1479,48,seif,330,Midori no Hibi,7
+1480,48,seif,2963,Minami-ke,7
+1481,48,seif,5713,Minami-ke Betsubara,7
+1482,48,seif,5162,Minami-ke Okaeri,6
+1483,48,seif,3225,Minami-ke Okawari,7
+1484,48,seif,2751,Miyori no Mori,5
+1485,48,seif,3342,Mnemosyne: Mnemosyne no Musume-tachi,7
+1486,48,seif,164,Mononoke Hime,8
+1487,48,seif,624,Mouse,3
+1488,48,seif,323,Mousou Dairinin,5
+1489,48,seif,4151,Mugen no Juunin,5
+1490,48,seif,593,Mugen no Ryvius,6
+1491,48,seif,1696,Murder Princess,6
+1492,48,seif,2603,Mushi-Uta,7
+1493,48,seif,457,Mushishi,6
+1494,48,seif,20,Naruto,6
+1495,48,seif,442,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,6
+1496,48,seif,936,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,4
+1497,48,seif,761,Naruto: Akaki Yotsuba no Clover wo Sagase,5
+1498,48,seif,4437,Naruto: Shippuuden Movie 2 - Kizuna,5
+1499,48,seif,594,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,6
+1500,48,seif,4081,Natsume Yuujinchou,7
+1501,48,seif,1619,Negima!? Haru Special!?,6
+1502,48,seif,1732,Negima!? Natsu Special!?,5
+1503,48,seif,597,Neko no Ongaeshi,8
+1504,48,seif,30,Neon Genesis Evangelion,6
+1505,48,seif,32,Neon Genesis Evangelion: The End of Evangelion,6
+1506,48,seif,1210,NHK ni Youkoso!,7
+1507,48,seif,800,NieA Under 7,5
+1508,48,seif,2970,Night Wizard,5
+1509,48,seif,3673,Nijuu Mensou no Musume,6
+1510,48,seif,942,Nishi no Yoki Majo: Astraea Testament,5
+1511,48,seif,1698,Nodame Cantabile,7
+1512,48,seif,4477,Nodame Cantabile: Paris-hen,7
+1513,48,seif,584,Noein: Mou Hitori no Kimi e,7
+1514,48,seif,272,Noir,8
+1515,48,seif,6512,Nyan Koi!,7
+1516,48,seif,4155,One Piece Film: Strong World,7
+1517,48,seif,8740,One Piece Film: Strong World Episode 0,6
+1518,48,seif,459,One Piece Movie 01,6
+1519,48,seif,1238,One Piece: Mamore! Saigo no Dai Butai,6
+1520,48,seif,1237,One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!,6
+1521,48,seif,1094,One Piece: Umi no Heso no Daibouken-hen,6
+1522,48,seif,195,Onegai☆Teacher,7
+1523,48,seif,443,Onegai☆Teacher: Himitsu na Futari,7
+1524,48,seif,196,Onegai☆Twins,7
+1525,48,seif,2966,Ookami to Koushinryou,7
+1526,48,seif,5341,Ookami to Koushinryou II,8
+1527,48,seif,6007,Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu,6
+1528,48,seif,8769,Ore no Imouto ga Konnani Kawaii Wake ga Nai,7
+1529,48,seif,525,Otogizoushi,7
+1530,48,seif,108,Ou Dorobou Jing in Seventh Heaven,5
+1531,48,seif,853,Ouran Koukou Host Club,8
+1532,48,seif,770,Pale Cocoon,8
+1533,48,seif,161,Peace Maker Kurogane,7
+1534,48,seif,437,Perfect Blue,8
+1535,48,seif,438,Phantom The Animation,5
+1536,48,seif,329,Planetes,7
+1537,48,seif,1538,Pumpkin Scissors,6
+1538,48,seif,208,R.O.D: Read or Die,8
+1539,48,seif,209,R.O.D: The TV,9
+1540,48,seif,417,Ragnarök The Animation,5
+1541,48,seif,165,RahXephon,8
+1542,48,seif,559,RahXephon: Kansoukyoku/Kanojo to Kanojo Jishin to - Thatness and Thereness,7
+1543,48,seif,758,RahXephon: Tagen Hensoukyoku,6
+1544,48,seif,919,Ray The Animation,5
+1545,48,seif,1954,Rayearth,7
+1546,48,seif,3363,RD Sennou Chousashitsu,5
+1547,48,seif,1601,Red Garden,6
+1548,48,seif,2369,Rental Magica,6
+1549,48,seif,439,RG Veda,6
+1550,48,seif,4618,RideBack,6
+1551,48,seif,197,Rizelmine,2
+1552,48,seif,1942,Rocket Girls,5
+1553,48,seif,1699,Romeo x Juliet,7
+1554,48,seif,64,Rozen Maiden,7
+1555,48,seif,1719,Rozen Maiden: Ouvertüre,8
+1556,48,seif,65,Rozen Maiden: Träumend,7
+1557,48,seif,45,Rurouni Kenshin: Meiji Kenkaku Romantan,7
+1558,48,seif,46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,6
+1559,48,seif,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,9
+1560,48,seif,168,s.CRY.ed,7
+1561,48,seif,529,Saishuu Heiki Kanojo,8
+1562,48,seif,609,Saishuu Heiki Kanojo: Another Love Song,7
+1563,48,seif,4213,Saishuu Shiken Kujira Progressive,5
+1564,48,seif,130,Saiyuuki Reload,5
+1565,48,seif,608,Sakura Taisen: Katsudou Shashin,6
+1566,48,seif,562,Sakura Taisen: Le Nouveau Paris,6
+1567,48,seif,166,Samurai 7,7
+1568,48,seif,205,Samurai Champloo,8
+1569,48,seif,419,Samurai Deeper Kyou,7
+1570,48,seif,167,Scrapped Princess,8
+1571,48,seif,400,Seihou Bukyou Outlaw Star,7
+1572,48,seif,1124,Seikai no Danshou: Tanjou,7
+1573,48,seif,290,Seikai no Monshou,8
+1574,48,seif,396,Seikai no Senki,7
+1575,48,seif,397,Seikai no Senki II,7
+1576,48,seif,398,Seikai no Senki III,7
+1577,48,seif,1827,Seirei no Moribito,9
+1578,48,seif,5507,Senjou no Valkyria,7
+1579,48,seif,6973,Senkou no Night Raid,5
+1580,48,seif,1033,Sennen Joyuu,6
+1581,48,seif,339,Serial Experiments Lain,7
+1582,48,seif,355,Shakugan no Shana,7
+1583,48,seif,2787,Shakugan no Shana II (Second),7
+1584,48,seif,1815,Shakugan no Shana Movie,5
+1585,48,seif,1531,Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!,5
+1586,48,seif,3420,Shigofumi,7
+1587,48,seif,4715,Shigofumi: Sore kara,7
+1588,48,seif,4581,Shikabane Hime: Aka,7
+1589,48,seif,5034,Shikabane Hime: Kuro,6
+1590,48,seif,884,Shin Angyo Onshi,5
+1591,48,seif,91,Shin Kidou Senki Gundam Wing: Endless Waltz,5
+1592,48,seif,169,Shingetsutan Tsukihime,9
+1593,48,seif,789,Shinigami no Ballad.,5
+1594,48,seif,116,Shinpi no Sekai El-Hazard (TV),5
+1595,48,seif,2596,Shinreigari,7
+1596,48,seif,425,Shiritsu Araiso Koutougakkou Seitokai Shikkoubu,6
+1597,48,seif,441,Shoujo Kakumei Utena: Adolescence Mokushiroku,5
+1598,48,seif,1557,Shounen Onmyouji,6
+1599,48,seif,1517,Silent Möbius,5
+1600,48,seif,879,Simoun,8
+1601,48,seif,2604,Sky Girls,7
+1602,48,seif,3410,Sky Girls Specials,5
+1603,48,seif,170,Slam Dunk,5
+1604,48,seif,6802,So Ra No Wo To,7
+1605,48,seif,1965,Sola,5
+1606,48,seif,152,Solty Rei,6
+1607,48,seif,3138,"Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de.",6
+1608,48,seif,5307,Sora wo Kakeru Shoujo,6
+1609,48,seif,8726,Soredemo Machi wa Mawatteiru,7
+1610,48,seif,1602,Soukou no Strain,5
+1611,48,seif,75,Soukyuu no Fafner: Dead Aggressor,8
+1612,48,seif,560,Soukyuu no Fafner: Dead Aggressor - Right of Left,7
+1613,48,seif,854,Soul Link,4
+1614,48,seif,198,Speed Grapher,7
+1615,48,seif,341,Spiral: Suiri no Kizuna,6
+1616,48,seif,1005,Star Ocean EX,5
+1617,48,seif,342,Starship Operators,6
+1618,48,seif,3086,Strait Jacket,5
+1619,48,seif,2418,Stranger: Mukou Hadan,6
+1620,48,seif,421,Stratos 4,7
+1621,48,seif,423,Stratos 4 Advance,7
+1622,48,seif,1584,Stratos 4 Advance Kanketsu-hen,7
+1623,48,seif,422,Stratos 4 OVA,6
+1624,48,seif,3667,Strike Witches,7
+1625,48,seif,6381,Strike Witches 2,5
+1626,48,seif,9751,Strike Witches Movie,7
+1627,48,seif,1862,Strike Witches OVA,7
+1628,48,seif,5681,Summer Wars,6
+1629,48,seif,1544,Super Robot Taisen OG The Animation,5
+1630,48,seif,1603,Super Robot Taisen OG: Divine Wars,5
+1631,48,seif,4075,Super Robot Taisen OG: Divine Wars - Sorezore no Michi,5
+1632,48,seif,390,Suzuka,6
+1633,48,seif,7311,Suzumiya Haruhi no Shoushitsu,9
+1634,48,seif,849,Suzumiya Haruhi no Yuuutsu,9
+1635,48,seif,4382,Suzumiya Haruhi no Yuuutsu (2009),6
+1636,48,seif,173,Tactics,6
+1637,48,seif,5141,Taishou Yakyuu Musume.,7
+1638,48,seif,445,Tales of Eternia The Animation,6
+1639,48,seif,391,Tales of Phantasia The Animation,7
+1640,48,seif,1731,Tales of Symphonia The Animation: Sylvarant-hen,6
+1641,48,seif,4884,Tales of the Abyss,7
+1642,48,seif,6046,Tales of Vesperia: The First Strike,8
+1643,48,seif,9055,Tamayura,7
+1644,48,seif,6758,Tatakau Shisho: The Book of Bantorra,7
+1645,48,seif,3594,Tears to Tiara,6
+1646,48,seif,6444,Tegamibachi,7
+1647,48,seif,5538,Tegamibachi: Hikari to Ao no Gensou Yawa,7
+1648,48,seif,1500,Teizokurei Daydream,5
+1649,48,seif,3668,Telepathy Shoujo Ran,6
+1650,48,seif,1006,Tenchi Muyou! in Love,6
+1651,48,seif,174,Tenjou Tenge,6
+1652,48,seif,448,Tenjou Tenge: The Ultimate Fight,6
+1653,48,seif,2113,Tenkuu Senki Shurato,6
+1654,48,seif,815,Tennis no Oujisama Movie 1: Futari no Samurai - The First Game,5
+1655,48,seif,1190,Tennis no Oujisama: Sonzoku Yama no Hi,5
+1656,48,seif,995,Tennis no Oujisama: Zenkoku Taikai-hen,5
+1657,48,seif,2158,Terra e... (TV),7
+1658,48,seif,566,Tetsuwan Birdy,6
+1659,48,seif,3974,Tetsuwan Birdy Decode,7
+1660,48,seif,5074,Tetsuwan Birdy Decode:02,8
+1661,48,seif,4033,The iDOLM@STER Live For You!,3
+1662,48,seif,3089,The Sky Crawlers,6
+1663,48,seif,944,The Third: Aoi Hitomi no Shoujo,7
+1664,48,seif,6213,Toaru Kagaku no Railgun,8
+1665,48,seif,9047,Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desu kara,6
+1666,48,seif,4654,Toaru Majutsu no Index,7
+1667,48,seif,2236,Toki wo Kakeru Shoujo,9
+1668,48,seif,916,Tokkou,6
+1669,48,seif,6211,Tokyo Magnitude 8.0,8
+1670,48,seif,1860,Tokyo Majin Gakuen Kenpucho: Tou,6
+1671,48,seif,175,Tokyo Underground,7
+1672,48,seif,949,Top wo Nerae! Gunbuster,6
+1673,48,seif,4224,Toradora!,8
+1674,48,seif,3613,Toshokan Sensou,7
+1675,48,seif,176,Triangle Heart: Sweet Songs Forever,4
+1676,48,seif,27,Trinity Blood,7
+1677,48,seif,2129,True Tears,7
+1678,48,seif,177,Tsubasa Chronicle,6
+1679,48,seif,969,Tsubasa Chronicle 2nd Season,6
+1680,48,seif,807,Tsubasa Chronicle: Tori Kago no Kuni no Himegimi,6
+1681,48,seif,4066,Tytania,5
+1682,48,seif,113,Uchuu no Stellvia,7
+1683,48,seif,856,Utawarerumono,7
+1684,48,seif,180,Vandread,6
+1685,48,seif,181,Vandread: The Second Stage,6
+1686,48,seif,1607,Venus Versus Virus,5
+1687,48,seif,338,Versailles no Bara,6
+1688,48,seif,2746,Vexille: 2077 Nihon Sakoku,7
+1689,48,seif,3322,Wagaya no Oinari-sama.,6
+1690,48,seif,446,Weiß Kreuz Glühen,6
+1691,48,seif,4720,White Album,6
+1692,48,seif,6165,White Album 2nd Season,7
+1693,48,seif,7,Witch Hunter Robin,6
+1694,48,seif,202,Wolf's Rain,8
+1695,48,seif,1023,Wolf's Rain OVA,7
+1696,48,seif,6956,Working!!,7
+1697,48,seif,4415,World Destruction: Sekai Bokumetsu no Rokunin,6
+1698,48,seif,156,X,8
+1699,48,seif,155,X/1999,5
+1700,48,seif,184,Xenosaga The Animation,5
+1701,48,seif,861,xxxHOLiC,6
+1702,48,seif,793,xxxHOLiC Movie: Manatsu no Yoru no Yume,7
+1703,48,seif,3614,Yakushiji Ryouko no Kaiki Jikenbo,5
+1704,48,seif,5454,Yoku Wakaru Gendai Mahou,6
+1705,48,seif,6748,Yoku Wakaru Gendai Mahou: Cruncha Cruncha Cruncha,6
+1706,48,seif,798,Yomigaeru Sora: Rescue Wings,6
+1707,48,seif,1843,Yomigaeru Sora: Rescue Wings - Saigo no Shigoto,5
+1708,48,seif,1264,Yoroiden Samurai Troopers,4
+1709,48,seif,4548,Yozakura Quartet,5
+1710,48,seif,943,Yume Tsukai,4
+1711,48,seif,204,Yumeria,6
+1712,48,seif,392,Yuu☆Yuu☆Hakusho,6
+1713,48,seif,883,Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna,5
+1714,48,seif,878,Zegapain,6
+1715,48,seif,1195,Zero no Tsukaima,7
+1716,48,seif,1840,Zero no Tsukaima: Futatsuki no Kishi,7
+1717,48,seif,3712,Zero no Tsukaima: Princesses no Rondo,5
+1718,48,seif,5300,Zoku Natsume Yuujinchou,7
+1719,48,seif,3549,Allison to Lillia,7
+1720,48,seif,6347,Baka to Test to Shoukanjuu,7
+1721,48,seif,4975,ChäoS HEAd,5
+1722,48,seif,3840,Crystal Blaze,6
+1723,48,seif,6747,Dance in the Vampire Bund,6
+1724,48,seif,2795,Dragonaut: The Resonance,6
+1725,48,seif,2030,El Cazador de la Bruja,6
+1726,48,seif,5670,GA: Geijutsuka Art Design Class,6
+1727,48,seif,247,Harukanaru Toki no Naka de: Hachiyou Shou,5
+1728,48,seif,5630,Higashi no Eden,7
+1729,48,seif,7088,Ichiban Ushiro no Daimaou,7
+1730,48,seif,1808,Kamichama Karin,5
+1731,48,seif,2581,Kidou Senshi Gundam 00,6
+1732,48,seif,2215,Kishin Taisen Gigantic Formula,6
+1733,48,seif,1887,Lucky☆Star,8
+1734,48,seif,6050,Mahou Sensei Negima!: Mou Hitotsu no Sekai,7
+1735,48,seif,4188,Mahou Sensei Negima!: Shiroki Tsubasa Ala Alba,6
+1736,48,seif,3655,Nabari no Ou,6
+1737,48,seif,1546,Negima!?,6
+1738,48,seif,5530,Pandora Hearts,6
+1739,48,seif,3366,Persona: Trinity Soul,6
+1740,48,seif,5682,Phantom: Requiem for the Phantom,7
+1741,48,seif,6114,Rainbow: Nisha Rokubou no Shichinin,7
+1742,48,seif,238,Rekka no Honoo,5
+1743,48,seif,6203,Sasameki Koto,5
+1744,48,seif,5940,Seiken no Blacksmith,5
+1745,48,seif,6500,Seikon no Qwaser,5
+1746,48,seif,5355,Sengoku Basara,6
+1747,48,seif,5220,Shangri-La,7
+1748,48,seif,6098,Sora no Manimani,5
+1749,48,seif,3588,Soul Eater,6
+1750,48,seif,3000,Taiho Shichau zo: Full Throttle,5
+1751,48,seif,3859,Top Secret: The Revelation,5
+1752,48,seif,6129,Umi Monogatari: Anata ga Ite Kureta Koto,5
+1753,48,seif,3091,xxxHOLiC◆Kei,6
+1754,48,seif,230,Air Master,2
+1755,48,seif,1224,Aquarian Age: Sign for Evolution,4
+1756,48,seif,67,Basilisk: Kouga Ninpou Chou,5
+1757,48,seif,57,Beck,5
+1758,48,seif,348,Binzume Yousei,3
+1759,48,seif,269,Bleach,4
+1760,48,seif,357,Bokusatsu Tenshi Dokuro-chan,5
+1761,48,seif,812,Chikyuu Shoujo Arjuna,4
+1762,48,seif,1299,Flag,5
+1763,48,seif,364,Gallery Fake,4
+1764,48,seif,358,"Iriya no Sora, UFO no Natsu",5
+1765,48,seif,149,Loveless,6
+1766,48,seif,1735,Naruto: Shippuuden,6
+1767,48,seif,24,School Rumble,7
+1768,48,seif,5909,Seitokai no Ichizon,4
+1769,48,seif,26,Texhnolyze,5
+1770,48,seif,1048,The SoulTaker: Tamashii-gari,4
+1771,48,seif,346,W: Wish,3
+1772,53,Ladholyman,42847,Ai no Utagoe wo Kikasete,10
+1773,53,Ladholyman,101,Air,10
+1774,53,Ladholyman,54,Appleseed (Movie),9
+1775,53,Ladholyman,48411,Aria the Benedizione,10
+1776,53,Ladholyman,41674,Aria the Crepuscolo,10
+1777,53,Ladholyman,3297,Aria the Origination,10
+1778,53,Ladholyman,2986,Bamboo Blade,9
+1779,53,Ladholyman,348,Binzume Yousei,10
+1780,53,Ladholyman,831,Chicchana Yukitsukai Sugar,10
+1781,53,Ladholyman,289,Comic Party,10
+1782,53,Ladholyman,1,Cowboy Bebop,10
+1783,53,Ladholyman,5,Cowboy Bebop: Tengoku no Tobira,10
+1784,53,Ladholyman,62,D.C.: Da Capo,9
+1785,53,Ladholyman,226,Elfen Lied,9
+1786,53,Ladholyman,3167,Eve no Jikan,10
+1787,53,Ladholyman,356,Fate/stay night,9
+1788,53,Ladholyman,119,Final Approach,9
+1789,53,Ladholyman,71,Full Metal Panic!,8
+1790,53,Ladholyman,73,Full Metal Panic! The Second Raid,9
+1791,53,Ladholyman,72,Full Metal Panic? Fumoffu,10
+1792,53,Ladholyman,344,Futatsu no Spica,10
+1793,53,Ladholyman,383,Galaxy Angel,9
+1794,53,Ladholyman,240,Genshiken,10
+1795,53,Ladholyman,268,Golden Boy,9
+1796,53,Ladholyman,266,Gunparade March: Arata Naru Kougunka,8
+1797,53,Ladholyman,256,Hoshi no Koe,10
+1798,53,Ladholyman,4550,Hyakko,9
+1799,53,Ladholyman,253,Jungle wa Itsumo Hare nochi Guu,10
+1800,53,Ladholyman,144,Kanon,9
+1801,53,Ladholyman,147,Kimi ga Nozomu Eien,9
+1802,53,Ladholyman,146,Kono Minikuku mo Utsukushii Sekai,8
+1803,53,Ladholyman,361,Memories Off,6
+1804,53,Ladholyman,330,Midori no Hibi,10
+1805,53,Ladholyman,36936,Mirai no Mirai,9
+1806,53,Ladholyman,323,Mousou Dairinin,10
+1807,53,Ladholyman,196,Onegai☆Twins,7
+1808,53,Ladholyman,162,Pita Ten,10
+1809,53,Ladholyman,329,Planetes,10
+1810,53,Ladholyman,327,Puchi Pri*Yucie,10
+1811,53,Ladholyman,208,R.O.D: Read or Die,9
+1812,53,Ladholyman,209,R.O.D: The TV,9
+1813,53,Ladholyman,151,Re: Cutey Honey,8
+1814,53,Ladholyman,4618,RideBack,9
+1815,53,Ladholyman,64,Rozen Maiden,10
+1816,53,Ladholyman,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,9
+1817,53,Ladholyman,205,Samurai Champloo,10
+1818,53,Ladholyman,169,Shingetsutan Tsukihime,9
+1819,53,Ladholyman,198,Speed Grapher,7
+1820,53,Ladholyman,9055,Tamayura,9
+1821,53,Ladholyman,177,Tsubasa Chronicle,8
+1822,53,Ladholyman,976,Yokohama Kaidashi Kikou: Quiet Country Cafe,10
+1823,66,Hiromi,269,Bleach,8
+1824,66,Hiromi,150,Blood+,8
+1825,66,Hiromi,694,Canvas 2: Nijiiro no Sketch,7
+1826,66,Hiromi,2167,Clannad,8
+1827,66,Hiromi,1818,Claymore,8
+1828,66,Hiromi,291,D.C.S.S: Da Capo Second Season,8
+1829,66,Hiromi,1535,Death Note,7
+1830,66,Hiromi,126,Futakoi Alternative,8
+1831,66,Hiromi,476,Ginban Kaleidoscope,8
+1832,66,Hiromi,2026,Hayate no Gotoku!,7
+1833,66,Hiromi,2002,Heroic Age,8
+1834,66,Hiromi,934,Higurashi no Naku Koro ni,8
+1835,66,Hiromi,141,Jinki:Extend,7
+1836,66,Hiromi,5680,K-On!,9
+1837,66,Hiromi,489,Kamichu!,7
+1838,66,Hiromi,990,Kamisama Kazoku,7
+1839,66,Hiromi,667,Kashimashi: Girl Meets Girl,7
+1840,66,Hiromi,2034,Lovely★Complex,7
+1841,66,Hiromi,157,Mahou Sensei Negima!,8
+1842,66,Hiromi,19,Monster,7
+1843,66,Hiromi,1735,Naruto: Shippuuden,7
+1844,66,Hiromi,1546,Negima!?,9
+1845,66,Hiromi,1698,Nodame Cantabile,7
+1846,66,Hiromi,470,Okusama wa Joshikousei (TV),7
+1847,66,Hiromi,1699,Romeo x Juliet,7
+1848,66,Hiromi,846,School Rumble Ni Gakki,9
+1849,66,Hiromi,789,Shinigami no Ballad.,8
+1850,66,Hiromi,3174,Sola Specials,8
+1851,66,Hiromi,471,To Heart 2,6
+1852,66,Hiromi,95,Turn A Gundam,8
+1853,66,Hiromi,878,Zegapain,6
+1854,66,Hiromi,454,.hack//Gift,8
+1855,66,Hiromi,299,.hack//Liminality,9
+1856,66,Hiromi,48,.hack//Sign,8
+1857,66,Hiromi,298,.hack//Tasogare no Udewa Densetsu,8
+1858,66,Hiromi,306,Abenobashi Mahou☆Shoutengai,7
+1859,66,Hiromi,1292,Afro Samurai,7
+1860,66,Hiromi,53,Ai Yori Aoshi,7
+1861,66,Hiromi,394,Ai Yori Aoshi: Enishi,6
+1862,66,Hiromi,101,Air,10
+1863,66,Hiromi,656,Air in Summer,8
+1864,66,Hiromi,102,Aishiteruze Baby★★,8
+1865,66,Hiromi,54,Appleseed (Movie),7
+1866,66,Hiromi,57,Beck,8
+1867,66,Hiromi,530,Bishoujo Senshi Sailor Moon,8
+1868,66,Hiromi,740,Bishoujo Senshi Sailor Moon R,8
+1869,66,Hiromi,1686,Bleach Movie 1: Memories of Nobody,7
+1870,66,Hiromi,819,Boku wa Imouto ni Koi wo Suru,8
+1871,66,Hiromi,1222,Bokura ga Ita,9
+1872,66,Hiromi,1689,Byousoku 5 Centimeter,9
+1873,66,Hiromi,695,Canvas: Sepia-iro no Motif,4
+1874,66,Hiromi,232,Cardcaptor Sakura,10
+1875,66,Hiromi,371,Cardcaptor Sakura Movie 1,7
+1876,66,Hiromi,372,Cardcaptor Sakura Movie 2: Fuuin Sareta Card,8
+1877,66,Hiromi,1078,Cardcaptor Sakura: Kero-chan ni Omakase!,9
+1878,66,Hiromi,59,Chobits,7
+1879,66,Hiromi,1575,Code Geass: Hangyaku no Lelouch,9
+1880,66,Hiromi,62,D.C.: Da Capo,8
+1881,66,Hiromi,63,DearS,7
+1882,66,Hiromi,552,Digimon Adventure,8
+1883,66,Hiromi,1313,Digimon Adventure 02,6
+1884,66,Hiromi,2961,Digimon Adventure Movie,8
+1885,66,Hiromi,1132,Digimon Frontier,7
+1886,66,Hiromi,874,Digimon Tamers,9
+1887,66,Hiromi,813,Dragon Ball Z,6
+1888,66,Hiromi,226,Elfen Lied,8
+1889,66,Hiromi,376,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",8
+1890,66,Hiromi,393,Escaflowne,7
+1891,66,Hiromi,356,Fate/stay night,8
+1892,66,Hiromi,119,Final Approach,6
+1893,66,Hiromi,317,Final Fantasy VII: Advent Children,9
+1894,66,Hiromi,71,Full Metal Panic!,8
+1895,66,Hiromi,73,Full Metal Panic! The Second Raid,9
+1896,66,Hiromi,72,Full Metal Panic? Fumoffu,9
+1897,66,Hiromi,122,Full Moon wo Sagashite,9
+1898,66,Hiromi,121,Fullmetal Alchemist,9
+1899,66,Hiromi,908,Fullmetal Alchemist: Premium Collection,6
+1900,66,Hiromi,664,Fullmetal Alchemist: Reflections,5
+1901,66,Hiromi,430,Fullmetal Alchemist: The Conqueror of Shamballa,9
+1902,66,Hiromi,125,Futakoi,7
+1903,66,Hiromi,132,GetBackers,8
+1904,66,Hiromi,266,Gunparade March: Arata Naru Kougunka,7
+1905,66,Hiromi,134,Gunslinger Girl,8
+1906,66,Hiromi,16,Hachimitsu to Clover,9
+1907,66,Hiromi,106,Hana yori Dango,10
+1908,66,Hiromi,587,Hanbun no Tsuki ga Noboru Sora,7
+1909,66,Hiromi,135,Hikaru no Go,10
+1910,66,Hiromi,645,Hikaru no Go: Hokuto Hai e no Michi,8
+1911,66,Hiromi,578,Hotaru no Haka,7
+1912,66,Hiromi,431,Howl no Ugoku Shiro,7
+1913,66,Hiromi,160,"Ima, Soko ni Iru Boku",7
+1914,66,Hiromi,452,InuYasha Movie 1: Toki wo Koeru Omoi,7
+1915,66,Hiromi,451,InuYasha Movie 3: Tenka Hadou no Ken,8
+1916,66,Hiromi,449,InuYasha Movie 4: Guren no Houraijima,7
+1917,66,Hiromi,863,Joshikousei: Girl's High,6
+1918,66,Hiromi,3958,Kannagi,9
+1919,66,Hiromi,143,Kannazuki no Miko,8
+1920,66,Hiromi,144,Kanon,9
+1921,66,Hiromi,1530,Kanon (2006),8
+1922,66,Hiromi,145,Kareshi Kanojo no Jijou,9
+1923,66,Hiromi,80,Kidou Senshi Gundam,8
+1924,66,Hiromi,2581,Kidou Senshi Gundam 00,8
+1925,66,Hiromi,3927,Kidou Senshi Gundam 00 Second Season,9
+1926,66,Hiromi,93,Kidou Senshi Gundam SEED,8
+1927,66,Hiromi,94,Kidou Senshi Gundam SEED Destiny,5
+1928,66,Hiromi,1241,Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai,7
+1929,66,Hiromi,52,Kidou Tenshi Angelic Layer,8
+1930,66,Hiromi,147,Kimi ga Nozomu Eien,7
+1931,66,Hiromi,634,Koi Kaze,9
+1932,66,Hiromi,146,Kono Minikuku mo Utsukushii Sekai,7
+1933,66,Hiromi,433,"Kumo no Mukou, Yakusoku no Basho",8
+1934,66,Hiromi,519,Mahoraba: Heartful days,8
+1935,66,Hiromi,98,Mai-HiME,10
+1936,66,Hiromi,99,Mai-Otome,9
+1937,66,Hiromi,1659,Mai-Otome Specials,8
+1938,66,Hiromi,1609,Mai-Otome Zwei,8
+1939,66,Hiromi,158,Maria-sama ga Miteru,8
+1940,66,Hiromi,330,Midori no Hibi,7
+1941,66,Hiromi,875,Mind Game,7
+1942,66,Hiromi,164,Mononoke Hime,8
+1943,66,Hiromi,1469,Monster Farm: Enbanseki no Himitsu,7
+1944,66,Hiromi,2926,Myself  Yourself,7
+1945,66,Hiromi,442,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,7
+1946,66,Hiromi,936,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,7
+1947,66,Hiromi,2144,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panic Dattebayo!,6
+1948,66,Hiromi,1619,Negima!? Haru Special!?,7
+1949,66,Hiromi,1732,Negima!? Natsu Special!?,7
+1950,66,Hiromi,1569,Otome wa Boku ni Koishiteru,8
+1951,66,Hiromi,853,Ouran Koukou Host Club,9
+1952,66,Hiromi,322,Paradise Kiss,9
+1953,66,Hiromi,528,Pokemon Movie 01: Mewtwo no Gyakushuu,9
+1954,66,Hiromi,1117,Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan,7
+1955,66,Hiromi,1118,Pokemon Movie 03: Kesshoutou no Teiou Entei,8
+1956,66,Hiromi,1119,Pokemon Movie 04: Celebi Toki wo Koeta Deai,7
+1957,66,Hiromi,1120,Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios,5
+1958,66,Hiromi,1121,Pokemon Movie 06: Nanayo no Negaiboshi Jirachi,6
+1959,66,Hiromi,1122,Pokemon Movie 07: Rekkuu no Houmonsha Deoxys,8
+1960,66,Hiromi,1709,Pokemon: Mewtwo! Ware wa Koko ni Ari,7
+1961,66,Hiromi,417,Ragnarök The Animation,6
+1962,66,Hiromi,165,RahXephon,7
+1963,66,Hiromi,559,RahXephon: Kansoukyoku/Kanojo to Kanojo Jishin to - Thatness and Thereness,6
+1964,66,Hiromi,758,RahXephon: Tagen Hensoukyoku,5
+1965,66,Hiromi,710,Rec,8
+1966,66,Hiromi,1847,Rec: Yurusarezarumono,8
+1967,66,Hiromi,529,Saishuu Heiki Kanojo,7
+1968,66,Hiromi,957,Saiunkoku Monogatari,8
+1969,66,Hiromi,205,Samurai Champloo,8
+1970,66,Hiromi,756,School Days ONA,8
+1971,66,Hiromi,24,School Rumble,8
+1972,66,Hiromi,517,School Rumble: Ichi Gakki Hoshuu,7
+1973,66,Hiromi,167,Scrapped Princess,8
+1974,66,Hiromi,199,Sen to Chihiro no Kamikakushi,8
+1975,66,Hiromi,355,Shakugan no Shana,9
+1976,66,Hiromi,154,Shaman King,5
+1977,66,Hiromi,884,Shin Angyo Onshi,8
+1978,66,Hiromi,90,Shin Kidou Senki Gundam Wing,7
+1979,66,Hiromi,91,Shin Kidou Senki Gundam Wing: Endless Waltz,8
+1980,66,Hiromi,79,Shuffle!,8
+1981,66,Hiromi,1965,Sola,8
+1982,66,Hiromi,75,Soukyuu no Fafner: Dead Aggressor,10
+1983,66,Hiromi,855,Strawberry Panic,7
+1984,66,Hiromi,950,Street Fighter Alpha: Generations,7
+1985,66,Hiromi,1362,Street Fighter II Movie,8
+1986,66,Hiromi,876,Street Fighter II V,6
+1987,66,Hiromi,390,Suzuka,8
+1988,66,Hiromi,849,Suzumiya Haruhi no Yuuutsu,9
+1989,66,Hiromi,182,Tenkuu no Escaflowne,8
+1990,66,Hiromi,472,To Heart,7
+1991,66,Hiromi,175,Tokyo Underground,7
+1992,66,Hiromi,523,Tonari no Totoro,7
+1993,66,Hiromi,4224,Toradora!,9
+1994,66,Hiromi,177,Tsubasa Chronicle,8
+1995,66,Hiromi,178,Ultra Maniac,7
+1996,66,Hiromi,179,Ultra Maniac OVA,6
+1997,66,Hiromi,346,W: Wish,6
+1998,66,Hiromi,546,Wind: A Breath of Heart (TV),7
+1999,66,Hiromi,7,Witch Hunter Robin,8
+2000,66,Hiromi,497,Yami to Boushi to Hon no Tabibito,7
+2001,66,Hiromi,1195,Zero no Tsukaima,9
+2002,66,Hiromi,66,Azumanga Daiou The Animation,9
+2003,66,Hiromi,105,Boys Be...,7
+2004,66,Hiromi,69,Cluster Edge,6
+2005,66,Hiromi,74,Gakuen Alice,7
+2006,66,Hiromi,506,Glass no Kamen,7
+2007,66,Hiromi,456,Gokujou Seitokai,6
+2008,66,Hiromi,249,InuYasha,7
+2009,66,Hiromi,228,Jigoku Shoujo,8
+2010,66,Hiromi,334,Marmalade Boy,7
+2011,66,Hiromi,838,Narutaru: Mukuro Naru Hoshi Tama Taru Ko,6
+2012,66,Hiromi,473,Tide-Line Blue,7
+2013,66,Hiromi,343,Tsukuyomi: Moon Phase,5
+2014,66,Hiromi,159,Boukyaku no Senritsu,7
+2015,66,Hiromi,293,Di Gi Charat,6
+2016,66,Hiromi,20,Naruto,7
+2017,66,Hiromi,169,Shingetsutan Tsukihime,5
+2018,66,Hiromi,547,Wind: A Breath of Heart OVA,6
+2019,66,Hiromi,184,Xenosaga The Animation,5
+2020,66,Hiromi,859,Digimon Savers,6
+2021,67,ShadowOz,6033,Dragon Ball Kai,9
+2022,67,ShadowOz,873,.hack//Roots,9
+2023,67,ShadowOz,48,.hack//Sign,8
+2024,67,ShadowOz,298,.hack//Tasogare no Udewa Densetsu,4
+2025,67,ShadowOz,306,Abenobashi Mahou☆Shoutengai,9
+2026,67,ShadowOz,57,Beck,10
+2027,67,ShadowOz,10218,Berserk: Ougon Jidai-hen I - Haou no Tamago,9
+2028,67,ShadowOz,232,Cardcaptor Sakura,8
+2029,67,ShadowOz,372,Cardcaptor Sakura Movie 2: Fuuin Sareta Card,8
+2030,67,ShadowOz,1,Cowboy Bebop,10
+2031,67,ShadowOz,5941,Cross Game,9
+2032,67,ShadowOz,34103,Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen,8
+2033,67,ShadowOz,32189,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen,9
+2034,67,ShadowOz,33028,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen,9
+2035,67,ShadowOz,893,Dragon Ball Movie 4: Saikyou e no Michi,6
+2036,67,ShadowOz,813,Dragon Ball Z,8
+2037,67,ShadowOz,14837,Dragon Ball Z Movie 14: Kami to Kami,9
+2038,67,ShadowOz,25389,"Dragon Ball Z Movie 15: Fukkatsu no ""F""",8
+2039,67,ShadowOz,6746,Durarara!!,8
+2040,67,ShadowOz,27833,Durarara!!x2 Ketsu,10
+2041,67,ShadowOz,23199,Durarara!!x2 Shou,10
+2042,67,ShadowOz,27831,Durarara!!x2 Ten,9
+2043,67,ShadowOz,2759,Evangelion: 1.0 You Are (Not) Alone,9
+2044,67,ShadowOz,3784,Evangelion: 2.0 You Can (Not) Advance,9
+2045,67,ShadowOz,22297,Fate/stay night: Unlimited Blade Works,9
+2046,67,ShadowOz,28701,Fate/stay night: Unlimited Blade Works 2nd Season,9
+2047,67,ShadowOz,27821,Fate/stay night: Unlimited Blade Works Prologue,9
+2048,67,ShadowOz,10087,Fate/Zero,9
+2049,67,ShadowOz,11741,Fate/Zero 2nd Season,10
+2050,67,ShadowOz,121,Fullmetal Alchemist,10
+2051,67,ShadowOz,5114,Fullmetal Alchemist: Brotherhood,10
+2052,67,ShadowOz,430,Fullmetal Alchemist: The Conqueror of Shamballa,6
+2053,67,ShadowOz,239,Gankutsuou,9
+2054,67,ShadowOz,245,Great Teacher Onizuka,7
+2055,67,ShadowOz,136,Hunter x Hunter,9
+2056,67,ShadowOz,13271,Hunter x Hunter Movie 1: Phantom Rouge,6
+2057,67,ShadowOz,138,Hunter x Hunter: Greed Island,8
+2058,67,ShadowOz,139,Hunter x Hunter: Greed Island Final,9
+2059,67,ShadowOz,137,Hunter x Hunter: Original Video Animation,9
+2060,67,ShadowOz,811,I''s Pure,5
+2061,67,ShadowOz,185,Initial D First Stage,9
+2062,67,ShadowOz,18,Initial D Fourth Stage,10
+2063,67,ShadowOz,186,Initial D Second Stage,9
+2064,67,ShadowOz,187,Initial D Third Stage,10
+2065,67,ShadowOz,450,InuYasha Movie 2: Kagami no Naka no Mugenjou,7
+2066,67,ShadowOz,2808,Irregular Hunter X: The Day of Sigma,9
+2067,67,ShadowOz,228,Jigoku Shoujo,7
+2068,67,ShadowOz,52,Kidou Tenshi Angelic Layer,8
+2069,67,ShadowOz,11771,Kuroko no Basket,8
+2070,67,ShadowOz,9756,Mahou Shoujo Madoka★Magica,9
+2071,67,ShadowOz,11977,Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari,9
+2072,67,ShadowOz,11979,Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari,9
+2073,67,ShadowOz,11981,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,9
+2074,67,ShadowOz,20,Naruto,7
+2075,67,ShadowOz,30,Neon Genesis Evangelion,9
+2076,67,ShadowOz,32,Neon Genesis Evangelion: The End of Evangelion,7
+2077,67,ShadowOz,4155,One Piece Film: Strong World,9
+2078,67,ShadowOz,12859,One Piece Film: Z,9
+2079,67,ShadowOz,2107,One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi,8
+2080,67,ShadowOz,30276,One Punch Man,10
+2081,67,ShadowOz,2159,Ookiku Furikabutte,9
+2082,67,ShadowOz,3887,Ookiku Furikabutte: Kihon no Kihon,7
+2083,67,ShadowOz,7720,Ookiku Furikabutte: Natsu no Taikai-hen,9
+2084,67,ShadowOz,853,Ouran Koukou Host Club,8
+2085,67,ShadowOz,1710,Rockman.EXE,5
+2086,67,ShadowOz,2108,Rockman.EXE Axess,6
+2087,67,ShadowOz,401,Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen,4
+2088,67,ShadowOz,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,10
+2089,67,ShadowOz,573,Saber Marionette J,8
+2090,67,ShadowOz,1231,Saber Marionette J to X,9
+2091,67,ShadowOz,1232,Saber Marionette R,10
+2092,67,ShadowOz,1254,Saint Seiya,8
+2093,67,ShadowOz,6153,Saint Seiya Recap,8
+2094,67,ShadowOz,3515,Saint Seiya: Meiou Hades Elysion-hen,9
+2095,67,ShadowOz,1257,Saint Seiya: Meiou Hades Juuni Kyuu-hen,9
+2096,67,ShadowOz,1253,Saint Seiya: Meiou Hades Meikai-hen,9
+2097,67,ShadowOz,1255,Saint Seiya: Shinku no Shounen Densetsu,8
+2098,67,ShadowOz,1259,Saint Seiya: Tenkai-hen Josou - Overture,8
+2099,67,ShadowOz,205,Samurai Champloo,10
+2100,67,ShadowOz,154,Shaman King,6
+2101,67,ShadowOz,16498,Shingeki no Kyojin,8
+2102,67,ShadowOz,1913,Shonan Junai Gumi!,5
+2103,67,ShadowOz,3588,Soul Eater,8
+2104,67,ShadowOz,950,Street Fighter Alpha: Generations,8
+2105,67,ShadowOz,1362,Street Fighter II Movie,8
+2106,67,ShadowOz,876,Street Fighter II V,7
+2107,67,ShadowOz,979,Street Fighter Zero The Animation,6
+2108,67,ShadowOz,11757,Sword Art Online,7
+2109,67,ShadowOz,2001,Tengen Toppa Gurren Lagann,10
+2110,67,ShadowOz,4107,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,10
+2111,67,ShadowOz,4565,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,10
+2112,67,ShadowOz,174,Tenjou Tenge,5
+2113,67,ShadowOz,4053,Tennis no Oujisama: Zenkoku Taikai-hen - Final,9
+2114,67,ShadowOz,6,Trigun,10
+2115,67,ShadowOz,177,Tsubasa Chronicle,7
+2116,67,ShadowOz,969,Tsubasa Chronicle 2nd Season,6
+2117,67,ShadowOz,4938,Tsubasa: Shunraiki,8
+2118,67,ShadowOz,2685,Tsubasa: Tokyo Revelations,9
+2119,67,ShadowOz,66,Azumanga Daiou The Animation,9
+2120,67,ShadowOz,60,Chrno Crusade,6
+2121,67,ShadowOz,235,Detective Conan,10
+2122,67,ShadowOz,223,Dragon Ball,7
+2123,67,ShadowOz,263,Hajime no Ippo,8
+2124,67,ShadowOz,135,Hikaru no Go,9
+2125,67,ShadowOz,11061,Hunter x Hunter (2011),10
+2126,67,ShadowOz,249,InuYasha,7
+2127,67,ShadowOz,14719,JoJo no Kimyou na Bouken (TV),8
+2128,67,ShadowOz,21,One Piece,8
+2129,67,ShadowOz,210,Ranma ½,8
+2130,67,ShadowOz,45,Rurouni Kenshin: Meiji Kenkaku Romantan,9
+2131,67,ShadowOz,12929,Saint Seiya Omega,7
+2132,67,ShadowOz,6171,Saint Seiya: The Lost Canvas - Meiou Shinwa,8
+2133,67,ShadowOz,272,Noir,7
+2134,67,ShadowOz,175,Tokyo Underground,5
+2135,70,Cruzle,6682,11eyes,5
+2136,70,Cruzle,6547,Angel Beats!,6
+2137,70,Cruzle,9919,Ao no Exorcist,7
+2138,70,Cruzle,7193,Aoi Bungaku Series,7
+2139,70,Cruzle,5081,Bakemonogatari,6
+2140,70,Cruzle,9513,Beelzebub,7
+2141,70,Cruzle,269,Bleach,7
+2142,70,Cruzle,370,Burn Up Excess,4
+2143,70,Cruzle,2167,Clannad,5
+2144,70,Cruzle,294,Divergence Eve,5
+2145,70,Cruzle,6702,Fairy Tail,6
+2146,70,Cruzle,297,Grenadier: Hohoemi no Senshi,5
+2147,70,Cruzle,10079,Hoshizora e Kakaru Hashi,5
+2148,70,Cruzle,8277,Hyakka Ryouran: Samurai Girls,7
+2149,70,Cruzle,4550,Hyakko,7
+2150,70,Cruzle,6594,Katanagatari,6
+2151,70,Cruzle,7593,Kiss x Sis (TV),6
+2152,70,Cruzle,252,Madlax,6
+2153,70,Cruzle,1735,Naruto: Shippuuden,8
+2154,70,Cruzle,6512,Nyan Koi!,6
+2155,70,Cruzle,21,One Piece,8
+2156,70,Cruzle,853,Ouran Koukou Host Club,7
+2157,70,Cruzle,6633,Queen's Blade: Gyokuza wo Tsugu Mono,5
+2158,70,Cruzle,5940,Seiken no Blacksmith,5
+2159,70,Cruzle,5958,Sora no Otoshimono,6
+2160,70,Cruzle,5226,Souten Kouro,7
+2161,70,Cruzle,3470,Special A,7
+2162,70,Cruzle,5734,Tayutama: Kiss on My Deity,5
+2163,70,Cruzle,3594,Tears to Tiara,6
+2164,70,Cruzle,6956,Working!!,6
+2165,70,Cruzle,6987,Aki-Sora,6
+2166,70,Cruzle,47,Akira,7
+2167,70,Cruzle,591,Amaenaide yo!!,5
+2168,70,Cruzle,4999,Asu no Yoichi!,7
+2169,70,Cruzle,7817,B-gata H-kei,7
+2170,70,Cruzle,67,Basilisk: Kouga Ninpou Chou,10
+2171,70,Cruzle,57,Beck,9
+2172,70,Cruzle,889,Black Lagoon,6
+2173,70,Cruzle,1519,Black Lagoon: The Second Barrage,6
+2174,70,Cruzle,762,Bleach: Memories in the Rain,7
+2175,70,Cruzle,834,Bleach: The Sealed Sword Frenzy,7
+2176,70,Cruzle,10163,C: The Money of Soul and Possibility Control,6
+2177,70,Cruzle,6645,Chuu Bra!!,6
+2178,70,Cruzle,1818,Claymore,8
+2179,70,Cruzle,1575,Code Geass: Hangyaku no Lelouch,7
+2180,70,Cruzle,1,Cowboy Bebop,8
+2181,70,Cruzle,5,Cowboy Bebop: Tengoku no Tobira,10
+2182,70,Cruzle,61,D.N.Angel,7
+2183,70,Cruzle,2025,Darker than Black: Kuro no Keiyakusha,7
+2184,70,Cruzle,6573,Darker than Black: Ryuusei no Gemini,6
+2185,70,Cruzle,63,DearS,5
+2186,70,Cruzle,1535,Death Note,10
+2187,70,Cruzle,226,Elfen Lied,5
+2188,70,Cruzle,356,Fate/stay night,8
+2189,70,Cruzle,9367,Freezing,7
+2190,70,Cruzle,120,Fruits Basket,6
+2191,70,Cruzle,71,Full Metal Panic!,8
+2192,70,Cruzle,73,Full Metal Panic! The Second Raid,9
+2193,70,Cruzle,72,Full Metal Panic? Fumoffu,8
+2194,70,Cruzle,122,Full Moon wo Sagashite,9
+2195,70,Cruzle,121,Fullmetal Alchemist,8
+2196,70,Cruzle,5114,Fullmetal Alchemist: Brotherhood,10
+2197,70,Cruzle,240,Genshiken,7
+2198,70,Cruzle,2508,Genshiken 2,7
+2199,70,Cruzle,1813,Genshiken OVA,7
+2200,70,Cruzle,132,GetBackers,5
+2201,70,Cruzle,241,Girls Bravo: First Season,6
+2202,70,Cruzle,268,Golden Boy,9
+2203,70,Cruzle,245,Great Teacher Onizuka,10
+2204,70,Cruzle,133,Green Green,6
+2205,70,Cruzle,411,Gun x Sword,8
+2206,70,Cruzle,267,Gungrave,7
+2207,70,Cruzle,650,Gunsmith Cats,8
+2208,70,Cruzle,16,Hachimitsu to Clover,8
+2209,70,Cruzle,263,Hajime no Ippo,9
+2210,70,Cruzle,264,Hajime no Ippo: Champion Road,9
+2211,70,Cruzle,265,Hajime no Ippo: Mashiba vs. Kimura,9
+2212,70,Cruzle,5258,Hajime no Ippo: New Challenger,10
+2213,70,Cruzle,6895,Hakuouki,6
+2214,70,Cruzle,5835,Hanasakeru Seishounen,7
+2215,70,Cruzle,5630,Higashi no Eden,8
+2216,70,Cruzle,8074,Highschool of the Dead,10
+2217,70,Cruzle,9515,Highschool of the Dead: Drifters of the Dead,7
+2218,70,Cruzle,135,Hikaru no Go,8
+2219,70,Cruzle,17,Hungry Heart: Wild Striker,8
+2220,70,Cruzle,136,Hunter x Hunter,9
+2221,70,Cruzle,138,Hunter x Hunter: Greed Island,9
+2222,70,Cruzle,139,Hunter x Hunter: Greed Island Final,9
+2223,70,Cruzle,137,Hunter x Hunter: Original Video Animation,9
+2224,70,Cruzle,7088,Ichiban Ushiro no Daimaou,6
+2225,70,Cruzle,248,Ichigo 100%,7
+2226,70,Cruzle,7580,Ikkitousen: Xtreme Xecutor,5
+2227,70,Cruzle,185,Initial D First Stage,8
+2228,70,Cruzle,18,Initial D Fourth Stage,8
+2229,70,Cruzle,186,Initial D Second Stage,8
+2230,70,Cruzle,187,Initial D Third Stage,8
+2231,70,Cruzle,3731,Itazura na Kiss,8
+2232,70,Cruzle,7054,Kaichou wa Maid-sama!,8
+2233,70,Cruzle,3503,Kanokon,5
+2234,70,Cruzle,2593,Kara no Kyoukai Movie 1: Fukan Fuukei,10
+2235,70,Cruzle,389,Karas,9
+2236,70,Cruzle,6205,Kämpfer,5
+2237,70,Cruzle,1606,Kekkaishi,7
+2238,70,Cruzle,5420,Kemono no Souja Erin,8
+2239,70,Cruzle,33,Kenpuu Denki Berserk,8
+2240,70,Cruzle,93,Kidou Senshi Gundam SEED,8
+2241,70,Cruzle,94,Kidou Senshi Gundam SEED Destiny,7
+2242,70,Cruzle,3229,Kimi ga Aruji de Shitsuji ga Ore de,6
+2243,70,Cruzle,147,Kimi ga Nozomu Eien,8
+2244,70,Cruzle,6045,Kimi ni Todoke,9
+2245,70,Cruzle,43,Koukaku Kidoutai,9
+2246,70,Cruzle,97,Last Exile,9
+2247,70,Cruzle,189,Love Hina,8
+2248,70,Cruzle,2034,Lovely★Complex,8
+2249,70,Cruzle,3572,Macross F,8
+2250,70,Cruzle,194,Macross Zero,8
+2251,70,Cruzle,164,Mononoke Hime,9
+2252,70,Cruzle,877,Nana,9
+2253,70,Cruzle,6325,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono,7
+2254,70,Cruzle,597,Neko no Ongaeshi,7
+2255,70,Cruzle,30,Neon Genesis Evangelion,8
+2256,70,Cruzle,32,Neon Genesis Evangelion: The End of Evangelion,7
+2257,70,Cruzle,1210,NHK ni Youkoso!,9
+2258,70,Cruzle,272,Noir,8
+2259,70,Cruzle,459,One Piece Movie 01,7
+2260,70,Cruzle,460,One Piece Movie 02: Nejimaki-jima no Daibouken,7
+2261,70,Cruzle,195,Onegai☆Teacher,7
+2262,70,Cruzle,4719,Queen's Blade: Rurou no Senshi,5
+2263,70,Cruzle,6114,Rainbow: Nisha Rokubou no Shichinin,9
+2264,70,Cruzle,917,Riding Bean,8
+2265,70,Cruzle,45,Rurouni Kenshin: Meiji Kenkaku Romantan,8
+2266,70,Cruzle,46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,7
+2267,70,Cruzle,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,9
+2268,70,Cruzle,168,s.CRY.ed,9
+2269,70,Cruzle,529,Saishuu Heiki Kanojo,6
+2270,70,Cruzle,114,Sakigake!! Cromartie Koukou,8
+2271,70,Cruzle,24,School Rumble,9
+2272,70,Cruzle,846,School Rumble Ni Gakki,9
+2273,70,Cruzle,4015,School Rumble San Gakki,8
+2274,70,Cruzle,517,School Rumble: Ichi Gakki Hoshuu,9
+2275,70,Cruzle,400,Seihou Bukyou Outlaw Star,7
+2276,70,Cruzle,4063,Sekirei,6
+2277,70,Cruzle,10308,Sengoku Otome: Momoiro Paradox,5
+2278,70,Cruzle,1559,Shijou Saikyou no Deshi Kenichi,7
+2279,70,Cruzle,90,Shin Kidou Senki Gundam Wing,8
+2280,70,Cruzle,170,Slam Dunk,5
+2281,70,Cruzle,5369,Street Fighter IV: Aratanaru Kizuna,5
+2282,70,Cruzle,25,Sunabouzu,7
+2283,70,Cruzle,1072,Sweat Punch,10
+2284,70,Cruzle,407,Tantei Gakuen Q,7
+2285,70,Cruzle,174,Tenjou Tenge,8
+2286,70,Cruzle,760,Tenjou Tenge: The Past Chapter,8
+2287,70,Cruzle,448,Tenjou Tenge: The Ultimate Fight,8
+2288,70,Cruzle,22,Tennis no Oujisama,9
+2289,70,Cruzle,26,Texhnolyze,7
+2290,70,Cruzle,2236,Toki wo Kakeru Shoujo,8
+2291,70,Cruzle,6211,Tokyo Magnitude 8.0,8
+2292,70,Cruzle,658,Touhai Densetsu Akagi: Yami ni Maiorita Tensai,8
+2293,70,Cruzle,6,Trigun,9
+2294,70,Cruzle,2129,True Tears,9
+2295,70,Cruzle,177,Tsubasa Chronicle,8
+2296,70,Cruzle,201,Video Girl Ai,6
+2297,70,Cruzle,202,Wolf's Rain,7
+2298,70,Cruzle,548,Wonderful Days,8
+2299,70,Cruzle,156,X,6
+2300,70,Cruzle,3549,Allison to Lillia,6
+2301,70,Cruzle,2030,El Cazador de la Bruja,5
+2302,70,Cruzle,2026,Hayate no Gotoku!,8
+2303,70,Cruzle,3577,Kyouran Kazoku Nikki,6
+2304,70,Cruzle,3655,Nabari no Ou,7
+2305,70,Cruzle,238,Rekka no Honoo,6
+2306,70,Cruzle,66,Azumanga Daiou The Animation,4
+2307,70,Cruzle,767,Burn Up!,3
+2308,70,Cruzle,1614,Captain Tsubasa: Road to 2002,5
+2309,70,Cruzle,20,Naruto,6
+2310,70,Cruzle,3615,Neo Angelique Abyss,4
+2311,70,Cruzle,6634,Sengoku Basara Ni,4
+2312,70,Cruzle,2104,Seto no Hanayome,6
+2313,70,Cruzle,2787,Shakugan no Shana II (Second),4
+2314,71,Smoka,48,.hack//Sign,3
+2315,71,Smoka,49,Aa! Megami-sama!,7
+2316,71,Smoka,304,Aa! Megami-sama! Movie,7
+2317,71,Smoka,1292,Afro Samurai,7
+2318,71,Smoka,47,Akira,8
+2319,71,Smoka,54,Appleseed (Movie),7
+2320,71,Smoka,2969,Appleseed Saga Ex Machina,7
+2321,71,Smoka,66,Azumanga Daiou The Animation,7
+2322,71,Smoka,3446,Biohazard: Degeneration,7
+2323,71,Smoka,405,Blood: The Last Vampire,8
+2324,71,Smoka,1689,Byousoku 5 Centimeter,8
+2325,71,Smoka,1575,Code Geass: Hangyaku no Lelouch,6
+2326,71,Smoka,974,Dead Leaves,9
+2327,71,Smoka,1535,Death Note,10
+2328,71,Smoka,296,Dragon Drive,6
+2329,71,Smoka,227,FLCL,8
+2330,71,Smoka,71,Full Metal Panic!,7
+2331,71,Smoka,72,Full Metal Panic? Fumoffu,9
+2332,71,Smoka,2890,Gake no Ue no Ponyo,10
+2333,71,Smoka,589,Ginga Nagareboshi Gin,8
+2334,71,Smoka,134,Gunslinger Girl,7
+2335,71,Smoka,263,Hajime no Ippo,9
+2336,71,Smoka,264,Hajime no Ippo: Champion Road,9
+2337,71,Smoka,265,Hajime no Ippo: Mashiba vs. Kimura,9
+2338,71,Smoka,5258,Hajime no Ippo: New Challenger,10
+2339,71,Smoka,270,Hellsing,8
+2340,71,Smoka,578,Hotaru no Haka,8
+2341,71,Smoka,431,Howl no Ugoku Shiro,10
+2342,71,Smoka,160,"Ima, Soko ni Iru Boku",10
+2343,71,Smoka,185,Initial D First Stage,9
+2344,71,Smoka,18,Initial D Fourth Stage,8
+2345,71,Smoka,186,Initial D Second Stage,9
+2346,71,Smoka,187,Initial D Third Stage,9
+2347,71,Smoka,570,Jin-Rou,8
+2348,71,Smoka,617,Juubee Ninpuuchou,8
+2349,71,Smoka,43,Koukaku Kidoutai,9
+2350,71,Smoka,2449,Koukaku Kidoutai: Stand Alone Complex - The Laughing Man,9
+2351,71,Smoka,433,"Kumo no Mukou, Yakusoku no Basho",7
+2352,71,Smoka,416,Kurenai no Buta,8
+2353,71,Smoka,189,Love Hina,8
+2354,71,Smoka,190,Love Hina Again,8
+2355,71,Smoka,1430,Lupin III: Cagliostro no Shiro,10
+2356,71,Smoka,330,Midori no Hibi,6
+2357,71,Smoka,164,Mononoke Hime,9
+2358,71,Smoka,19,Monster,9
+2359,71,Smoka,20,Naruto,7
+2360,71,Smoka,442,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,7
+2361,71,Smoka,936,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,7
+2362,71,Smoka,2144,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panic Dattebayo!,6
+2363,71,Smoka,2472,Naruto: Shippuuden Movie 1,7
+2364,71,Smoka,1943,Paprika,9
+2365,71,Smoka,437,Perfect Blue,9
+2366,71,Smoka,208,R.O.D: Read or Die,7
+2367,71,Smoka,45,Rurouni Kenshin: Meiji Kenkaku Romantan,7
+2368,71,Smoka,199,Sen to Chihiro no Kamikakushi,10
+2369,71,Smoka,4471,Shin SOS Dai Tokyo Tankentai,7
+2370,71,Smoka,565,Steamboy,9
+2371,71,Smoka,2418,Stranger: Mukou Hadan,9
+2372,71,Smoka,513,Tenkuu no Shiro Laputa,10
+2373,71,Smoka,2236,Toki wo Kakeru Shoujo,8
+2374,71,Smoka,759,Tokyo Godfathers,8
+2375,71,Smoka,6211,Tokyo Magnitude 8.0,9
+2376,71,Smoka,3088,Tokyo Marble Chocolate,7
+2377,71,Smoka,523,Tonari no Totoro,9
+2378,71,Smoka,6,Trigun,8
+2379,71,Smoka,183,Whistle!,6
+2380,71,Smoka,548,Wonderful Days,8
+2381,72,james2k,6880,Deadman Wonderland,8
+2382,72,james2k,47,Akira,6
+2383,72,james2k,109,Bakuretsu Tenshi,7
+2384,72,james2k,889,Black Lagoon,9
+2385,72,james2k,1519,Black Lagoon: The Second Barrage,9
+2386,72,james2k,1,Cowboy Bebop,9
+2387,72,james2k,5,Cowboy Bebop: Tengoku no Tobira,9
+2388,72,james2k,226,Elfen Lied,9
+2389,72,james2k,376,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",9
+2390,72,james2k,121,Fullmetal Alchemist,10
+2391,72,james2k,430,Fullmetal Alchemist: The Conqueror of Shamballa,9
+2392,72,james2k,384,Gantz,7
+2393,72,james2k,132,GetBackers,6
+2394,72,james2k,267,Gungrave,9
+2395,72,james2k,134,Gunslinger Girl,9
+2396,72,james2k,270,Hellsing,8
+2397,72,james2k,431,Howl no Ugoku Shiro,8
+2398,72,james2k,185,Initial D First Stage,9
+2399,72,james2k,18,Initial D Fourth Stage,9
+2400,72,james2k,186,Initial D Second Stage,8
+2401,72,james2k,187,Initial D Third Stage,8
+2402,72,james2k,468,Innocence,9
+2403,72,james2k,570,Jin-Rou,7
+2404,72,james2k,617,Juubee Ninpuuchou,8
+2405,72,james2k,618,Juubee Ninpuuchou: Ryuuhougyoku-hen,8
+2406,72,james2k,153,Juuni Kokuki,10
+2407,72,james2k,33,Kenpuu Denki Berserk,10
+2408,72,james2k,2581,Kidou Senshi Gundam 00,8
+2409,72,james2k,6288,Kidou Senshi Gundam 00 Movie: A Wakening of the Trailblazer,8
+2410,72,james2k,3927,Kidou Senshi Gundam 00 Second Season,8
+2411,72,james2k,93,Kidou Senshi Gundam SEED,8
+2412,72,james2k,43,Koukaku Kidoutai,9
+2413,72,james2k,467,Koukaku Kidoutai: Stand Alone Complex,9
+2414,72,james2k,97,Last Exile,10
+2415,72,james2k,164,Mononoke Hime,9
+2416,72,james2k,340,Mutsu Enmei Ryuu Gaiden: Shura no Toki,8
+2417,72,james2k,30,Neon Genesis Evangelion,8
+2418,72,james2k,165,RahXephon,9
+2419,72,james2k,166,Samurai 7,9
+2420,72,james2k,205,Samurai Champloo,10
+2421,72,james2k,169,Shingetsutan Tsukihime,8
+2422,72,james2k,3086,Strait Jacket,8
+2423,72,james2k,174,Tenjou Tenge,9
+2424,72,james2k,760,Tenjou Tenge: The Past Chapter,6
+2425,72,james2k,448,Tenjou Tenge: The Ultimate Fight,8
+2426,72,james2k,523,Tonari no Totoro,9
+2427,72,james2k,6,Trigun,9
+2428,72,james2k,27,Trinity Blood,7
+2429,72,james2k,543,Vampire Hunter D (2000),9
+2430,72,james2k,202,Wolf's Rain,9
+2431,72,james2k,777,Hellsing Ultimate,9
+2432,72,james2k,45,Rurouni Kenshin: Meiji Kenkaku Romantan,9
+2433,72,james2k,419,Samurai Deeper Kyou,8
+2434,72,james2k,67,Basilisk: Kouga Ninpou Chou,9
+2435,72,james2k,68,Black Cat (TV),7
+2436,72,james2k,269,Bleach,9
+2437,72,james2k,150,Blood+,8
+2438,72,james2k,20,Naruto,6
+2439,72,james2k,1735,Naruto: Shippuuden,8
+2440,72,james2k,177,Tsubasa Chronicle,7
+2441,80,koalatees,102,Aishiteruze Baby★★,6
+2442,80,koalatees,1554,Asatte no Houkou.,5
+2443,80,koalatees,1214,Binbou Shimai Monogatari,6
+2444,80,koalatees,1222,Bokura ga Ita,6
+2445,80,koalatees,1689,Byousoku 5 Centimeter,8
+2446,80,koalatees,1535,Death Note,8
+2447,80,koalatees,122,Full Moon wo Sagashite,8
+2448,80,koalatees,121,Fullmetal Alchemist,10
+2449,80,koalatees,344,Futatsu no Spica,8
+2450,80,koalatees,16,Hachimitsu to Clover,10
+2451,80,koalatees,1142,Hachimitsu to Clover II,10
+2452,80,koalatees,644,Hachimitsu to Clover Specials,8
+2453,80,koalatees,587,Hanbun no Tsuki ga Noboru Sora,9
+2454,80,koalatees,934,Higurashi no Naku Koro ni,7
+2455,80,koalatees,475,Hotori: Tada Saiwai wo Koinegau,6
+2456,80,koalatees,147,Kimi ga Nozomu Eien,8
+2457,80,koalatees,580,Kogepan,6
+2458,80,koalatees,837,Kyou no 5 no 2,6
+2459,80,koalatees,4483,Mahoutsukai ni Taisetsu na Koto: Natsu no Sora,8
+2460,80,koalatees,4081,Natsume Yuujinchou,7
+2461,80,koalatees,1698,Nodame Cantabile,8
+2462,80,koalatees,4477,Nodame Cantabile: Paris-hen,8
+2463,80,koalatees,853,Ouran Koukou Host Club,9
+2464,80,koalatees,710,Rec,6
+2465,80,koalatees,64,Rozen Maiden,7
+2466,80,koalatees,789,Shinigami no Ballad.,6
+2467,80,koalatees,849,Suzumiya Haruhi no Yuuutsu,8
+2468,80,koalatees,4224,Toradora!,9
+2469,80,koalatees,3457,Vampire Knight,8
+2470,80,koalatees,4752,Vampire Knight Guilty,5
+2471,80,koalatees,28,Yakitate!! Japan,8
+2472,80,koalatees,101,Air,7
+2473,80,koalatees,68,Black Cat (TV),5
+2474,80,koalatees,269,Bleach,6
+2475,80,koalatees,61,D.N.Angel,4
+2476,80,koalatees,125,Futakoi,6
+2477,80,koalatees,456,Gokujou Seitokai,6
+2478,80,koalatees,144,Kanon,6
+2479,80,koalatees,251,Kyou kara Maou!,6
+2480,80,koalatees,457,Mushishi,8
+2481,80,koalatees,322,Paradise Kiss,7
+2482,80,koalatees,177,Tsubasa Chronicle,5
+2483,81,Ramp,52034,"""Oshi no Ko""",10
+2484,81,Ramp,37379,Chihayafuru 3,10
+2485,81,Ramp,15863,Ginga Kikoutai Majestic Prince,6
+2486,81,Ramp,12431,Uchuu Kyoudai,8
+2487,81,Ramp,12029,Uchuu Senkan Yamato 2199,10
+2488,81,Ramp,46095,Vivy: Fluorite Eye's Song,9
+2489,81,Ramp,299,.hack//Liminality,7
+2490,81,Ramp,48,.hack//Sign,8
+2491,81,Ramp,5525,07-Ghost,7
+2492,81,Ramp,48569,86 Part 2,9
+2493,81,Ramp,11759,Accel World,9
+2494,81,Ramp,22199,Akame ga Kill!,8
+2495,81,Ramp,25013,Akatsuki no Yona,8
+2496,81,Ramp,47,Akira,6
+2497,81,Ramp,22729,Aldnoah.Zero,8
+2498,81,Ramp,9919,Ao no Exorcist,8
+2499,81,Ramp,5081,Bakemonogatari,10
+2500,81,Ramp,68,Black Cat (TV),7
+2501,81,Ramp,4901,Black Lagoon: Roberta's Blood Trail,8
+2502,81,Ramp,1519,Black Lagoon: The Second Barrage,8
+2503,81,Ramp,269,Bleach,7
+2504,81,Ramp,41467,Bleach: Sennen Kessen-hen,8
+2505,81,Ramp,14345,Btooom!,7
+2506,81,Ramp,10163,C: The Money of Soul and Possibility Control,6
+2507,81,Ramp,4981,Casshern Sins,9
+2508,81,Ramp,10800,Chihayafuru,9
+2509,81,Ramp,14397,Chihayafuru 2,9
+2510,81,Ramp,1575,Code Geass: Hangyaku no Lelouch,9
+2511,81,Ramp,2904,Code Geass: Hangyaku no Lelouch R2,10
+2512,81,Ramp,1,Cowboy Bebop,9
+2513,81,Ramp,5,Cowboy Bebop: Tengoku no Tobira,8
+2514,81,Ramp,6747,Dance in the Vampire Bund,8
+2515,81,Ramp,8915,Dantalian no Shoka,7
+2516,81,Ramp,7338,Darker than Black: Kuro no Keiyakusha Gaiden,8
+2517,81,Ramp,6573,Darker than Black: Ryuusei no Gemini,8
+2518,81,Ramp,35849,Darling in the FranXX,8
+2519,81,Ramp,1535,Death Note,8
+2520,81,Ramp,790,Ergo Proxy,9
+2521,81,Ramp,6702,Fairy Tail,8
+2522,81,Ramp,22297,Fate/stay night: Unlimited Blade Works,8
+2523,81,Ramp,10087,Fate/Zero,9
+2524,81,Ramp,11741,Fate/Zero 2nd Season,10
+2525,81,Ramp,227,FLCL,8
+2526,81,Ramp,72,Full Metal Panic? Fumoffu,8
+2527,81,Ramp,121,Fullmetal Alchemist,8
+2528,81,Ramp,5114,Fullmetal Alchemist: Brotherhood,10
+2529,81,Ramp,239,Gankutsuou,10
+2530,81,Ramp,297,Grenadier: Hohoemi no Senshi,7
+2531,81,Ramp,3002,Gyakkyou Burai Kaiji: Ultimate Survivor,8
+2532,81,Ramp,263,Hajime no Ippo,9
+2533,81,Ramp,264,Hajime no Ippo: Champion Road,9
+2534,81,Ramp,15809,Hataraku Maou-sama!,9
+2535,81,Ramp,270,Hellsing,8
+2536,81,Ramp,136,Hunter x Hunter,9
+2537,81,Ramp,11061,Hunter x Hunter (2011),8
+2538,81,Ramp,138,Hunter x Hunter: Greed Island,9
+2539,81,Ramp,137,Hunter x Hunter: Original Video Animation,9
+2540,81,Ramp,12413,Jormungand,8
+2541,81,Ramp,13331,Jormungand: Perfect Order,9
+2542,81,Ramp,14467,K,7
+2543,81,Ramp,16668,Kakumeiki Valvrave,7
+2544,81,Ramp,2593,Kara no Kyoukai Movie 1: Fukan Fuukei,8
+2545,81,Ramp,3782,Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen),8
+2546,81,Ramp,4280,Kara no Kyoukai Movie 4: Garan no Dou,8
+2547,81,Ramp,4282,Kara no Kyoukai Movie 5: Mujun Rasen,9
+2548,81,Ramp,5204,Kara no Kyoukai Movie 6: Boukyaku Rokuon,7
+2549,81,Ramp,5205,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),10
+2550,81,Ramp,6954,Kara no Kyoukai Movie 8: Shuushou,6
+2551,81,Ramp,14807,Kara no Kyoukai Movie: Mirai Fukuin,8
+2552,81,Ramp,16035,Karneval (TV),7
+2553,81,Ramp,33,Kenpuu Denki Berserk,8
+2554,81,Ramp,2581,Kidou Senshi Gundam 00,8
+2555,81,Ramp,3927,Kidou Senshi Gundam 00 Second Season,8
+2556,81,Ramp,93,Kidou Senshi Gundam SEED,8
+2557,81,Ramp,18679,Kill la Kill,9
+2558,81,Ramp,47778,Kimetsu no Yaiba: Yuukaku-hen,9
+2559,81,Ramp,11887,Kokoro Connect,7
+2560,81,Ramp,237,Koukyoushihen Eureka Seven,8
+2561,81,Ramp,28623,Koutetsujou no Kabaneri,7
+2562,81,Ramp,97,Last Exile,9
+2563,81,Ramp,9756,Mahou Shoujo Madoka★Magica,10
+2564,81,Ramp,14833,Maoyuu Maou Yuusha,7
+2565,81,Ramp,4087,Michiko to Hatchin,7
+2566,81,Ramp,19,Monster,9
+2567,81,Ramp,8917,Mouretsu Pirates,8
+2568,81,Ramp,39535,Mushoku Tensei: Isekai Ittara Honki Dasu,10
+2569,81,Ramp,45576,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,10
+2570,81,Ramp,20,Naruto,8
+2571,81,Ramp,11597,Nisemonogatari,9
+2572,81,Ramp,272,Noir,9
+2573,81,Ramp,10049,Nurarihyon no Mago: Sennen Makyou,8
+2574,81,Ramp,30276,One Punch Man,9
+2575,81,Ramp,2966,Ookami to Koushinryou,7
+2576,81,Ramp,26243,Owari no Seraph,6
+2577,81,Ramp,50380,Paripi Koumei,9
+2578,81,Ramp,13601,Psycho-Pass,8
+2579,81,Ramp,14921,RDG: Red Data Girl,6
+2580,81,Ramp,13599,Robotics Notes,7
+2581,81,Ramp,28497,Rokka no Yuusha,7
+2582,81,Ramp,45,Rurouni Kenshin: Meiji Kenkaku Romantan,7
+2583,81,Ramp,46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,7
+2584,81,Ramp,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,10
+2585,81,Ramp,166,Samurai 7,8
+2586,81,Ramp,5940,Seiken no Blacksmith,6
+2587,81,Ramp,11751,Senki Zesshou Symphogear,7
+2588,81,Ramp,16498,Shingeki no Kyojin,10
+2589,81,Ramp,38524,Shingeki no Kyojin Season 3 Part 2,10
+2590,81,Ramp,48583,Shingeki no Kyojin: The Final Season Part 2,9
+2591,81,Ramp,13125,Shinsekai yori,10
+2592,81,Ramp,198,Speed Grapher,7
+2593,81,Ramp,50265,Spy x Family,8
+2594,81,Ramp,342,Starship Operators,7
+2595,81,Ramp,9253,Steins Gate,9
+2596,81,Ramp,16524,Suisei no Gargantia,7
+2597,81,Ramp,25,Sunabouzu,9
+2598,81,Ramp,11757,Sword Art Online,10
+2599,81,Ramp,2001,Tengen Toppa Gurren Lagann,8
+2600,81,Ramp,174,Tenjou Tenge,7
+2601,81,Ramp,12321,Thermae Romae,7
+2602,81,Ramp,6213,Toaru Kagaku no Railgun,8
+2603,81,Ramp,16049,Toaru Kagaku no Railgun S,8
+2604,81,Ramp,658,Touhai Densetsu Akagi: Yami ni Maiorita Tensai,7
+2605,81,Ramp,6,Trigun,9
+2606,81,Ramp,27,Trinity Blood,8
+2607,81,Ramp,177,Tsubasa Chronicle,8
+2608,81,Ramp,4066,Tytania,8
+2609,81,Ramp,17909,Uchouten Kazoku,9
+2610,81,Ramp,479,Ueki no Housoku,7
+2611,81,Ramp,44940,World Trigger 3rd Season,9
+2612,81,Ramp,861,xxxHOLiC,8
+2613,81,Ramp,793,xxxHOLiC Movie: Manatsu no Yoru no Yume,7
+2614,81,Ramp,6864,xxxHOLiC Rou,8
+2615,81,Ramp,4918,xxxHOLiC Shunmuki,7
+2616,81,Ramp,3091,xxxHOLiC◆Kei,8
+2617,81,Ramp,50346,Yofukashi no Uta,9
+2618,81,Ramp,14075,Zetsuen no Tempest,7
+2619,81,Ramp,101,Air,7
+2620,81,Ramp,5041,Guin Saga,8
+2621,81,Ramp,21,One Piece,9
+2622,81,Ramp,175,Tokyo Underground,6
+2623,81,Ramp,57,Beck,4
+2624,81,Ramp,10490,Blood-C,4
+2625,81,Ramp,478,Sousei no Aquarion,6
+2626,81,Ramp,29,Zipang,6
+2627,82,Achtor,37171,Asobi Asobase,8
+2628,82,Achtor,36296,Hinamatsuri (TV),9
+2629,82,Achtor,857,Air Gear,5
+2630,82,Achtor,9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,6
+2631,82,Achtor,1554,Asatte no Houkou.,9
+2632,82,Achtor,66,Azumanga Daiou The Animation,7
+2633,82,Achtor,2251,Baccano!,8
+2634,82,Achtor,22789,Barakamon,8
+2635,82,Achtor,1589,Bartender,8
+2636,82,Achtor,57,Beck,8
+2637,82,Achtor,1214,Binbou Shimai Monogatari,5
+2638,82,Achtor,889,Black Lagoon,8
+2639,82,Achtor,1519,Black Lagoon: The Second Barrage,8
+2640,82,Achtor,31043,Boku dake ga Inai Machi,8
+2641,82,Achtor,357,Bokusatsu Tenshi Dokuro-chan,6
+2642,82,Achtor,105,Boys Be...,7
+2643,82,Achtor,1536,Busou Renkin,7
+2644,82,Achtor,60,Chrno Crusade,8
+2645,82,Achtor,1575,Code Geass: Hangyaku no Lelouch,9
+2646,82,Achtor,2904,Code Geass: Hangyaku no Lelouch R2,9
+2647,82,Achtor,289,Comic Party,8
+2648,82,Achtor,707,Comic Party Specials,7
+2649,82,Achtor,1194,Coyote Ragtime Show,5
+2650,82,Achtor,31636,Dagashi Kashi,6
+2651,82,Achtor,933,Dai Mahou Touge,7
+2652,82,Achtor,11843,Danshi Koukousei no Nichijou,8
+2653,82,Achtor,35120,Devilman: Crybaby,9
+2654,82,Achtor,356,Fate/stay night,6
+2655,82,Achtor,227,FLCL,9
+2656,82,Achtor,71,Full Metal Panic!,8
+2657,82,Achtor,72,Full Metal Panic? Fumoffu,9
+2658,82,Achtor,121,Fullmetal Alchemist,9
+2659,82,Achtor,32948,Fune wo Amu,7
+2660,82,Achtor,344,Futatsu no Spica,6
+2661,82,Achtor,33731,Gabriel DropOut,6
+2662,82,Achtor,1858,Gakuen Utopia Manabi Straight!,7
+2663,82,Achtor,18229,Gatchaman Crowds,4
+2664,82,Achtor,23289,Gekkan Shoujo Nozaki-kun,8
+2665,82,Achtor,240,Genshiken,8
+2666,82,Achtor,32607,Gi(a)rlish Number,6
+2667,82,Achtor,16918,Gin no Saji,8
+2668,82,Achtor,19363,Gin no Saji 2nd Season,7
+2669,82,Achtor,14131,Girls & Panzer,1
+2670,82,Achtor,241,Girls Bravo: First Season,6
+2671,82,Achtor,487,Girls Bravo: Second Season,7
+2672,82,Achtor,268,Golden Boy,6
+2673,82,Achtor,245,Great Teacher Onizuka,6
+2674,82,Achtor,10793,Guilty Crown,7
+2675,82,Achtor,267,Gungrave,8
+2676,82,Achtor,10271,Gyakkyou Burai Kaiji: Hakairoku-hen,6
+2677,82,Achtor,16,Hachimitsu to Clover,10
+2678,82,Achtor,1142,Hachimitsu to Clover II,10
+2679,82,Achtor,9289,Hanasaku Iroha,9
+2680,82,Achtor,15809,Hataraku Maou-sama!,7
+2681,82,Achtor,27989,Hibike! Euphonium,8
+2682,82,Achtor,5630,Higashi no Eden,9
+2683,82,Achtor,934,Higurashi no Naku Koro ni,8
+2684,82,Achtor,20853,Hitsugi no Chaika,7
+2685,82,Achtor,811,I''s Pure,7
+2686,82,Achtor,248,Ichigo 100%,6
+2687,82,Achtor,981,Ichigo 100% OVA,5
+2688,82,Achtor,488,Ichigo Mashimaro,8
+2689,82,Achtor,637,Iketeru Futari,8
+2690,82,Achtor,257,Ikkitousen,5
+2691,82,Achtor,863,Joshikousei: Girl's High,5
+2692,82,Achtor,253,Jungle wa Itsumo Hare nochi Guu,8
+2693,82,Achtor,254,Jungle wa Itsumo Hare nochi Guu Deluxe,7
+2694,82,Achtor,255,Jungle wa Itsumo Hare nochi Guu Final,7
+2695,82,Achtor,5680,K-On!,7
+2696,82,Achtor,16668,Kakumeiki Valvrave,7
+2697,82,Achtor,489,Kamichu!,10
+2698,82,Achtor,1530,Kanon (2006),8
+2699,82,Achtor,2204,Karakuri Zoushi Ayatsuri Sakon,8
+2700,82,Achtor,145,Kareshi Kanojo no Jijou,9
+2701,82,Achtor,667,Kashimashi: Girl Meets Girl,8
+2702,82,Achtor,1454,Kemonozume,9
+2703,82,Achtor,33,Kenpuu Denki Berserk,7
+2704,82,Achtor,218,Kidou Senkan Nadesico,9
+2705,82,Achtor,93,Kidou Senshi Gundam SEED,7
+2706,82,Achtor,6336,Kidou Senshi Gundam Unicorn,7
+2707,82,Achtor,147,Kimi ga Nozomu Eien,8
+2708,82,Achtor,33206,Kobayashi-san Chi no Maid Dragon,5
+2709,82,Achtor,237,Koukyoushihen Eureka Seven,10
+2710,82,Achtor,4903,Kyou no 5 no 2 (TV),6
+2711,82,Achtor,19703,Kyousou Giga (TV),7
+2712,82,Achtor,97,Last Exile,8
+2713,82,Achtor,9834,Level E,5
+2714,82,Achtor,194,Macross Zero,7
+2715,82,Achtor,76,Mahou Shoujo Lyrical Nanoha,7
+2716,82,Achtor,77,Mahou Shoujo Lyrical Nanoha A's,9
+2717,82,Achtor,98,Mai-HiME,9
+2718,82,Achtor,99,Mai-Otome,6
+2719,82,Achtor,10721,Mawaru Penguindrum,7
+2720,82,Achtor,32438,Mayoiga,7
+2721,82,Achtor,32182,Mob Psycho 100,8
+2722,82,Achtor,323,Mousou Dairinin,9
+2723,82,Achtor,3001,Moyashimon,5
+2724,82,Achtor,1738,Muteki Kanban Musume,6
+2725,82,Achtor,1722,Nagasarete Airantou,6
+2726,82,Achtor,877,Nana,8
+2727,82,Achtor,30,Neon Genesis Evangelion,10
+2728,82,Achtor,1210,NHK ni Youkoso!,8
+2729,82,Achtor,584,Noein: Mou Hitori no Kimi e,8
+2730,82,Achtor,17549,Non Non Biyori,8
+2731,82,Achtor,30276,One Punch Man,7
+2732,82,Achtor,32729,Orange,4
+2733,82,Achtor,31174,Osomatsu-san,5
+2734,82,Achtor,853,Ouran Koukou Host Club,8
+2735,82,Achtor,322,Paradise Kiss,7
+2736,82,Achtor,1538,Pumpkin Scissors,4
+2737,82,Achtor,208,R.O.D: Read or Die,9
+2738,82,Achtor,209,R.O.D: The TV,8
+2739,82,Achtor,165,RahXephon,8
+2740,82,Achtor,31240,Re:Zero kara Hajimeru Isekai Seikatsu,8
+2741,82,Achtor,710,Rec,7
+2742,82,Achtor,1601,Red Garden,7
+2743,82,Achtor,941,Renkin San-kyuu Magical? Pokaan,7
+2744,82,Achtor,33255,Saiki Kusuo no Ψ-nan,8
+2745,82,Achtor,32542,Sakamoto desu ga?,6
+2746,82,Achtor,205,Samurai Champloo,9
+2747,82,Achtor,2476,School Days,8
+2748,82,Achtor,24,School Rumble,8
+2749,82,Achtor,846,School Rumble Ni Gakki,6
+2750,82,Achtor,32032,Seikaisuru Kado,7
+2751,82,Achtor,2104,Seto no Hanayome,8
+2752,82,Achtor,355,Shakugan no Shana,6
+2753,82,Achtor,25777,Shingeki no Kyojin Season 2,8
+2754,82,Achtor,169,Shingetsutan Tsukihime,6
+2755,82,Achtor,79,Shuffle!,6
+2756,82,Achtor,879,Simoun,9
+2757,82,Achtor,1965,Sola,7
+2758,82,Achtor,20057,Space☆Dandy,7
+2759,82,Achtor,9253,Steins Gate,8
+2760,82,Achtor,390,Suzuka,7
+2761,82,Achtor,849,Suzumiya Haruhi no Yuuutsu,9
+2762,82,Achtor,32093,Tanaka-kun wa Itsumo Kedaruge,7
+2763,82,Achtor,407,Tantei Gakuen Q,8
+2764,82,Achtor,15125,Teekyuu,6
+2765,82,Achtor,2001,Tengen Toppa Gurren Lagann,9
+2766,82,Achtor,18139,Tonari no Seki-kun,8
+2767,82,Achtor,658,Touhai Densetsu Akagi: Yami ni Maiorita Tensai,8
+2768,82,Achtor,17909,Uchouten Kazoku,7
+2769,82,Achtor,10162,Usagi Drop,8
+2770,82,Achtor,14813,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,6
+2771,82,Achtor,7785,Yojouhan Shinwa Taikei,9
+2772,82,Achtor,975,Yokohama Kaidashi Kikou,9
+2773,82,Achtor,32995,Yuri!!! on Ice,7
+2774,82,Achtor,878,Zegapain,9
+2775,82,Achtor,1195,Zero no Tsukaima,6
+2776,82,Achtor,14075,Zetsuen no Tempest,7
+2777,82,Achtor,36563,Megalo Box,7
+2778,82,Achtor,12467,Nazo no Kanojo X,7
+2779,82,Achtor,10165,Nichijou,6
+2780,82,Achtor,13759,Sakura-sou no Pet na Kanojo,6
+2781,82,Achtor,4224,Toradora!,5
+2782,82,Achtor,32673,Udon no Kuni no Kiniro Kemari,6
+2783,82,Achtor,5081,Bakemonogatari,5
+2784,82,Achtor,31964,Boku no Hero Academia,7
+2785,82,Achtor,7791,K-On!!,6
+2786,82,Achtor,31798,Kiznaiver,4
+2787,82,Achtor,32949,Kuzu no Honkai,4
+2788,82,Achtor,229,Ninin ga Shinobuden,5
+2789,82,Achtor,34561,Re:Creators,4
+2790,82,Achtor,12883,Tsuritama,4
+2791,82,Achtor,516,Keroro Gunsou,8
+2792,83,jaames,889,Black Lagoon,9
+2793,83,jaames,21,One Piece,9
+2794,83,jaames,1,Cowboy Bebop,9
+2795,83,jaames,2759,Evangelion: 1.0 You Are (Not) Alone,9
+2796,83,jaames,3784,Evangelion: 2.0 You Can (Not) Advance,10
+2797,83,jaames,8074,Highschool of the Dead,8
+2798,83,jaames,28825,Himouto! Umaru-chan,7
+2799,83,jaames,914,Ike! Ina-chuu Takkyuu-bu,8
+2800,83,jaames,16774,Inferno Cop,10
+2801,83,jaames,30,Neon Genesis Evangelion,10
+2802,83,jaames,31,Neon Genesis Evangelion: Death & Rebirth,8
+2803,83,jaames,527,Pokemon,8
+2804,83,jaames,20159,Pokemon: The Origin,8
+2805,83,jaames,30240,Prison School,9
+2806,83,jaames,6675,Redline,9
+2807,83,jaames,20057,Space☆Dandy,8
+2808,83,jaames,2001,Tengen Toppa Gurren Lagann,9
+2809,88,wicked2k,12365,Bakuman. 3rd Season,8
+2810,88,wicked2k,269,Bleach,9
+2811,88,wicked2k,1536,Busou Renkin,8
+2812,88,wicked2k,48997,Fantasy Bishoujo Juniku Ojisan to,6
+2813,88,wicked2k,49220,Isekai Ojisan,9
+2814,88,wicked2k,50220,Isekai Shoukan wa Nidome desu,5
+2815,88,wicked2k,1606,Kekkaishi,7
+2816,88,wicked2k,41103,Koi to Yobu ni wa Kimochi Warui,6
+2817,88,wicked2k,851,Kyou kara Ore wa!!,9
+2818,88,wicked2k,48239,Leadale no Daichi nite,6
+2819,88,wicked2k,14833,Maoyuu Maou Yuusha,5
+2820,88,wicked2k,11597,Nisemonogatari,7
+2821,88,wicked2k,21,One Piece,10
+2822,88,wicked2k,50461,Otome Game Sekai wa Mob ni Kibishii Sekai desu,5
+2823,88,wicked2k,40834,Ousama Ranking,10
+2824,88,wicked2k,13601,Psycho-Pass,6
+2825,88,wicked2k,6114,Rainbow: Nisha Rokubou no Shichinin,10
+2826,88,wicked2k,48363,RPG Fudousan,4
+2827,88,wicked2k,48414,Sabikui Bisco,6
+2828,88,wicked2k,582,Sexy Commando Gaiden: Sugoi yo!! Masaru-san,6
+2829,88,wicked2k,48415,"Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",4
+2830,88,wicked2k,51098,Shinobi no Ittoki,5
+2831,88,wicked2k,39551,Tensei shitara Slime Datta Ken 2nd Season,7
+2832,88,wicked2k,1860,Tokyo Majin Gakuen Kenpucho: Tou,8
+2833,88,wicked2k,52305,Tomo-chan wa Onnanoko!,7
+2834,88,wicked2k,12431,Uchuu Kyoudai,9
+2835,88,wicked2k,156,X,8
+2836,88,wicked2k,1562,Yamato Nadeshiko Shichihenge♥,8
+2837,88,wicked2k,41380,100-man no Inochi no Ue ni Ore wa Tatteiru,7
+2838,88,wicked2k,44881,100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season,7
+2839,88,wicked2k,38101,5-toubun no Hanayome,7
+2840,88,wicked2k,39783,5-toubun no Hanayome ∬,7
+2841,88,wicked2k,48548,5-toubun no Hanayome Movie,7
+2842,88,wicked2k,38735,7 Seeds,7
+2843,88,wicked2k,40602,7 Seeds 2nd Season,7
+2844,88,wicked2k,41457,,9
+2845,88,wicked2k,48569,86 Part 2,10
+2846,88,wicked2k,1292,Afro Samurai,8
+2847,88,wicked2k,37403,Ahiru no Sora,8
+2848,88,wicked2k,53,Ai Yori Aoshi,9
+2849,88,wicked2k,394,Ai Yori Aoshi: Enishi,8
+2850,88,wicked2k,101,Air,9
+2851,88,wicked2k,230,Air Master,7
+2852,88,wicked2k,713,Air Movie,8
+2853,88,wicked2k,25013,Akatsuki no Yona,5
+2854,88,wicked2k,47,Akira,8
+2855,88,wicked2k,591,Amaenaide yo!!,5
+2856,88,wicked2k,1223,Ame to Shoujo to Watashi no Tegami,2
+2857,88,wicked2k,35834,Angolmois: Genkou Kassenki,8
+2858,88,wicked2k,9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,8
+2859,88,wicked2k,49052,Ao Ashi,9
+2860,88,wicked2k,54,Appleseed (Movie),9
+2861,88,wicked2k,7647,Arakawa Under the Bridge,5
+2862,88,wicked2k,21185,Baby Steps,8
+2863,88,wicked2k,27663,Baby Steps 2nd Season,8
+2864,88,wicked2k,6347,Baka to Test to Shoukanjuu,6
+2865,88,wicked2k,8516,Baka to Test to Shoukanjuu Ni!,7
+2866,88,wicked2k,9471,Baka to Test to Shoukanjuu: Matsuri,6
+2867,88,wicked2k,5081,Bakemonogatari,9
+2868,88,wicked2k,34443,Baki,7
+2869,88,wicked2k,39555,Baki: Dai Raitaisai-hen,7
+2870,88,wicked2k,7674,Bakuman.,9
+2871,88,wicked2k,10030,Bakuman. 2nd Season,8
+2872,88,wicked2k,1589,Bartender,7
+2873,88,wicked2k,67,Basilisk: Kouga Ninpou Chou,7
+2874,88,wicked2k,404,Bastard!! Ankoku no Hakaishin,8
+2875,88,wicked2k,579,Battle Programmer Shirase,7
+2876,88,wicked2k,57,Beck,9
+2877,88,wicked2k,750,Binchou-tan,5
+2878,88,wicked2k,50248,Birdie Wing: Golf Girls' Story,6
+2879,88,wicked2k,34572,Black Clover,9
+2880,88,wicked2k,889,Black Lagoon,9
+2881,88,wicked2k,1519,Black Lagoon: The Second Barrage,9
+2882,88,wicked2k,1686,Bleach Movie 1: Memories of Nobody,5
+2883,88,wicked2k,405,Blood: The Last Vampire,8
+2884,88,wicked2k,49596,Blue Lock,10
+2885,88,wicked2k,31964,Boku no Hero Academia,8
+2886,88,wicked2k,1222,Bokura ga Ita,9
+2887,88,wicked2k,14345,Btooom!,7
+2888,88,wicked2k,44511,Chainsaw Man,10
+2889,88,wicked2k,59,Chobits,9
+2890,88,wicked2k,1470,City Hunter,9
+2891,88,wicked2k,1471,City Hunter 2,9
+2892,88,wicked2k,1818,Claymore,10
+2893,88,wicked2k,1,Cowboy Bebop,8
+2894,88,wicked2k,5941,Cross Game,9
+2895,88,wicked2k,234,Dan Doh!!,7
+2896,88,wicked2k,11843,Danshi Koukousei no Nichijou,7
+2897,88,wicked2k,974,Dead Leaves,9
+2898,88,wicked2k,292,Dear Boys,9
+2899,88,wicked2k,28223,Death Parade,7
+2900,88,wicked2k,43814,Deatte 5-byou de Battle,6
+2901,88,wicked2k,18689,Diamond no Ace,8
+2902,88,wicked2k,38731,Diamond no Ace: Act II,8
+2903,88,wicked2k,30230,Diamond no Ace: Second Season,8
+2904,88,wicked2k,37520,Dororo,9
+2905,88,wicked2k,38691,Dr. Stone,8
+2906,88,wicked2k,40852,Dr. Stone: Stone Wars,8
+2907,88,wicked2k,31339,Drifters,9
+2908,88,wicked2k,3230,Druaga no Tou: The Aegis of Uruk,6
+2909,88,wicked2k,4726,Druaga no Tou: The Sword of Uruk,6
+2910,88,wicked2k,39026,Dumbbell Nan Kilo Moteru?,6
+2911,88,wicked2k,503,Eien no Aselia,6
+2912,88,wicked2k,226,Elfen Lied,10
+2913,88,wicked2k,376,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",7
+2914,88,wicked2k,38671,Enen no Shouboutai,7
+2915,88,wicked2k,15,Eyeshield 21,9
+2916,88,wicked2k,356,Fate/stay night,10
+2917,88,wicked2k,10087,Fate/Zero,9
+2918,88,wicked2k,227,FLCL,6
+2919,88,wicked2k,120,Fruits Basket,9
+2920,88,wicked2k,71,Full Metal Panic!,10
+2921,88,wicked2k,73,Full Metal Panic! The Second Raid,10
+2922,88,wicked2k,72,Full Metal Panic? Fumoffu,10
+2923,88,wicked2k,121,Fullmetal Alchemist,10
+2924,88,wicked2k,5114,Fullmetal Alchemist: Brotherhood,10
+2925,88,wicked2k,908,Fullmetal Alchemist: Premium Collection,6
+2926,88,wicked2k,430,Fullmetal Alchemist: The Conqueror of Shamballa,5
+2927,88,wicked2k,41025,Fumetsu no Anata e,10
+2928,88,wicked2k,382,Futari Ecchi,6
+2929,88,wicked2k,50425,"Fuufu Ijou, Koibito Miman.",8
+2930,88,wicked2k,384,Gantz,9
+2931,88,wicked2k,240,Genshiken,9
+2932,88,wicked2k,132,GetBackers,9
+2933,88,wicked2k,34213,Getsuyoubi no Tawawa,7
+2934,88,wicked2k,49854,Getsuyoubi no Tawawa 2,7
+2935,88,wicked2k,16918,Gin no Saji,8
+2936,88,wicked2k,19363,Gin no Saji 2nd Season,9
+2937,88,wicked2k,241,Girls Bravo: First Season,7
+2938,88,wicked2k,487,Girls Bravo: Second Season,8
+2939,88,wicked2k,39463,Gleipnir,8
+2940,88,wicked2k,43692,Gokushufudou,8
+2941,88,wicked2k,268,Golden Boy,8
+2942,88,wicked2k,245,Great Teacher Onizuka,10
+2943,88,wicked2k,133,Green Green,9
+2944,88,wicked2k,881,Green Green OVA,6
+2945,88,wicked2k,651,Green Green Thirteen: Erolutions,6
+2946,88,wicked2k,246,Groove Adventure Rave,9
+2947,88,wicked2k,267,Gungrave,10
+2948,88,wicked2k,134,Gunslinger Girl,6
+2949,88,wicked2k,3002,Gyakkyou Burai Kaiji: Ultimate Survivor,8
+2950,88,wicked2k,16,Hachimitsu to Clover,7
+2951,88,wicked2k,1142,Hachimitsu to Clover II,8
+2952,88,wicked2k,644,Hachimitsu to Clover Specials,10
+2953,88,wicked2k,31859,Hai to Gensou no Grimgar,7
+2954,88,wicked2k,20583,Haikyuu!!,9
+2955,88,wicked2k,32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,9
+2956,88,wicked2k,40262,Haikyuu!! Riku vs. Kuu,6
+2957,88,wicked2k,28891,Haikyuu!! Second Season,9
+2958,88,wicked2k,38883,Haikyuu!! To the Top,9
+2959,88,wicked2k,40776,Haikyuu!! To the Top Part 2,10
+2960,88,wicked2k,263,Hajime no Ippo,10
+2961,88,wicked2k,264,Hajime no Ippo: Champion Road,10
+2962,88,wicked2k,265,Hajime no Ippo: Mashiba vs. Kimura,10
+2963,88,wicked2k,34403,Hajimete no Gal,5
+2964,88,wicked2k,413,Hametsu no Mars,2
+2965,88,wicked2k,587,Hanbun no Tsuki ga Noboru Sora,8
+2966,88,wicked2k,32648,Handa-kun,8
+2967,88,wicked2k,42940,Hanma Baki: Son of Ogre,8
+2968,88,wicked2k,42625,Heion Sedai no Idaten-tachi,10
+2969,88,wicked2k,5630,Higashi no Eden,7
+2970,88,wicked2k,40938,Hige wo Soru. Soshite Joshikousei wo Hirou.,7
+2971,88,wicked2k,135,Hikaru no Go,9
+2972,88,wicked2k,42897,Horimiya,8
+2973,88,wicked2k,256,Hoshi no Koe,8
+2974,88,wicked2k,578,Hotaru no Haka,9
+2975,88,wicked2k,17,Hungry Heart: Wild Striker,9
+2976,88,wicked2k,136,Hunter x Hunter,10
+2977,88,wicked2k,11061,Hunter x Hunter (2011),10
+2978,88,wicked2k,13271,Hunter x Hunter Movie 1: Phantom Rouge,7
+2979,88,wicked2k,19951,Hunter x Hunter Movie 2: The Last Mission,7
+2980,88,wicked2k,138,Hunter x Hunter: Greed Island,10
+2981,88,wicked2k,139,Hunter x Hunter: Greed Island Final,10
+2982,88,wicked2k,137,Hunter x Hunter: Original Video Animation,10
+2983,88,wicked2k,932,Ichigeki Sacchuu!! Hoihoi-san,4
+2984,88,wicked2k,488,Ichigo Mashimaro,6
+2985,88,wicked2k,40046,Id:Invaded,8
+2986,88,wicked2k,42361,"Ijiranaide, Nagatoro-san",7
+2987,88,wicked2k,50197,"Ijiranaide, Nagatoro-san 2nd Attack",8
+2988,88,wicked2k,914,Ike! Ina-chuu Takkyuu-bu,10
+2989,88,wicked2k,52830,"Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",6
+2990,88,wicked2k,38790,Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.,5
+2991,88,wicked2k,570,Jin-Rou,7
+2992,88,wicked2k,14719,JoJo no Kimyou na Bouken (TV),8
+2993,88,wicked2k,20899,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,7
+2994,88,wicked2k,665,JoJo no Kimyou na Bouken: Adventure,8
+2995,88,wicked2k,40748,Jujutsu Kaisen,10
+2996,88,wicked2k,48561,Jujutsu Kaisen 0 Movie,9
+2997,88,wicked2k,253,Jungle wa Itsumo Hare nochi Guu,7
+2998,88,wicked2k,254,Jungle wa Itsumo Hare nochi Guu Deluxe,7
+2999,88,wicked2k,255,Jungle wa Itsumo Hare nochi Guu Final,7
+3000,91,marvin_9martian,21,One Piece,10
+3001,91,marvin_9martian,3588,Soul Eater,7
+3002,91,marvin_9martian,49,Aa! Megami-sama!,6
+3003,91,marvin_9martian,281,Akane Maniax,4
+3004,91,marvin_9martian,57,Beck,9
+3005,91,marvin_9martian,762,Bleach: Memories in the Rain,5
+3006,91,marvin_9martian,59,Chobits,7
+3007,91,marvin_9martian,226,Elfen Lied,10
+3008,91,marvin_9martian,365,Fake,6
+3009,91,marvin_9martian,317,Final Fantasy VII: Advent Children,9
+3010,91,marvin_9martian,120,Fruits Basket,6
+3011,91,marvin_9martian,72,Full Metal Panic? Fumoffu,7
+3012,91,marvin_9martian,122,Full Moon wo Sagashite,10
+3013,91,marvin_9martian,121,Fullmetal Alchemist,10
+3014,91,marvin_9martian,430,Fullmetal Alchemist: The Conqueror of Shamballa,8
+3015,91,marvin_9martian,243,Gravitation,8
+3016,91,marvin_9martian,507,Gravitation: Lyrics of Love,7
+3017,91,marvin_9martian,747,Haru wo Daite Ita,8
+3018,91,marvin_9martian,270,Hellsing,4
+3019,91,marvin_9martian,934,Higurashi no Naku Koro ni,8
+3020,91,marvin_9martian,431,Howl no Ugoku Shiro,7
+3021,91,marvin_9martian,136,Hunter x Hunter,8
+3022,91,marvin_9martian,147,Kimi ga Nozomu Eien,10
+3023,91,marvin_9martian,412,Kore ga Watashi no Goshujinsama,5
+3024,91,marvin_9martian,43,Koukaku Kidoutai,8
+3025,91,marvin_9martian,149,Loveless,9
+3026,91,marvin_9martian,585,Mimi wo Sumaseba,7
+3027,91,marvin_9martian,19,Monster,10
+3028,91,marvin_9martian,877,Nana,7
+3029,91,marvin_9martian,20,Naruto,8
+3030,91,marvin_9martian,442,Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!,7
+3031,91,marvin_9martian,936,Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!,7
+3032,91,marvin_9martian,2144,Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panic Dattebayo!,4
+3033,91,marvin_9martian,761,Naruto: Akaki Yotsuba no Clover wo Sagase,6
+3034,91,marvin_9martian,594,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,5
+3035,91,marvin_9martian,466,One Piece: Taose! Kaizoku Ganzack,4
+3036,91,marvin_9martian,1094,One Piece: Umi no Heso no Daibouken-hen,4
+3037,91,marvin_9martian,322,Paradise Kiss,8
+3038,91,marvin_9martian,325,Peach Girl,6
+3039,91,marvin_9martian,528,Pokemon Movie 01: Mewtwo no Gyakushuu,7
+3040,91,marvin_9martian,1117,Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan,8
+3041,91,marvin_9martian,45,Rurouni Kenshin: Meiji Kenkaku Romantan,9
+3042,91,marvin_9martian,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,9
+3043,91,marvin_9martian,199,Sen to Chihiro no Kamikakushi,9
+3044,91,marvin_9martian,154,Shaman King,9
+3045,91,marvin_9martian,91,Shin Kidou Senki Gundam Wing: Endless Waltz,7
+3046,91,marvin_9martian,169,Shingetsutan Tsukihime,7
+3047,91,marvin_9martian,513,Tenkuu no Shiro Laputa,7
+3048,91,marvin_9martian,22,Tennis no Oujisama,8
+3049,91,marvin_9martian,815,Tennis no Oujisama Movie 1: Futari no Samurai - The First Game,4
+3050,91,marvin_9martian,814,Tennis no Oujisama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri,8
+3051,91,marvin_9martian,1190,Tennis no Oujisama: Sonzoku Yama no Hi,6
+3052,91,marvin_9martian,995,Tennis no Oujisama: Zenkoku Taikai-hen,9
+3053,91,marvin_9martian,4053,Tennis no Oujisama: Zenkoku Taikai-hen - Final,8
+3054,91,marvin_9martian,2752,Tennis no Oujisama: Zenkoku Taikai-hen - Semifinal,8
+3055,91,marvin_9martian,51,Tenshi Kinryouku,9
+3056,91,marvin_9martian,6,Trigun,7
+3057,91,marvin_9martian,7,Witch Hunter Robin,8
+3058,91,marvin_9martian,553,Yami no Matsuei,8
+3059,91,marvin_9martian,68,Black Cat (TV),8
+3060,91,marvin_9martian,5114,Fullmetal Alchemist: Brotherhood,7
+3061,91,marvin_9martian,4081,Natsume Yuujinchou,7
+3062,91,marvin_9martian,2112,Over Drive,8
+3063,91,marvin_9martian,48,.hack//Sign,8
+3064,91,marvin_9martian,50,Aa! Megami-sama! (TV),1
+3065,91,marvin_9martian,101,Air,5
+3066,91,marvin_9martian,285,Argento Soma,8
+3067,91,marvin_9martian,66,Azumanga Daiou The Animation,2
+3068,91,marvin_9martian,269,Bleach,6
+3069,91,marvin_9martian,232,Cardcaptor Sakura,5
+3070,91,marvin_9martian,1,Cowboy Bebop,7
+3071,91,marvin_9martian,63,DearS,5
+3072,91,marvin_9martian,790,Ergo Proxy,5
+3073,91,marvin_9martian,227,FLCL,5
+3074,91,marvin_9martian,71,Full Metal Panic!,6
+3075,91,marvin_9martian,267,Gungrave,5
+3076,91,marvin_9martian,1019,Honoo no Mirage,5
+3077,91,marvin_9martian,248,Ichigo 100%,4
+3078,91,marvin_9martian,249,InuYasha,5
+3079,91,marvin_9martian,142,Kamikaze Kaitou Jeanne,5
+3080,91,marvin_9martian,93,Kidou Senshi Gundam SEED,6
+3081,91,marvin_9martian,1735,Naruto: Shippuuden,8
+3082,91,marvin_9martian,30,Neon Genesis Evangelion,7
+3083,91,marvin_9martian,527,Pokemon,7
+3084,91,marvin_9martian,1565,Pokemon Diamond & Pearl,2
+3085,91,marvin_9martian,2744,Potemayo,6
+3086,91,marvin_9martian,238,Rekka no Honoo,5
+3087,91,marvin_9martian,339,Serial Experiments Lain,3
+3088,91,marvin_9martian,687,Tokyo Mew Mew,2
+3089,91,marvin_9martian,183,Whistle!,5
+3090,91,marvin_9martian,392,Yuu☆Yuu☆Hakusho,4
+3091,95,sorairo,9721,Aisai Nikki,4
+3092,95,sorairo,281,Akane Maniax,5
+3093,95,sorairo,47,Akira,7
+3094,95,sorairo,11111,Another,6
+3095,95,sorairo,11701,Another: The Other - Inga,6
+3096,95,sorairo,368,Bible Black,5
+3097,95,sorairo,1639,Boku no Pico,1
+3098,95,sorairo,2349,Bondage Game: Shinsou no Reijou-tachi,8
+3099,95,sorairo,6328,Bondage Game: Shinsou no Reijou-tachi - Shinsou no Dorei-tachi,6
+3100,95,sorairo,105,Boys Be...,5
+3101,95,sorairo,13807,Corpse Party: Missing Footage,1
+3102,95,sorairo,15037,Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou,2
+3103,95,sorairo,5177,Denpa-teki na Kanojo,7
+3104,95,sorairo,226,Elfen Lied,8
+3105,95,sorairo,376,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",7
+3106,95,sorairo,10851,Euphoria,7
+3107,95,sorairo,2136,Front Innocent: Mou Hitotsu no Lady Innocent,7
+3108,95,sorairo,384,Gantz,6
+3109,95,sorairo,395,Gantz 2nd Stage,7
+3110,95,sorairo,10417,Gyo,6
+3111,95,sorairo,413,Hametsu no Mars,10
+3112,95,sorairo,259,Happy☆Lesson,2
+3113,95,sorairo,260,Happy☆Lesson (TV),3
+3114,95,sorairo,270,Hellsing,6
+3115,95,sorairo,777,Hellsing Ultimate,9
+3116,95,sorairo,6904,Hellsing: Digest for Freaks,7
+3117,95,sorairo,7728,Hellsing: Psalm of the Darkness,7
+3118,95,sorairo,11077,Hellsing: The Dawn,7
+3119,95,sorairo,11617,High School DxD,7
+3120,95,sorairo,8074,Highschool of the Dead,8
+3121,95,sorairo,9515,Highschool of the Dead: Drifters of the Dead,6
+3122,95,sorairo,934,Higurashi no Naku Koro ni,9
+3123,95,sorairo,1889,Higurashi no Naku Koro ni Kai,10
+3124,95,sorairo,6064,Higurashi no Naku Koro ni Kai Specials,7
+3125,95,sorairo,16700,Higurashi no Naku Koro ni Kaku: Outbreak,8
+3126,95,sorairo,10491,Higurashi no Naku Koro ni Kira,7
+3127,95,sorairo,3652,Higurashi no Naku Koro ni Rei,8
+3128,95,sorairo,2899,Higurashi no Naku Koro ni Special: Nekogoroshi-hen,7
+3129,95,sorairo,7088,Ichiban Ushiro no Daimaou,6
+3130,95,sorairo,8465,Ichiban Ushiro no Daimaou Specials,5
+3131,95,sorairo,821,Initial D Battle Stage,7
+3132,95,sorairo,3931,Initial D Battle Stage 2,7
+3133,95,sorairo,822,Initial D Extra Stage,6
+3134,95,sorairo,5228,Initial D Extra Stage 2,6
+3135,95,sorairo,15059,Initial D Fifth Stage,7
+3136,95,sorairo,22507,Initial D Final Stage,9
+3137,95,sorairo,185,Initial D First Stage,9
+3138,95,sorairo,18,Initial D Fourth Stage,8
+3139,95,sorairo,186,Initial D Second Stage,8
+3140,95,sorairo,187,Initial D Third Stage,8
+3141,95,sorairo,358,"Iriya no Sora, UFO no Natsu",6
+3142,95,sorairo,22429,Itadaki! Seieki♥,8
+3143,95,sorairo,23479,Itadaki! Seieki♥ Special,7
+3144,95,sorairo,10003,Kago Shintarou Anime Sakuhin Shuu,1
+3145,95,sorairo,143,Kannazuki no Miko,5
+3146,95,sorairo,2868,Kazama Mana,5
+3147,95,sorairo,147,Kimi ga Nozomu Eien,9
+3148,95,sorairo,1856,Kimi ga Nozomu Eien: Ayu Mayu Gekijou,6
+3149,95,sorairo,9170,Kimi ga Nozomu Eien: Gundam Parody,3
+3150,95,sorairo,3318,Kimi ga Nozomu Eien: Next Season,8
+3151,95,sorairo,5042,Kiss x Sis,7
+3152,95,sorairo,7593,Kiss x Sis (TV),6
+3153,95,sorairo,8841,Kore wa Zombie desu ka?,5
+3154,95,sorairo,10790,Kore wa Zombie desu ka? of the Dead,6
+3155,95,sorairo,15437,"Kore wa Zombie desu ka? of the Dead: Hai, Minotake ni Attemasu",4
+3156,95,sorairo,10209,Kore wa Zombie desu ka? OVA,4
+3157,95,sorairo,16782,Kotonoha no Niwa,6
+3158,95,sorairo,13221,Kyonyuu Fantasy,7
+3159,95,sorairo,7590,Mayoi Neko Overrun!,5
+3160,95,sorairo,2869,Nanase Ren,6
+3161,95,sorairo,20,Naruto,8
+3162,95,sorairo,19613,New Initial D Movie: Legend 1 - Kakusei,8
+3163,95,sorairo,28881,New Initial D Movie: Legend 2 - Tousou,7
+3164,95,sorairo,30952,New Initial D Movie: Legend 3 - Mugen,7
+3165,95,sorairo,1212,Oban Star-Racers,7
+3166,95,sorairo,6324,Omamori Himari,5
+3167,95,sorairo,195,Onegai☆Teacher,7
+3168,95,sorairo,443,Onegai☆Teacher: Himitsu na Futari,8
+3169,95,sorairo,7474,"Onegai☆Teacher: Marie, Ai no Gekijou",1
+3170,95,sorairo,196,Onegai☆Twins,5
+3171,95,sorairo,524,Onegai☆Twins: Natsu wa Owaranai,6
+3172,95,sorairo,1943,Paprika,4
+3173,95,sorairo,4069,Pucca,7
+3174,95,sorairo,2993,Rosario to Vampire,6
+3175,95,sorairo,4214,Rosario to Vampire Capu2,6
+3176,95,sorairo,6500,Seikon no Qwaser,4
+3177,95,sorairo,339,Serial Experiments Lain,5
+3178,95,sorairo,154,Shaman King,9
+3179,95,sorairo,3861,Shaman King Specials,7
+3180,95,sorairo,7724,Shiki,7
+3181,95,sorairo,10083,Shiki Specials,5
+3182,95,sorairo,9328,Shoujo Senki Soul Eater,4
+3183,95,sorairo,7748,Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi,5
+3184,95,sorairo,5958,Sora no Otoshimono,8
+3185,95,sorairo,12783,Sora no Otoshimono Final: Eternal My Master,6
+3186,95,sorairo,8407,Sora no Otoshimono Forte,8
+3187,95,sorairo,7858,Sora no Otoshimono: Project Pink,6
+3188,95,sorairo,9790,Sora no Otoshimono: Tokeijikake no Angeloid,6
+3189,95,sorairo,855,Strawberry Panic,8
+3190,95,sorairo,22687,Terra Formars,6
+3191,95,sorairo,22689,Terra Formars: Bugs 2-hen,7
+3192,95,sorairo,4896,Umineko no Naku Koro ni,9
+3193,95,sorairo,2870,Yagami Yuu,4
+3194,95,sorairo,8861,"Yosuga no Sora: In Solitude, Where We Are Least Alone.",3
+3195,95,sorairo,550,Yu☆Gi☆Oh!,6
+3196,95,sorairo,2006,Yu☆Gi☆Oh! (Movie),4
+3197,95,sorairo,3972,Yu☆Gi☆Oh! 5D's,7
+3198,95,sorairo,5298,Yu☆Gi☆Oh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's,7
+3199,95,sorairo,481,Yu☆Gi☆Oh! Duel Monsters,8
+3200,95,sorairo,482,Yu☆Gi☆Oh! Duel Monsters GX,9
+3201,95,sorairo,5458,Yu☆Gi☆Oh! Duel Monsters: Battle City Special,8
+3202,95,sorairo,1894,Yu☆Gi☆Oh! Hikari no Pyramid,10
+3203,95,sorairo,6951,Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna,8
+3204,95,sorairo,28771,Yu☆Gi☆Oh! The Dark Side of Dimensions,9
+3205,95,sorairo,790,Ergo Proxy,6
+3206,95,sorairo,22535,Kiseijuu: Sei no Kakuritsu,5
+3207,95,sorairo,3342,Mnemosyne: Mnemosyne no Musume-tachi,5
+3208,95,sorairo,19,Monster,8
+3209,95,sorairo,1735,Naruto: Shippuuden,10
+3210,95,sorairo,5680,K-On!,1
+3211,95,sorairo,9756,Mahou Shoujo Madoka★Magica,1
+3212,95,sorairo,21,One Piece,1
+3213,95,sorairo,7079,Ookamikakushi,1
+3214,95,sorairo,527,Pokemon,1
+3215,95,sorairo,4719,Queen's Blade: Rurou no Senshi,3
+3216,95,sorairo,31430,Terra Formars: Revenge,1
