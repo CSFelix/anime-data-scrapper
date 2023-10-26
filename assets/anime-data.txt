@@ -1,0 +1,10 @@
+
+	*************************
+	** Anime Data Scrapper **
+	*************************
+
+- Source: My Anime List (MAL)
+- Kaggle Dataset: https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
+- Scrapper GitHub Repo: https://github.com/Sajid030/anime_dataset_generator
+- Jikan API: https://jikan.moe
+- Jikan API Documentation: https://docs.api.jikan.moe
